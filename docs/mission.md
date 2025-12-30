@@ -1,6 +1,6 @@
 # Mission
 
-## Meditsiin 4.0 Mission Statement
+## MEDITSIIN4.0 Mission Statement
 
 To support medical establishments in their digitalization journey by providing comprehensive solutions that enable remote work capabilities, streamline operations, and ensure continuity of care—all while respecting the high-stakes nature of the medical field.
 
@@ -8,15 +8,15 @@ To support medical establishments in their digitalization journey by providing c
 
 ## Core Purpose
 
-Meditsiin 4.0 exists to bridge the gap between the slow-moving digitalization of the medical field and the rapid evolution of remote work capabilities. We recognize that while many professionals have successfully transitioned to remote work, the medical field requires specialized support and careful implementation due to its critical nature.
+MEDITSIIN4.0 exists to bridge the gap between the slow-moving digitalization of the medical field and the rapid evolution of remote work capabilities. We recognize that while many professionals have successfully transitioned to remote work, the medical field requires specialized support and careful implementation due to its critical nature.
 
 **The Problem We Solve:**
 GP centers (Family Centers) in Estonia face significant digitalization challenges:
 - Outdated computer infrastructure
-- Lack of dedicated system administrators
-- Fragmented software solutions, often relying on Excel for critical functions like shift planning and vacation management
+- Fragmented software solutions for critical functions like shift planning and vacation management
 - Inability to envision or implement remote workforce solutions
 - Inefficient workforce planning without proper tools to manage nurse-to-doctor ratios and team composition
+- Lack of dedicated system administrators
 
 **Our purpose is to:**
 - **Accelerate digitalization** in medical establishments with confidence and security
@@ -25,12 +25,13 @@ GP centers (Family Centers) in Estonia face significant digitalization challenge
 - **Support healthcare continuity** by maintaining high standards during digital transformation
 - **Provide comprehensive IT support** where it's currently missing
 - **Modernize outdated infrastructure** with reliable, integrated solutions
+- **Attract young professionals** by making GP centers more appealing through modernization and modern work environments
 
 ---
 
 ## What We Do
 
-Meditsiin 4.0 provides a comprehensive suite of digitalization solutions for medical establishments, starting with GP centers (Family Centers) in Estonia.
+MEDITSIIN4.0 provides a comprehensive suite of digitalization solutions for medical establishments, starting with GP centers (Family Centers) in Estonia.
 
 ### Core Offerings
 
@@ -110,8 +111,9 @@ While there are no direct competitors offering our comprehensive solution, we co
 
 ## Business Model
 
-- **Pricing:** Subscription-based model with tiered offerings
-- **Per-seat pricing:** Differentiated pricing for doctors, nurses, and administrators
+- **Pricing:** Subscription-based model per workplace with tiered offerings
+- **Per-workplace pricing:** Flexible configuration - workplaces with computers or software-only (teams access)
+- **Billing:** Single unified bill for all workplaces and services
 - **Sales Approach:** 
   - Initial focus on direct sales
   - Long-term goal: partnerships and referrals

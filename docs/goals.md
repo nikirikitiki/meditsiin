@@ -110,7 +110,7 @@
 - Maintain competitive advantage through integrated, comprehensive solutions
 - Ensure scalability of all solutions
 - Successfully integrate with existing platforms (shortlist to be developed)
-- Build robust workforce planning tools that replace Excel-based solutions
+- Build robust workforce planning tools that replace outdated solutions
 
 ---
 

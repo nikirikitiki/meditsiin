@@ -2,7 +2,7 @@
 
 ## Overview
 
-Meditsiin 4.0 provides a comprehensive suite of digitalization solutions for GP centers (Family Centers) in Estonia. Our offerings are designed to enable remote work capabilities, modernize infrastructure, and streamline operations.
+MEDITSIIN4.0 provides a comprehensive suite of digitalization solutions for GP centers (Family Centers) in Estonia. Our offerings are designed to enable remote work capabilities, modernize infrastructure, and streamline operations.
 
 ---
 
@@ -129,7 +129,7 @@ Meditsiin 4.0 provides a comprehensive suite of digitalization solutions for GP 
   - Scheduling optimization
 
 **Value Proposition:**
-- Replaces Excel-based planning systems
+- Replaces outdated planning systems
 - Provides data-driven workforce optimization
 - Ensures proper staffing ratios and team composition
 - Enables efficient shift planning and leave management
@@ -267,7 +267,54 @@ Meditsiin 4.0 provides a comprehensive suite of digitalization solutions for GP 
 
 ---
 
-### 11. Flexible Staffing Pool (Long-long term: 3-5+ years)
+### 11. LLM Model for Patient Data Processing (Long-term: 2-3 years)
+
+**Description:** AI-powered large language model solution for working with patient data, focusing on formatting, structuring, and identifying important information that requires attention
+
+**Components:**
+- LLM model trained/fine-tuned for medical data processing
+- Patient data formatting and structuring tools
+- Intelligent information extraction from unstructured patient notes
+- Automated identification of critical information and red flags
+- Data normalization and standardization
+- Integration with existing medical record systems
+- Secure, GDPR-compliant data processing
+- Real-time processing capabilities
+
+**Value Proposition:**
+- Automates formatting and structuring of patient data
+- Identifies important information that doctors need to notice
+- Reduces time spent on data entry and organization
+- Improves data consistency and quality
+- Helps prevent missing critical patient information
+- Enables faster access to structured patient data
+- Supports clinical decision-making with highlighted important findings
+- Reduces administrative burden on medical staff
+
+**Key Features:**
+- Automatic formatting of patient notes into structured formats
+- Extraction of key medical information (symptoms, diagnoses, medications, vital signs)
+- Identification and flagging of important findings that require attention
+- Highlighting of abnormal values, concerning symptoms, or critical information
+- Data validation and consistency checks
+- Support for multiple languages (Estonian, English)
+- Integration with electronic health records (EHR) systems
+- Audit trail and compliance logging
+- Customizable alert thresholds and importance criteria
+
+**Use Cases:**
+- Formatting unstructured patient notes into standardized formats
+- Extracting and organizing information from patient consultations
+- Identifying critical information in patient histories
+- Flagging abnormal test results or concerning symptoms
+- Structuring patient data for better readability and analysis
+- Supporting clinical documentation and reporting
+
+**Target Users:** Doctors, nurses, medical administrators, medical centers (for data processing and clinical support)
+
+---
+
+### 12. Flexible Staffing Pool (Long-long term: 3-5+ years)
 
 **Description:** On-demand staffing solution with a pool of qualified medical professionals
 
@@ -286,7 +333,7 @@ Meditsiin 4.0 provides a comprehensive suite of digitalization solutions for GP 
 
 ---
 
-### 12. Proprietary Hardware Solutions (Long-term: 2-4 years)
+### 13. Proprietary Hardware Solutions (Long-term: 2-4 years)
 
 **Description:** Custom hardware solutions designed specifically for medical centers
 
@@ -307,21 +354,33 @@ Meditsiin 4.0 provides a comprehensive suite of digitalization solutions for GP 
 
 ## Pricing Model
 
-**Model:** Subscription-based with tiered offerings
+**Model:** Subscription-based per workplace with tiered offerings
 
-**Structure:** Per-seat pricing differentiated by role:
-- **Doctor** tier
-- **Nurse** tier
-- **Administrator** tier
+**Structure:** Per-workplace pricing with flexible configuration:
+- **Workplace with Computer** - Full package including hardware (laptop, headphone) and all software/services
+- **Workplace without Computer** - Software-only access (for remote workers using own devices)
 
-**Included in Subscription:**
+**Billing:** Single unified bill for all workplaces and services
+
+**Key Features:**
+- Customers choose number of workplaces and mix of types (with/without computer)
+- All charges on one invoice for easy accounting
+- Flexible configuration to match actual organizational needs
+- Supports both on-site and remote work models
+
+**Included in Subscription (All Workplaces):**
 - Access to all software tools (communication, productivity, workforce management)
 - IT infrastructure support and system administration
 - Medical software update management
 - Organizational structure & design services
 - Satisfaction tracking & workload monitoring
-- Hardware rental services (initially as middleman, may be separate or bundled)
 - Technical support
+
+**Additional for Workplaces with Computer:**
+- Hardware rental (laptop, headphone included)
+- Hardware maintenance and support
+
+**For detailed pricing information, see [Pricing Model](./pricing-model.md)**
 
 ---
 
@@ -363,7 +422,7 @@ Meditsiin 4.0 provides a comprehensive suite of digitalization solutions for GP 
 - Typically less than 50 employees
 - Currently using outdated infrastructure
 - Lacking dedicated IT support
-- Using fragmented or Excel-based solutions
+- Using fragmented or outdated solutions
 
 **Long-Term Expansion:** Finland
 - Strategic second market for geographic expansion
@@ -387,6 +446,7 @@ Meditsiin 4.0 provides a comprehensive suite of digitalization solutions for GP 
 ### Phase 2: Analytics & Patient Monitoring (2-3 years)
 - Analytics & Insights platform
 - Blood Pressure Reporting Solution
+- LLM Model for Patient Data Processing
 
 ### Phase 3: Proprietary Hardware (2-4 years)
 - Transition from middleman model to owning proprietary hardware solutions
@@ -407,12 +467,13 @@ Meditsiin 4.0 provides a comprehensive suite of digitalization solutions for GP 
 **For GP Centers:**
 - Modernize outdated infrastructure
 - Enable remote work capabilities
-- Replace Excel-based planning with professional tools
+- Replace outdated planning with professional tools
 - Access professional IT support
 - Streamline operations with integrated solutions
 - Optimize organizational structure despite professional shortages
 - Track and improve patient satisfaction
 - Monitor and prevent staff overwhelm
+- Attract young professionals by making the workplace more appealing through modernization and modern work environments
 
 **For Medical Professionals:**
 - Work flexibility and freedom
