@@ -94,7 +94,7 @@
       "title": "Meie visioon",
       "text": "Kõik meditsiinitöötajad on võimelis töödata digiajastu vabadusega ja paindlikkusega, säilitades kõrgeima patsienditeenindus kvaliteedi.",
       "aspirations": {
-        "title": "Pikaajalised eesmärgid",
+        "title": "Meie eesmärgid",
         "flexibility": {
           "label": "Meditsiinitöötajatel on paindlikkus:",
           "text": "Arstid ja meditsiinitöötajad saavad vajadusel teha kaugtööd, ilma et patsienditeenindus või toimimise efektiivsust kahjustust."
@@ -305,7 +305,7 @@
       },
       "value": {
         "title": "Väärtuspakkumine",
-        "item1": "Asendab Excelil põhinevad planeerimissüsteemid",
+        "item1": "Asendab vananenud planeerimissüsteemid",
         "item2": "Pakkub andmepõhist tööjõu optimeerimist",
         "item3": "Tagab õige personalisuhte ja meeskonna koosseisu"
       }

@@ -32,11 +32,11 @@
     "valueProp": {
       "title": "Why MEDITSIIN4.0?",
       "modernize": {
-        "title": "We Modernize Infrastructure",
+        "title": "Modernize Infrastructure",
         "text": "We replace outdated computers."
       },
       "remoteWork": {
-        "title": "We Enable Remote Work",
+        "title": "Enable Remote Work",
         "text": "We give medical professionals the freedom to work from home."
       },
       "itSupport": {
@@ -44,7 +44,7 @@
         "text": "Always available IT support."
       },
       "streamline": {
-        "title": "We Optimize Operations",
+        "title": "Operations Optimization",
         "text": "We provide workforce management tools."
       }
     },
@@ -94,7 +94,7 @@
       "title": "Our Vision",
       "text": "All medical professionals are capable of working with the freedom and flexibility of the digital age, while maintaining the highest quality of patient care.",
       "aspirations": {
-        "title": "Long-Term Aspirations",
+        "title": "Our Aspirations",
         "flexibility": {
           "label": "Medical professionals have flexibility:",
           "text": "Doctors and medical staff can work remotely when needed, without compromising patient care or operational efficiency."
@@ -305,7 +305,7 @@
       },
       "value": {
         "title": "Value Proposition",
-        "item1": "We replace Excel-based planning systems",
+        "item1": "We replace outdated planning systems",
         "item2": "We provide data-driven workforce optimization",
         "item3": "We ensure proper staffing ratios and team composition"
       }
