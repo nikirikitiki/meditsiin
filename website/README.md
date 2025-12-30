@@ -1,6 +1,6 @@
-# Meditsiin 4.0 Website
+# MEDITSIIN4.0 Website
 
-Simple HTML/CSS/JS website for Meditsiin 4.0, designed for GitHub Pages deployment.
+Simple HTML/CSS/JS website for MEDITSIIN4.0, designed for GitHub Pages deployment.
 
 ## Structure
 
@@ -9,7 +9,6 @@ website/
 ├── index.html          # Homepage
 ├── about.html          # About/Mission/Vision page
 ├── offerings.html      # Services/Offerings page
-├── contact.html        # Contact/Sales page
 ├── css/
 │   ├── style.css       # Main stylesheet
 │   └── responsive.css  # Mobile responsiveness
@@ -40,24 +39,45 @@ website/
 
 ## Local Development
 
-Simply open `index.html` in a web browser, or use a local server:
+**Important:** You must use a local HTTP server to test the website. Opening HTML files directly (`file://`) will cause CORS errors because the language translation files need to be loaded via HTTP.
 
+### Option 1: Python Server (Recommended)
 ```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js (http-server)
-npx http-server
-
+cd website
+python3 -m http.server 8000
 # Then visit http://localhost:8000
 ```
+
+### Option 2: Use the provided server script
+```bash
+cd website
+python3 server.py
+# Then visit http://localhost:8000
+```
+
+### Option 3: Node.js (http-server)
+```bash
+cd website
+npx http-server -p 8000
+# Then visit http://localhost:8000
+```
+
+## Multi-Language Support
+
+The website supports three languages:
+- **Estonian (ET)** - Default language
+- **Russian (RU)**
+- **English (EN)**
+
+Language is auto-detected from browser settings, and users can switch languages using the language switcher in the navigation.
+
+**Note:** The language switcher will work perfectly on GitHub Pages. The CORS error only occurs when opening files directly from the file system - use a local server for testing.
 
 ## Customization
 
 - Update colors in `css/style.css` (CSS variables in `:root`)
 - Modify content in HTML files
 - Add images to `assets/images/`
-- Update contact form action in `contact.html` (currently shows success message)
 
 ## Browser Support
 

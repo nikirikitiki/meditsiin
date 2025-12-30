@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="MEDITSIIN4.0 Sales Pitch - Digitalization solutions for Estonian GP centers">
+    <title>Sales Pitch - MEDITSIIN4.0</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <style>
+        .sales-section {
+            padding: 4rem 0;
+        }
+        .sales-section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            color: var(--primary-color);
+            text-align: center;
+        }
+        .sales-section h3 {
+            font-size: 1.75rem;
+            margin-bottom: 1.5rem;
+            color: var(--text-dark);
+            margin-top: 3rem;
+        }
+        .sales-section h3:first-of-type {
+            margin-top: 0;
+        }
+        .sales-point {
+            background: white;
+            padding: 2rem;
+            border-radius: 0.5rem;
+            box-shadow: var(--shadow);
+            margin-bottom: 1.5rem;
+        }
+        .sales-point h4 {
+            font-size: 1.25rem;
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+        }
+        .sales-point ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        .sales-point ul li {
+            padding: 0.5rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        .sales-point ul li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--secondary-color);
+            font-weight: bold;
+        }
+        .highlight-box {
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+            color: white;
+            padding: 3rem;
+            border-radius: 0.5rem;
+            text-align: center;
+            margin: 3rem 0;
+        }
+        .highlight-box h3 {
+            color: white;
+            margin-bottom: 1rem;
+        }
+        .highlight-box p {
+            font-size: 1.25rem;
+            margin: 0;
+        }
+        .problem-solution {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+        .problem-box, .solution-box {
+            padding: 2rem;
+            border-radius: 0.5rem;
+        }
+        .problem-box {
+            background: #fee2e2;
+            border-left: 4px solid #dc2626;
+        }
+        .solution-box {
+            background: #d1fae5;
+            border-left: 4px solid var(--secondary-color);
+        }
+        .problem-box h4, .solution-box h4 {
+            margin-bottom: 1rem;
+            font-size: 1.25rem;
+        }
+        .problem-box h4 {
+            color: #991b1b;
+        }
+        .solution-box h4 {
+            color: #065f46;
+        }
+        @media (max-width: 768px) {
+            .problem-solution {
+                grid-template-columns: 1fr;
+            }
+            .sales-section h2 {
+                font-size: 2rem;
+            }
+            .sales-section h3 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-wrapper">
+                <a href="index.html" class="logo">MEDITSIIN4.0</a>
+                <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="offerings.html">Offerings</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="sales.html" class="active">Sales Pitch</a></li>
+                </ul>
+                <div class="nav-right">
+                    <div class="lang-switcher">
+                        <button class="lang-btn" data-lang="et" title="Eesti">ET</button>
+                        <button class="lang-btn" data-lang="ru" title="Русский">RU</button>
+                        <button class="lang-btn active" data-lang="en" title="English">EN</button>
+                    </div>
+                    <a href="settings.html" class="settings-icon" title="Settings" aria-label="Settings">
+                        <svg width="18" height="18" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M10 12.5C11.3807 12.5 12.5 11.3807 12.5 10C12.5 8.61929 11.3807 7.5 10 7.5C8.61929 7.5 7.5 8.61929 7.5 10C7.5 11.3807 8.61929 12.5 10 12.5Z" stroke="currentColor" stroke-width="1.5"/>
+                            <path d="M16.25 10.625L14.5833 14.1667L11.0417 15.8333C10.7083 15.9167 10.4167 16.0833 10.2083 16.3333L7.66667 18.875L4.125 15.3333C3.91667 15.0833 3.625 14.9167 3.29167 14.8333L-0.25 13.1667L-1.91667 9.625C-2 9.29167 -2 8.95833 -1.91667 8.625L-0.25 5.08333L3.29167 3.41667C3.625 3.33333 3.91667 3.16667 4.125 2.91667L7.66667 0.375L10.2083 2.91667C10.4167 3.16667 10.7083 3.33333 11.0417 3.41667L14.5833 5.08333L16.25 8.625C16.3333 8.95833 16.3333 9.29167 16.25 9.625V10.625Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1>Sales Pitch</h1>
+            <p>Digitalization Solutions for Estonian GP Centers</p>
+        </div>
+    </section>
+
+    <!-- Introduction -->
+    <section class="sales-section">
+        <div class="container">
+            <div class="content-block">
+                <h2>Transforming Estonian GP Centers Through Digitalization</h2>
+                <p style="font-size: 1.25rem; text-align: center; color: var(--text-light); max-width: 800px; margin: 0 auto 3rem;">
+                    MEDITSIIN4.0 provides comprehensive digitalization solutions designed to enable remote work, modernize infrastructure, and streamline operations for Family Centers in Estonia.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Problem & Solution -->
+    <section class="sales-section" style="background-color: var(--bg-light);">
+        <div class="container">
+            <h2>The Challenge & Our Solution</h2>
+            <div class="problem-solution">
+                <div class="problem-box">
+                    <h4>The Challenge</h4>
+                    <ul>
+                        <li>Outdated computer infrastructure</li>
+                        <li>Lack of dedicated system administrators</li>
+                        <li>Fragmented software solutions</li>
+                        <li>Reliance on Excel for critical functions</li>
+                        <li>Unable to implement remote workforce solutions</li>
+                        <li>Professional shortages affecting operations</li>
+                        <li>Poor social ratings and workload visibility</li>
+                    </ul>
+                </div>
+                <div class="solution-box">
+                    <h4>Our Solution</h4>
+                    <ul>
+                        <li>Modern hardware and IT infrastructure</li>
+                        <li>Professional system administration services</li>
+                        <li>Integrated digitalization platform</li>
+                        <li>Professional workforce management tools</li>
+                        <li>Enable remote work capabilities</li>
+                        <li>Organizational structure optimization</li>
+                        <li>Satisfaction tracking and workload monitoring</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Core Offerings -->
+    <section class="sales-section">
+        <div class="container">
+            <h2>Our Core Offerings</h2>
+            
+            <div class="sales-point">
+                <h4>1. Hardware Solutions</h4>
+                <p>Essential hardware equipment for remote medical work including laptops, computing devices, and communication equipment.</p>
+            </div>
+
+            <div class="sales-point">
+                <h4>2. IT Infrastructure & Support</h4>
+                <p>Professional system administration and IT infrastructure management. We address the critical gap of non-existent sysadmins in GP centers.</p>
+                <ul>
+                    <li>24/7 support for critical medical operations</li>
+                    <li>Integration with existing medical software systems</li>
+                    <li>Reliable, secure IT infrastructure</li>
+                </ul>
+            </div>
+
+            <div class="sales-point">
+                <h4>3. Medical Software Update Management</h4>
+                <p>Proactive management and updating of medical sector-specific software to ensure latest versions are available and installed.</p>
+                <ul>
+                    <li>Automated monitoring of software updates</li>
+                    <li>Planned update schedules around medical center operations</li>
+                    <li>Testing and validation before deployment</li>
+                    <li>Reduces security risks from outdated software</li>
+                </ul>
+            </div>
+
+            <div class="sales-point">
+                <h4>4. Communication Tools</h4>
+                <p>Secure, GDPR-compliant communication platforms for team and patient interactions.</p>
+                <ul>
+                    <li>Internal chat services</li>
+                    <li>Call services for patients and teams</li>
+                    <li>Email services</li>
+                    <li>Support for remote and hybrid work models</li>
+                </ul>
+            </div>
+
+            <div class="sales-point">
+                <h4>5. Productivity Tools</h4>
+                <p>Office suite and collaboration tools that replace fragmented software solutions.</p>
+                <ul>
+                    <li>Seamless document sharing and collaboration</li>
+                    <li>Document management</li>
+                    <li>Remote work workflow support</li>
+                </ul>
+            </div>
+
+            <div class="sales-point">
+                <h4>6. Workforce Organization Tools</h4>
+                <p>Comprehensive workforce planning and management system replacing Excel-based planning.</p>
+                <ul>
+                    <li>Shift planning and scheduling</li>
+                    <li>Vacation and sick-leave management</li>
+                    <li>Nurse-to-doctor ratio optimization</li>
+                    <li>Real-time visibility into team composition</li>
+                </ul>
+            </div>
+
+            <div class="sales-point">
+                <h4>7. Organizational Structure & Design</h4>
+                <p>Strategic organizational structure design for medical centers facing professional shortages.</p>
+                <ul>
+                    <li>Work planning optimization for limited resources</li>
+                    <li>Role definition and responsibility mapping</li>
+                    <li>Team structure recommendations</li>
+                    <li>Workflow design to maximize efficiency</li>
+                </ul>
+            </div>
+
+            <div class="sales-point">
+                <h4>8. Satisfaction Tracking & Workload Monitoring</h4>
+                <p>Comprehensive system for tracking patient satisfaction and monitoring workload to prevent overwhelm.</p>
+                <ul>
+                    <li>Patient satisfaction tracking and analytics</li>
+                    <li>Social rating monitoring and management</li>
+                    <li>Real-time workload visibility and alerts</li>
+                    <li>Overwhelm prevention and early warning systems</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Value Proposition -->
+    <section class="sales-section" style="background-color: var(--bg-light);">
+        <div class="container">
+            <h2>Why Choose MEDITSIIN4.0?</h2>
+            
+            <div class="highlight-box">
+                <h3>Comprehensive Solution</h3>
+                <p>We provide an integrated platform combining hardware, IT services, communication, and workforce management—not fragmented services.</p>
+            </div>
+
+            <div class="sales-point">
+                <h4>For GP Centers</h4>
+                <ul>
+                    <li>Modernize outdated infrastructure</li>
+                    <li>Enable remote work capabilities</li>
+                    <li>Replace Excel-based planning with professional tools</li>
+                    <li>Access professional IT support where it was previously unavailable</li>
+                    <li>Streamline operations with integrated solutions</li>
+                    <li>Optimize organizational structure despite professional shortages</li>
+                    <li>Track and improve patient satisfaction</li>
+                    <li>Monitor and prevent staff overwhelm</li>
+                </ul>
+            </div>
+
+            <div class="sales-point">
+                <h4>For Medical Professionals</h4>
+                <ul>
+                    <li>Work flexibility and freedom to work remotely when appropriate</li>
+                    <li>Modern, reliable tools</li>
+                    <li>Better work-life balance</li>
+                    <li>Professional IT support</li>
+                    <li>Workload visibility and protection from overwhelm</li>
+                </ul>
+            </div>
+
+            <div class="sales-point">
+                <h4>Our Competitive Advantage</h4>
+                <ul>
+                    <li>Novel, integrated approach combining all necessary services</li>
+                    <li>Deep understanding of medical field requirements</li>
+                    <li>Focus on enabling remote work specifically for medical professionals</li>
+                    <li>Comprehensive solution rather than fragmented services</li>
+                    <li>Designed specifically for Estonian Family Centers</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Our Commitment -->
+    <section class="sales-section">
+        <div class="container">
+            <h2>Our Commitment</h2>
+            
+            <div class="sales-point">
+                <h4>Patient Safety First</h4>
+                <p>All our solutions prioritize patient care and safety above all else.</p>
+            </div>
+
+            <div class="sales-point">
+                <h4>Reliability</h4>
+                <p>Providing robust, secure, and dependable tools that medical professionals can trust.</p>
+            </div>
+
+            <div class="sales-point">
+                <h4>Support</h4>
+                <p>Being a true partner in the digitalization journey, not just a vendor.</p>
+            </div>
+
+            <div class="sales-point">
+                <h4>Compliance</h4>
+                <p>Meeting all EU regulatory requirements, especially GDPR. Full compliance with medical data security requirements.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Next Steps -->
+    <section class="sales-section" style="background-color: var(--bg-light);">
+        <div class="container">
+            <div class="highlight-box">
+                <h3>Ready to Start Your Digitalization Journey?</h3>
+                <p style="margin-bottom: 2rem;">Let's discuss how MEDITSIIN4.0 can support your GP center</p>
+                <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                    <a href="offerings.html" class="btn btn-primary" style="background: white; color: var(--primary-color); border: 2px solid white;">Learn More</a>
+                    <a href="about.html" class="btn btn-primary" style="background: white; color: var(--primary-color); border: 2px solid white;">About Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>MEDITSIIN4.0</h3>
+                    <p>Digitalization solutions for GP centers in Estonia.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Navigation</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="offerings.html">Offerings</a></li>
+                        <li><a href="sales.html">Sales Pitch</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 MEDITSIIN4.0. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
+

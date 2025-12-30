@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Meditsiin 4.0 - Comprehensive digitalization solutions for GP centers in Estonia. Enable remote work, modernize infrastructure, and streamline operations.">
+    <meta name="description" content="MEDITSIIN4.0 - Comprehensive digitalization solutions for GP centers in Estonia. Enable remote work, modernize infrastructure, and streamline operations.">
     <meta name="keywords" content="medical digitalization, GP centers, healthcare IT, remote work, Estonia, family centers">
-    <title>Meditsiin 4.0 - Digitalization for Estonian GP Centers</title>
+    <title>MEDITSIIN4.0 - Digitalization for Estonian GP Centers</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
 </head>
@@ -14,18 +18,31 @@
     <nav class="navbar">
         <div class="container">
             <div class="nav-wrapper">
-                <a href="index.html" class="logo">Meditsiin 4.0</a>
+                <a href="index.html" class="logo">MEDITSIIN4.0</a>
                 <button class="mobile-menu-toggle" aria-label="Toggle menu">
                     <span></span>
                     <span></span>
                     <span></span>
                 </button>
                 <ul class="nav-menu">
-                    <li><a href="index.html" class="active">Home</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="offerings.html">Offerings</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="index.html" class="active" data-i18n="nav.home">Home</a></li>
+                    <li><a href="offerings.html" data-i18n="nav.offerings">Offerings</a></li>
+                    <li><a href="about.html" data-i18n="nav.about">About</a></li>
+                    <li><a href="sales.html">Sales Pitch</a></li>
                 </ul>
+                <div class="nav-right">
+                    <div class="lang-switcher">
+                        <button class="lang-btn" data-lang="et" title="Eesti">ET</button>
+                        <button class="lang-btn" data-lang="ru" title="Русский">RU</button>
+                        <button class="lang-btn" data-lang="en" title="English">EN</button>
+                    </div>
+                    <a href="settings.html" class="settings-icon" title="Settings" aria-label="Settings">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M10 12.5C11.3807 12.5 12.5 11.3807 12.5 10C12.5 8.61929 11.3807 7.5 10 7.5C8.61929 7.5 7.5 8.61929 7.5 10C7.5 11.3807 8.61929 12.5 10 12.5Z" stroke="currentColor" stroke-width="1.5"/>
+                            <path d="M16.25 10.625L14.5833 14.1667L11.0417 15.8333C10.7083 15.9167 10.4167 16.0833 10.2083 16.3333L7.66667 18.875L4.125 15.3333C3.91667 15.0833 3.625 14.9167 3.29167 14.8333L-0.25 13.1667L-1.91667 9.625C-2 9.29167 -2 8.95833 -1.91667 8.625L-0.25 5.08333L3.29167 3.41667C3.625 3.33333 3.91667 3.16667 4.125 2.91667L7.66667 0.375L10.2083 2.91667C10.4167 3.16667 10.7083 3.33333 11.0417 3.41667L14.5833 5.08333L16.25 8.625C16.3333 8.95833 16.3333 9.29167 16.25 9.625V10.625Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </a>
+                </div>
             </div>
         </div>
     </nav>
@@ -34,11 +51,11 @@
     <section class="hero">
         <div class="container">
             <div class="hero-content">
-                <h1>Digitalization for Estonian GP Centers</h1>
-                <p class="hero-subtitle">Enable remote work capabilities, modernize infrastructure, and streamline operations with comprehensive digitalization solutions designed for medical professionals.</p>
+                <h1 data-i18n="home.hero.title">Digitalization for Estonian GP Centers</h1>
+                <p class="hero-subtitle" data-i18n="home.hero.subtitle">Enable remote work capabilities, modernize infrastructure, and streamline operations with comprehensive digitalization solutions designed for medical professionals.</p>
                 <div class="hero-cta">
-                    <a href="contact.html" class="btn btn-primary">Contact Us</a>
-                    <a href="offerings.html" class="btn btn-secondary">Learn More</a>
+                    <a href="offerings.html" class="btn btn-primary" data-i18n="common.learnMore">Learn More</a>
+                    <a href="offerings.html" class="btn btn-secondary" data-i18n="common.learnMore">Learn More</a>
                 </div>
             </div>
         </div>
@@ -47,27 +64,35 @@
     <!-- Value Proposition -->
     <section class="value-prop">
         <div class="container">
-            <h2>Why Meditsiin 4.0?</h2>
+            <h2 data-i18n="home.valueProp.title">Why MEDITSIIN4.0?</h2>
             <div class="value-grid">
                 <div class="value-card">
-                    <div class="value-icon">🏥</div>
-                    <h3>Modernize Infrastructure</h3>
-                    <p>Replace outdated computers and fragmented systems with integrated, reliable solutions.</p>
+                    <div class="value-icon">
+                        <img src="assets/images/90s-pc-desktop-style-01-03.jpg" alt="Modern Infrastructure" loading="lazy">
+                    </div>
+                    <h3 data-i18n="home.valueProp.modernize.title">Modernize Infrastructure</h3>
+                    <p data-i18n="home.valueProp.modernize.text">Replace outdated computers and fragmented systems with integrated, reliable solutions.</p>
                 </div>
                 <div class="value-card">
-                    <div class="value-icon">💻</div>
-                    <h3>Enable Remote Work</h3>
-                    <p>Give medical practitioners the freedom and flexibility to work from home when appropriate.</p>
+                    <div class="value-icon">
+                        <img src="assets/images/remote worker employee experience blog-640x380.jpg" alt="Remote Work" loading="lazy">
+                    </div>
+                    <h3 data-i18n="home.valueProp.remoteWork.title">Enable Remote Work</h3>
+                    <p data-i18n="home.valueProp.remoteWork.text">Give medical practitioners the freedom and flexibility to work from home when appropriate.</p>
                 </div>
                 <div class="value-card">
-                    <div class="value-icon">🔧</div>
-                    <h3>Professional IT Support</h3>
-                    <p>Access system administration services where they were previously unavailable or unaffordable.</p>
+                    <div class="value-icon">
+                        <img src="assets/images/support-it.jpeg" alt="IT Support" loading="lazy">
+                    </div>
+                    <h3 data-i18n="home.valueProp.itSupport.title">Professional IT Support</h3>
+                    <p data-i18n="home.valueProp.itSupport.text">Access system administration services where they were previously unavailable or unaffordable.</p>
                 </div>
                 <div class="value-card">
-                    <div class="value-icon">📊</div>
-                    <h3>Streamline Operations</h3>
-                    <p>Replace Excel-based planning with professional workforce management tools.</p>
+                    <div class="value-icon">
+                        <img src="assets/images/images.jpeg" alt="Streamline Operations" loading="lazy">
+                    </div>
+                    <h3 data-i18n="home.valueProp.streamline.title">Streamline Operations</h3>
+                    <p data-i18n="home.valueProp.streamline.text">Replace Excel-based planning with professional workforce management tools.</p>
                 </div>
             </div>
         </div>
@@ -76,24 +101,24 @@
     <!-- Problem Statement -->
     <section class="problem">
         <div class="container">
-            <h2>The Challenge</h2>
-            <p class="problem-intro">GP centers (Family Centers) in Estonia face significant digitalization challenges:</p>
+            <h2 data-i18n="home.problem.title">The Challenge</h2>
+            <p class="problem-intro" data-i18n="home.problem.intro">GP centers (Family Centers) in Estonia face significant digitalization challenges:</p>
             <div class="problem-list">
                 <div class="problem-item">
-                    <span class="problem-icon">⚠️</span>
-                    <p>Outdated computer infrastructure</p>
+                    <div class="problem-icon">!</div>
+                    <p data-i18n="home.problem.outdated">Outdated computer infrastructure</p>
                 </div>
                 <div class="problem-item">
-                    <span class="problem-icon">⚠️</span>
-                    <p>Lack of dedicated system administrators</p>
+                    <div class="problem-icon">!</div>
+                    <p data-i18n="home.problem.noSysadmin">Lack of dedicated system administrators</p>
                 </div>
                 <div class="problem-item">
-                    <span class="problem-icon">⚠️</span>
-                    <p>Fragmented software solutions, often relying on Excel for critical functions</p>
+                    <div class="problem-icon">!</div>
+                    <p data-i18n="home.problem.fragmented">Fragmented software solutions, often relying on Excel for critical functions</p>
                 </div>
                 <div class="problem-item">
-                    <span class="problem-icon">⚠️</span>
-                    <p>Inability to envision or implement remote workforce solutions</p>
+                    <div class="problem-icon">!</div>
+                    <p data-i18n="home.problem.remote">Inability to envision or implement remote workforce solutions</p>
                 </div>
             </div>
         </div>
@@ -102,53 +127,32 @@
     <!-- Core Offerings Preview -->
     <section class="offerings-preview">
         <div class="container">
-            <h2>Our Solutions</h2>
-            <p class="section-intro">Comprehensive digitalization services for GP centers</p>
+            <h2 data-i18n="home.solutions.title">Our Solutions</h2>
+            <p class="section-intro" data-i18n="home.solutions.intro">Comprehensive digitalization services for GP centers</p>
             <div class="offerings-grid">
                 <div class="offering-card">
-                    <h3>Hardware Solutions</h3>
-                    <p>Laptops, headphones, and essential hardware for remote medical work</p>
-                    <a href="offerings.html" class="card-link">Learn more →</a>
+                    <h3 data-i18n="home.solutions.hardware.title">Hardware Solutions</h3>
+                    <p data-i18n="home.solutions.hardware.text">Laptops, headphones, and essential hardware for remote medical work</p>
+                    <a href="offerings.html" class="card-link" data-i18n="common.learnMore">Learn more →</a>
                 </div>
                 <div class="offering-card">
-                    <h3>IT Infrastructure & Support</h3>
-                    <p>Professional system administration and IT infrastructure management</p>
-                    <a href="offerings.html" class="card-link">Learn more →</a>
+                    <h3 data-i18n="home.solutions.it.title">IT Infrastructure & Support</h3>
+                    <p data-i18n="home.solutions.it.text">Professional system administration and IT infrastructure management</p>
+                    <a href="offerings.html" class="card-link" data-i18n="common.learnMore">Learn more →</a>
                 </div>
                 <div class="offering-card">
-                    <h3>Communication Tools</h3>
-                    <p>Secure chat, call, and email services for teams and patients</p>
-                    <a href="offerings.html" class="card-link">Learn more →</a>
+                    <h3 data-i18n="home.solutions.communication.title">Communication Tools</h3>
+                    <p data-i18n="home.solutions.communication.text">Secure chat, call, and email services for teams and patients</p>
+                    <a href="offerings.html" class="card-link" data-i18n="common.learnMore">Learn more →</a>
                 </div>
                 <div class="offering-card">
-                    <h3>Workforce Organization</h3>
-                    <p>Shift planning, scheduling, and advanced workforce management</p>
-                    <a href="offerings.html" class="card-link">Learn more →</a>
+                    <h3 data-i18n="home.solutions.workforce.title">Workforce Organization</h3>
+                    <p data-i18n="home.solutions.workforce.text">Shift planning, scheduling, and advanced workforce management</p>
+                    <a href="offerings.html" class="card-link" data-i18n="common.learnMore">Learn more →</a>
                 </div>
             </div>
             <div class="section-cta">
-                <a href="offerings.html" class="btn btn-primary">View All Offerings</a>
-            </div>
-        </div>
-    </section>
-
-    <!-- Target Market -->
-    <section class="target-market">
-        <div class="container">
-            <h2>Designed for Estonian GP Centers</h2>
-            <div class="market-info">
-                <div class="market-item">
-                    <h3>Target</h3>
-                    <p>GP centers (Family Centers) in Estonia</p>
-                </div>
-                <div class="market-item">
-                    <h3>Size</h3>
-                    <p>Typically less than 50 employees</p>
-                </div>
-                <div class="market-item">
-                    <h3>Focus</h3>
-                    <p>Enable remote work and improve operational efficiency</p>
-                </div>
+                <a href="offerings.html" class="btn btn-primary" data-i18n="home.solutions.viewAll">View All Offerings</a>
             </div>
         </div>
     </section>
@@ -156,9 +160,9 @@
     <!-- CTA Section -->
     <section class="cta-section">
         <div class="container">
-            <h2>Ready to Modernize Your GP Center?</h2>
-            <p>Contact us to learn how Meditsiin 4.0 can support your digitalization journey</p>
-            <a href="contact.html" class="btn btn-primary btn-large">Get Started</a>
+            <h2 data-i18n="home.cta.title">Ready to Modernize Your GP Center?</h2>
+            <p data-i18n="home.cta.text">Learn how MEDITSIIN4.0 can support your digitalization journey</p>
+            <a href="offerings.html" class="btn btn-primary btn-large" data-i18n="common.viewOfferings">View Offerings</a>
         </div>
     </section>
 
@@ -167,33 +171,33 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section">
-                    <h3>Meditsiin 4.0</h3>
-                    <p>Comprehensive digitalization solutions for GP centers in Estonia.</p>
+                    <h3>MEDITSIIN4.0</h3>
+                    <p data-i18n="footer.description">Comprehensive digitalization solutions for GP centers in Estonia.</p>
                 </div>
                 <div class="footer-section">
-                    <h4>Navigation</h4>
+                    <h4 data-i18n="footer.navigation">Navigation</h4>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="offerings.html">Offerings</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+                        <li><a href="about.html" data-i18n="nav.about">About</a></li>
+                        <li><a href="offerings.html" data-i18n="nav.offerings">Offerings</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
-                    <h4>Resources</h4>
+                    <h4 data-i18n="footer.resources">Resources</h4>
                     <ul>
-                        <li><a href="../README.md">Documentation</a></li>
-                        <li><a href="../docs/vision.md">Vision</a></li>
-                        <li><a href="../docs/mission.md">Mission</a></li>
+                        <li><a href="../README.md" data-i18n="footer.documentation">Documentation</a></li>
+                        <li><a href="../docs/vision.md" data-i18n="footer.vision">Vision</a></li>
+                        <li><a href="../docs/mission.md" data-i18n="footer.mission">Mission</a></li>
                     </ul>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Meditsiin 4.0. All Rights Reserved.</p>
+                <p>&copy; 2025 MEDITSIIN4.0. <span data-i18n="common.allRightsReserved">All Rights Reserved.</span></p>
             </div>
         </div>
     </footer>
 
+    <script src="js/i18n.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>

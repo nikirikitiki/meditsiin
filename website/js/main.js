@@ -1,5 +1,49 @@
+// Apply saved font preference globally
+function applyFontPreference() {
+    const savedFont = localStorage.getItem('meditsiin4.0_font') || 'plus-jakarta';
+    document.body.classList.remove('font-inter', 'font-dm-sans', 'font-poppins', 'font-plus-jakarta', 'font-work-sans', 'font-system');
+    if (savedFont && savedFont !== 'system') {
+        document.body.classList.add(`font-${savedFont}`);
+    }
+    
+    // Update CSS variable for immediate effect
+    const fontFamilies = {
+        'inter': "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+        'dm-sans': "'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+        'poppins': "'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+        'plus-jakarta': "'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+        'work-sans': "'Work Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+        'system': "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+    };
+    
+    document.documentElement.style.setProperty('--font-family', fontFamilies[savedFont] || fontFamilies['plus-jakarta']);
+}
+
+// Apply saved color scheme preference globally
+function applyColorSchemePreference() {
+    const savedScheme = localStorage.getItem('meditsiin4.0_colorscheme') || 'navy';
+    document.documentElement.classList.remove(
+        'color-scheme-default',
+        'color-scheme-medical',
+        'color-scheme-navy',
+        'color-scheme-purple',
+        'color-scheme-teal',
+        'color-scheme-slate'
+    );
+    
+    // Navy is the default (already in :root), so no class needed
+    // Only apply class if it's not navy
+    if (savedScheme && savedScheme !== 'navy') {
+        document.documentElement.classList.add(`color-scheme-${savedScheme}`);
+    }
+    // If savedScheme is 'navy' or undefined, use default (no class needed)
+}
+
 // Mobile Menu Toggle
 document.addEventListener('DOMContentLoaded', function() {
+    // Apply preferences on page load
+    applyFontPreference();
+    applyColorSchemePreference();
     const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
     const navMenu = document.querySelector('.nav-menu');
 

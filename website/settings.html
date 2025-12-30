@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Settings for MEDITSIIN4.0 website - customize your experience">
+    <title>Settings - MEDITSIIN4.0</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-wrapper">
+                <a href="index.html" class="logo">MEDITSIIN4.0</a>
+                <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-menu">
+                    <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+                    <li><a href="offerings.html" data-i18n="nav.offerings">Offerings</a></li>
+                    <li><a href="about.html" data-i18n="nav.about">About</a></li>
+                    <li><a href="sales.html">Sales Pitch</a></li>
+                </ul>
+                <div class="nav-right">
+                    <div class="lang-switcher">
+                        <button class="lang-btn" data-lang="et" title="Eesti">ET</button>
+                        <button class="lang-btn" data-lang="ru" title="Русский">RU</button>
+                        <button class="lang-btn" data-lang="en" title="English">EN</button>
+                    </div>
+                    <a href="settings.html" class="settings-icon active" title="Settings" aria-label="Settings">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M10 12.5C11.3807 12.5 12.5 11.3807 12.5 10C12.5 8.61929 11.3807 7.5 10 7.5C8.61929 7.5 7.5 8.61929 7.5 10C7.5 11.3807 8.61929 12.5 10 12.5Z" stroke="currentColor" stroke-width="1.5"/>
+                            <path d="M16.25 10.625L14.5833 14.1667L11.0417 15.8333C10.7083 15.9167 10.4167 16.0833 10.2083 16.3333L7.66667 18.875L4.125 15.3333C3.91667 15.0833 3.625 14.9167 3.29167 14.8333L-0.25 13.1667L-1.91667 9.625C-2 9.29167 -2 8.95833 -1.91667 8.625L-0.25 5.08333L3.29167 3.41667C3.625 3.33333 3.91667 3.16667 4.125 2.91667L7.66667 0.375L10.2083 2.91667C10.4167 3.16667 10.7083 3.33333 11.0417 3.41667L14.5833 5.08333L16.25 8.625C16.3333 8.95833 16.3333 9.29167 16.25 9.625V10.625Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1 data-i18n="settings.header.title">Settings</h1>
+            <p data-i18n="settings.header.subtitle">Customize your website experience</p>
+        </div>
+    </section>
+
+    <!-- Settings Content -->
+    <section class="settings-section">
+        <div class="container">
+            <div class="content-block">
+                <!-- Font Settings -->
+                <div class="settings-card">
+                    <h3 data-i18n="settings.font.title">Font Preference</h3>
+                    <div class="settings-option">
+                        <label data-i18n="settings.font.label">Choose your preferred font</label>
+                        <p data-i18n="settings.font.description">Select a font that you find most readable and professional</p>
+                        <div class="settings-buttons" id="fontButtons">
+                            <button class="setting-btn" data-font="inter">Inter</button>
+                            <button class="setting-btn" data-font="dm-sans">DM Sans</button>
+                            <button class="setting-btn" data-font="poppins">Poppins</button>
+                            <button class="setting-btn active" data-font="plus-jakarta">Plus Jakarta Sans</button>
+                            <button class="setting-btn" data-font="work-sans">Work Sans</button>
+                            <button class="setting-btn" data-font="system">System Default</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Color Scheme Settings -->
+                <div class="settings-card">
+                    <h3 data-i18n="settings.colors.title">Color Scheme</h3>
+                    <div class="settings-option">
+                        <label data-i18n="settings.colors.label">Choose your preferred color scheme</label>
+                        <p data-i18n="settings.colors.description">Select a color palette that matches your preference</p>
+                        <div class="settings-buttons" id="colorButtons">
+                            <button class="setting-btn" data-scheme="default">
+                                <span class="color-preview" style="background: linear-gradient(135deg, #2563eb 0%, #10b981 100%);"></span>
+                                <span>Blue & Green</span>
+                            </button>
+                            <button class="setting-btn" data-scheme="medical">
+                                <span class="color-preview" style="background: linear-gradient(135deg, #1976d2 0%, #00897b 100%);"></span>
+                                <span>Medical Blue & Teal</span>
+                            </button>
+                            <button class="setting-btn active" data-scheme="navy">
+                                <span class="color-preview" style="background: linear-gradient(135deg, #283593 0%, #00c853 100%);"></span>
+                                <span>Navy & Emerald</span>
+                            </button>
+                            <button class="setting-btn" data-scheme="purple">
+                                <span class="color-preview" style="background: linear-gradient(135deg, #6a1b9a 0%, #00bcd4 100%);"></span>
+                                <span>Deep Purple & Cyan</span>
+                            </button>
+                            <button class="setting-btn" data-scheme="teal">
+                                <span class="color-preview" style="background: linear-gradient(135deg, #00897b 0%, #ff6b6b 100%);"></span>
+                                <span>Teal & Coral</span>
+                            </button>
+                            <button class="setting-btn" data-scheme="slate">
+                                <span class="color-preview" style="background: linear-gradient(135deg, #546e7a 0%, #66bb6a 100%);"></span>
+                                <span>Slate & Sage</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Language Settings -->
+                <div class="settings-card">
+                    <h3 data-i18n="settings.language.title">Language Preference</h3>
+                    <div class="settings-option">
+                        <label data-i18n="settings.language.label">Choose your preferred language</label>
+                        <p data-i18n="settings.language.description">The website will display in your selected language</p>
+                        <div class="settings-buttons" id="languageButtons">
+                            <button class="setting-btn" data-lang="et">Eesti (Estonian)</button>
+                            <button class="setting-btn" data-lang="ru">Русский (Russian)</button>
+                            <button class="setting-btn" data-lang="en">English</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Reset Settings -->
+                <div class="settings-card">
+                    <h3 data-i18n="settings.reset.title">Reset Settings</h3>
+                    <div class="settings-option">
+                        <label data-i18n="settings.reset.label">Reset to defaults</label>
+                        <p data-i18n="settings.reset.description">Clear all saved preferences and return to default settings</p>
+                        <button class="btn btn-secondary" id="resetSettings" data-i18n="settings.reset.button">Reset All Settings</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>MEDITSIIN4.0</h3>
+                    <p data-i18n="footer.description">Comprehensive digitalization solutions for GP centers in Estonia.</p>
+                </div>
+                <div class="footer-section">
+                    <h4 data-i18n="footer.navigation">Navigation</h4>
+                    <ul>
+                        <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+                        <li><a href="about.html" data-i18n="nav.about">About</a></li>
+                        <li><a href="offerings.html" data-i18n="nav.offerings">Offerings</a></li>
+                        <li><a href="settings.html" data-i18n="nav.settings">Settings</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4 data-i18n="footer.resources">Resources</h4>
+                    <ul>
+                        <li><a href="../README.md" data-i18n="footer.documentation">Documentation</a></li>
+                        <li><a href="../docs/vision.md" data-i18n="footer.vision">Vision</a></li>
+                        <li><a href="../docs/mission.md" data-i18n="footer.mission">Mission</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 MEDITSIIN4.0. <span data-i18n="common.allRightsReserved">All Rights Reserved.</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/i18n.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/settings.js"></script>
+</body>
+</html>
+

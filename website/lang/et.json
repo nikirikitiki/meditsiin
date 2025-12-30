@@ -1,0 +1,390 @@
+{
+  "meta": {
+    "title": {
+      "home": "MEDITSIIN4.0 - Eesti perearstikeskuste digitaliseerimine",
+      "about": "Meist - MEDITSIIN4.0",
+      "offerings": "Teenused - MEDITSIIN4.0",
+      "settings": "Seaded - MEDITSIIN4.0"
+    },
+    "description": {
+      "home": "MEDITSIIN4.0 - Terviklikud digiteerimislahendused Eesti perearstikeskustele. Võimaldame kaugtööd, moderniseerime taristut ja optimeerime toiminguid.",
+      "about": "Tutvuge MEDITSIIN4.0 missiooni, visiooni ja pühendumusega Eesti perearstikeskuste digiteerimiseks.",
+      "offerings": "Uurige MEDITSIIN4.0 terviklikke digiteerimisteenuseid perearstikeskustele: riistvara, IT-tugi, suhtlustööriistad ja palju muud."
+    }
+  },
+  "nav": {
+    "home": "Avaleht",
+    "about": "Meist",
+    "offerings": "Teenused",
+    "settings": "Seaded"
+  },
+  "common": {
+    "learnMore": "Lisateave",
+    "viewOfferings": "Vaata teenuseid",
+    "backToHome": "Tagasi avalehele",
+    "allRightsReserved": "Kõik õigused kaitstud"
+  },
+  "home": {
+    "hero": {
+      "title": "Eesti Perearstikeskuste Digitaliseerimine",
+      "subtitle": "Võimaldame kaugtööd, moderniseerime taristut ja optimeerime meditsiinitöötajate töötoiminguid."
+    },
+    "valueProp": {
+      "title": "Miks MEDITSIIN4.0?",
+      "modernize": {
+        "title": "Moderniseerime taristut",
+        "text": "Asendame vananenud arvutid."
+      },
+      "remoteWork": {
+        "title": "Võimaldame kaugtööd",
+        "text": "Anname meditsiinitöötajatele vabaduse töötada kodust."
+      },
+      "itSupport": {
+        "title": "Professionaalne IT-tugi",
+        "text": "Alati kättesaadav IT-tugi."
+      },
+      "streamline": {
+        "title": "Optimeerime toiminguid",
+        "text": "Pakkume tööjõu haldus tööriista."
+      }
+    },
+    "problem": {
+      "title": "Väljakutse",
+      "intro": "Eesti perearstikeskused seisavad silmitsi oluliste digiteerimis väljakutsetega:",
+      "outdated": "Vananenud arvutitaristu",
+      "noSysadmin": "Puudub süsteemiadministreerimine",
+      "fragmented": "Killustatud tarkvaralahendused",
+      "remote": "Kaugtööd rakendus on uskumatu"
+    },
+    "solutions": {
+      "title": "Meie lahendused",
+      "intro": "Terviklikud digiteerimisteenused perearstikeskustele",
+      "hardware": {
+        "title": "Riistvaralahendused",
+        "text": "Sülearvutid, kõrvaklapid ja vajalik riistvara kaugmeditsiinitööks"
+      },
+      "it": {
+        "title": "IT-taristu ja tugi",
+        "text": "Professionaalne süsteemiadministreerimine ja IT-taristu haldus"
+      },
+      "communication": {
+        "title": "Suhtlustööriistad",
+        "text": "Turvalised vestlus-, kõne- ja e-posti teenused meeskonna siseselt ja patsiendiga"
+      },
+      "workforce": {
+        "title": "Tööjõu korraldus",
+        "text": "Vahetuste planeerimine, puhkus graafikud ja haigus lehed"
+      },
+      "viewAll": "Vaata kõiki teenuseid"
+    },
+    "cta": {
+      "title": "Valmis oma perearstikeskust moderniseerima?",
+      "text": "Uurige, kuidas MEDITSIIN4.0 saab toetada teie digiteerimisteekonda"
+    }
+  },
+  "about": {
+    "header": {
+      "title": "MEDITSIIN4.0"
+    },
+    "mission": {
+      "title": "Meie missioon",
+      "text": "Aitame meditsiiniasutusi digiteerimisel. Pakume lahendusi, mis võimaldavad kaugtööd, parandavad toiminguid ja tagavad hoolduse järjepidevuse."
+    },
+    "vision": {
+      "title": "Meie visioon",
+      "text": "Kõik meditsiinitöötajad on võimelis töödata digiajastu vabadusega ja paindlikkusega, säilitades kõrgeima patsienditeenindus kvaliteedi.",
+      "aspirations": {
+        "title": "Pikaajalised eesmärgid",
+        "flexibility": {
+          "label": "Meditsiinitöötajatel on paindlikkus:",
+          "text": "Arstid ja meditsiinitöötajad saavad vajadusel teha kaugtööd, ilma et patsienditeenindus või toimimise efektiivsust kahjustust."
+        },
+        "digitalized": {
+          "label": "Meditsiiniasutused on täielikult digiteeritud:",
+          "text": "Tervishoiuasutused töötavad kaasaegsete tööriistade ja protsessidega."
+        },
+        "optimization": {
+          "label": "Tööjõu optimeerimine andmete kaudu:",
+          "text": "Analüütika põhisted ülevaadeted säilivad meeskonna heaolu ja efektiivsust, mis toob parema töö- ja elutasakaalu."
+        }
+      }
+    },
+    "purpose": {
+      "title": "Põhieesmärk",
+      "text": "MEDITSIIN4.0 on loodud selleks, lahendada meditsiinivaldkonna aeglase digitaalse arengu ja võimaldada kaugtöö kiire leviku. Kuigi paljud erialad on edukalt kohanenud paindlike ja kaugpõhiste töövormidega, nõuab meditsiin oma kriitilise olemuse tõttu läbimõeldud, turvalist ja spetsiaalselt kohandatud lähenemist. Meie eesmärk on pakkuda just seda tuge, mis võimaldab meditsiinivaldkonnal areneda kaasaegselt, ilma kvaliteedis või ohutuses järeleandmisi.",
+      "ourPurpose": "Meie eesmärk",
+      "accelerate": {
+        "title": "Kiirendada digiteerimist",
+        "text": "Meditsiiniasutustes kindlusega ja turvaliselt"
+      },
+      "empower": {
+        "title": "Võimustada meditsiinitöötajaid",
+        "text": "Vabadusega ja paindlikkusega töötada kaugtööd vajadusel"
+      },
+      "excellence": {
+        "title": "Tagada toimimise kvaliteet",
+        "text": "Usaldusväärsete tööriistade ja protsesside kaudu"
+      },
+      "continuity": {
+        "title": "Toetada tervishoiu järjepidevust",
+        "text": "Säilitades kõrged standardid digitaalse transformatsiooni ajal"
+      },
+      "itSupport": {
+        "title": "Pakkuda IT-tuge",
+        "text": "Kus see praegu puudub"
+      },
+      "modernize": {
+        "title": "Moderniseerida taristut",
+        "text": "Usaldusväärsete, integreeritud lahendustega"
+      }
+    },
+    "commitment": {
+      "title": "Meie pühendumus",
+      "safety": {
+        "title": "Patsiendi ohutus esmalt",
+        "text": "Kõik meie lahendused prioriseerivad patsienditeenindust ja ohutust kõigest üle"
+      },
+      "reliability": {
+        "title": "Usaldusväärsus",
+        "text": "Pakkudes tugevaid, turvalisi ja usaldusväärseid tööriistu, millesse meditsiinitöötajad saavad usaldada"
+      },
+      "support": {
+        "title": "Tugi",
+        "text": "Olemine tõeline partner digiteerimisteekonnal, mitte lihtsalt tarnija"
+      },
+      "innovation": {
+        "title": "Innovatsioon",
+        "text": "Pidevalt arendame oma teenuseid, et vastata meditsiinivälja muutuvatele vajadustele"
+      },
+      "respect": {
+        "title": "Austus kõrge riskitaseme suhtes",
+        "text": "Mõistmine ja austamine tervishoiuoperatsioonide kriitilist olemust"
+      },
+      "compliance": {
+        "title": "Vastavus",
+        "text": "Vastamine kõikidele EL regulatsiooninõuetele, eriti GDPR-ile"
+      }
+    },
+    "team": {
+      "title": "Meie meeskond",
+      "text": "MEDITSIIN4.0 on asutatud kolme kogenud professionaali poolt:",
+      "medical": {
+        "title": "Perearst",
+        "name": "Dr. Anna-Maria Ardla",
+        "text": "Toob sügava mõistmise tervishoiuoperatsioonidest ja meditsiinikeskuste vajadustest"
+      },
+      "it": {
+        "title": "IT-lahenduste arhitekt",
+        "name": "Nikita Rom",
+        "text": "Pakub tehnilist oskust digiteerimises ja IT-taristus"
+      },
+      "data": {
+        "title": "Andmeanalüütik",
+        "name": "Kaspar Karl Haavel",
+        "text": "Pakub andmeanalüütikat ja ülevaateid tervishoiuoperatsioonide kohta"
+      }
+    },
+    "targetMarket": {
+      "title": "Sihtturg",
+      "primary": {
+        "title": "Peamine fookus",
+        "label": "Eesti perearstikeskused (perekeskused)",
+        "item1": "Tavaliselt alla 50 töötaja",
+        "item2": "Praegu alateenindatud IT-taristu ja digiteerimistoe osas",
+        "item3": "Otsivad kaasaegseid lahendusi kaugtöö võimaldamiseks ja toimimise efektiivsuse tõstmiseks"
+      },
+      "expansion": {
+        "title": "Pikaajaline laienemine",
+        "label": "Soome",
+        "item1": "Strateegiline teine turg geograafiliseks laienemiseks",
+        "item2": "Sarnane tervishoiusüsteemi struktuur Eestiga",
+        "item3": "Võimalus kasutada õppetunde ja lahendusi Eesti turult"
+      }
+    },
+    "cta": {
+      "title": "Valmis alustama oma digiteerimisteekonda?",
+      "text": "Uurige, kuidas MEDITSIIN4.0 saab toetada teie perearstikeskust"
+    }
+  },
+  "offerings": {
+    "header": {
+      "title": "Meie teenused",
+      "subtitle": "Terviklikud digiteerimislahendused Eesti perearstikeskustele"
+    },
+    "overview": "MEDITSIIN4.0 pakub terviklikku digiteerimislahenduste komplekti, mis on loodud võimaldama kaugtööd, moderniseerima taristut ja optimeerima toiminguid Eesti perekeskustele.",
+    "coreTitle": "Põhiteenused",
+    "hardware": {
+      "title": "Riistvaralahendused",
+      "description": "Vajalik riistvaraseade kaugmeditsiinitööks",
+      "components": {
+        "title": "Komponendid",
+        "item1": "Sülearvutid ja arvutiseadmed",
+        "item2": "Kõrvaklapid ja suhtluseadmed",
+        "item3": "Vajalik riistvara kaugmeditsiinitööks"
+      }
+    },
+    "it": {
+      "title": "IT-taristu ja tugi",
+      "description": "Professionaalne süsteemiadministreerimine ja IT-taristu haldus",
+      "components": {
+        "title": "Komponendid",
+        "item1": "Süsteemiadministreerimisteenused",
+        "item2": "IT-taristu haldus",
+        "item3": "Tehniline tugi ja hooldus",
+        "item4": "Integreerimine olemasolevate meditsiinitarkvarasüsteemidega",
+        "item5": "24/7 tugi kriitiliste meditsiinioperatsioonide jaoks"
+      },
+      "value": {
+        "title": "Väärtuspakkumine",
+        "item1": "Lahendab kriitilise lõhe puuduvate süsteemiadministraatorite osas perearstikeskustes",
+        "item2": "Tagab usaldusväärse, turvalise IT-taristu",
+        "item3": "Võimaldab sujuvat integreerimist olemasolevate süsteemidega"
+      }
+    },
+    "software": {
+      "title": "Meditsiinitarkvara uuenduste haldus",
+      "description": "Proaktiivne haldus ja meditsiinisektori spetsiifilise tarkvara uuendamine, et tagada viimaste versioonide saadavus ja paigaldamine",
+      "features": {
+        "title": "Peamised funktsioonid",
+        "item1": "Automaatne tarkvarauuenduste saadavuse jälgimine",
+        "item2": "Plaanitud uuendusgraafikud, mis töötavad koos meditsiinikeskuse operatsioonidega",
+        "item3": "Testikeskkonna valideerimine enne tootmise juurutamist",
+        "item4": "Tagasipööramise võimalused probleemide korral"
+      },
+      "value": {
+        "title": "Väärtuspakkumine",
+        "item1": "Lahendab levinud probleemi, kus meditsiinikeskused ei tee saadaolevaid tarkvarauuendusi",
+        "item2": "Tagab juurdepääsu viimastele funktsioonidele, turvapatchidele ja täiustustele",
+        "item3": "Vähendab turvariski vananenud tarkvarast"
+      }
+    },
+    "communication": {
+      "title": "Suhtlustööriistad",
+      "description": "Turvalised, integreeritud suhtlusplatvormid meeskonna ja patsientide suhtluseks",
+      "components": {
+        "title": "Komponendid",
+        "item1": "Sisevestlusteenused turvaliseks meeskonnaga suhtluseks",
+        "item2": "Kõneteenused patsientide ja meeskonna suhtluseks",
+        "item3": "E-posti teenused",
+        "item4": "Integreeritud suhtlusplatvormid"
+      },
+      "features": {
+        "title": "Peamised funktsioonid",
+        "item1": "Turvaline, GDPR-ga ühilduv suhtlus",
+        "item2": "Integreerimine olemasolevate töövoogudega",
+        "item3": "Tugi kaug- ja hübriidtöömudelitele"
+      }
+    },
+    "productivity": {
+      "title": "Tootlikkustööriistad",
+      "description": "Kontoritarkvara ja koostööriistad meditsiinitöötajatele",
+      "components": {
+        "title": "Komponendid",
+        "item1": "Kontoritarkvara lahendused",
+        "item2": "Dokumendihaldus",
+        "item3": "Koostööriistad"
+      },
+      "value": {
+        "title": "Väärtuspakkumine",
+        "item1": "Asendab killustatud tarkvaralahendused",
+        "item2": "Võimaldab sujuvat dokumendijagamist ja koostööd",
+        "item3": "Toetab kaugtöövoogusid"
+      }
+    },
+    "workforce": {
+      "title": "Tööjõu korraldustööriistad",
+      "description": "Terviklik tööjõu planeerimise ja haldussüsteem",
+      "components": {
+        "title": "Komponendid",
+        "item1": "Vahetuste planeerimise ja ajakava süsteemid",
+        "item2": "Puhkuste ja haiguspuhkuste haldus",
+        "item3": "Tööjõu koordineerimine ja optimeerimine",
+        "item4": "Õde-arsti suhte optimeerimine",
+        "item5": "Meeskonna koosseisu haldus",
+        "item6": "Reaalajas nähtavus, kes töötab ja kellega"
+      },
+      "value": {
+        "title": "Väärtuspakkumine",
+        "item1": "Asendab Excelil põhinevad planeerimissüsteemid",
+        "item2": "Pakkub andmepõhist tööjõu optimeerimist",
+        "item3": "Tagab õige personalisuhte ja meeskonna koosseisu"
+      }
+    },
+    "organizational": {
+      "title": "Organisatsiooniline struktuur ja disain",
+      "description": "Strateegiline organisatsioonilise struktuuri disain ja optimeerimine meditsiinikeskustele, mis seisavad silmitsi professionaalide puudusega",
+      "components": {
+        "title": "Komponendid",
+        "item1": "Organisatsioonilise struktuuri analüüs ja disain",
+        "item2": "Tööplaneerimise optimeerimine piiratud professionaalide ressursside jaoks",
+        "item3": "Rollide määratlemine ja vastutuse kaardistamine",
+        "item4": "Meeskonna struktuuri soovitused",
+        "item5": "Töövoo disain maksimaalse efektiivsuse saavutamiseks"
+      },
+      "value": {
+        "title": "Väärtuspakkumine",
+        "item1": "Lahendab professionaalide puuduse kriitilise väljakutse",
+        "item2": "Võimaldab tõhusat tööplaneerimist hoolimata personalipuudusest",
+        "item3": "Optimeerib organisatsioonilise struktuuri saadaolevate ressurssidega töötamiseks"
+      }
+    },
+    "satisfaction": {
+      "title": "Rahulolu jälgimine ja koormuse monitooring",
+      "description": "Terviklik süsteem patsientide rahulolu jälgimiseks ja arstide ning õdede koormuse monitooringuks ülekoormuse vältimiseks",
+      "components": {
+        "title": "Komponendid",
+        "item1": "Patsientide rahulolu jälgimine ja analüütika",
+        "item2": "Sotsiaalse hinnangu monitooring ja haldus",
+        "item3": "Koormuse jälgimine arstide ja õdede jaoks",
+        "item4": "Reaalajas koormuse nähtavus ja hoiatused",
+        "item5": "Ülekoormuse ennetamine ja varajane hoiatussüsteem"
+      },
+      "value": {
+        "title": "Väärtuspakkumine",
+        "item1": "Lahendab perekeskuste halbade sotsiaalsete hinnangute probleemi",
+        "item2": "Võimaldab tegeliku koormuse jälgimist võimekuse piirangute tuvastamiseks",
+        "item3": "Väldib arstide ja õdede ülekoormamist"
+      }
+    },
+    "cta": {
+      "title": "Valmis alustama?",
+      "text": "Lisateave meie teenuste kohta ja kuidas need võivad teie perearstikeskust kasulikuks teha"
+    }
+  },
+  "footer": {
+    "description": "Terviklikud digiteerimislahendused Eesti perearstikeskustele.",
+    "navigation": "Navigeerimine",
+    "resources": "Ressursid",
+    "documentation": "Dokumentatsioon",
+    "vision": "Visioon",
+    "mission": "Missioon"
+  },
+  "settings": {
+    "header": {
+      "title": "Seaded",
+      "subtitle": "Kohandage oma veebisaidi kogemust"
+    },
+    "font": {
+      "title": "Fondi eelistus",
+      "label": "Valige oma eelistatud font",
+      "description": "Valige kõige loetavam ja professionaalsem font"
+    },
+    "colors": {
+      "title": "Värviskeem",
+      "label": "Valige oma eelistatud värviskeem",
+      "description": "Valige teie eelistustele vastav värvipalett"
+    },
+    "language": {
+      "title": "Keele eelistus",
+      "label": "Valige oma eelistatud keel",
+      "description": "Veebisait kuvatakse teie valitud keeles"
+    },
+    "reset": {
+      "title": "Lähtesta seaded",
+      "label": "Lähtesta vaikimisi seaded",
+      "description": "Kustutage kõik salvestatud eelistused ja naaske vaikimisi seadete juurde",
+      "button": "Lähtesta kõik seaded"
+    }
+  }
+}
+
