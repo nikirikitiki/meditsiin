@@ -424,7 +424,7 @@
       "title": "Mida me pakume",
       "intro": "Üksik, komplekteeritud teenus, mis asendab killustatud seadistused ühe koordineeritud süsteemiga",
       "hardware": {
-        "title": "Riistvara (valikuline)",
+        "title": "Riistvara",
         "description": "Kuuine riistvarakomplekt, tsentraalselt hallatud",
         "item1": "Sülearvutid, monitorid ja kõrvaklapid pakutakse kuu baasil",
         "item2": "Eelkonfigureeritud, krüpteeritud ja tsentraalselt hallatud",

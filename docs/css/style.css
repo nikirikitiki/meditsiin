@@ -719,6 +719,11 @@ h3 {
     cursor: pointer;
 }
 
+.vision-item strong {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
 .vision-item:hover {
     transform: translateY(-3px);
     box-shadow: var(--shadow-lg);

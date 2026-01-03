@@ -18,9 +18,10 @@
         }
         .offerings-grid {
             display: grid;
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: 1fr;
             gap: 1.5rem;
             margin-bottom: 2rem;
+            align-items: start;
         }
         .offering-detail {
             margin-bottom: 0;
@@ -36,6 +37,17 @@
         }
         .offering-header {
             margin-bottom: 0.75rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+            user-select: none;
+        }
+        .offering-header-content {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            flex: 1;
         }
         .offering-number {
             width: 32px;
@@ -46,6 +58,19 @@
             font-size: 1.25rem;
             margin: 0;
         }
+        .offering-expand {
+            width: 24px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--primary-color);
+            transition: transform 0.3s ease;
+            flex-shrink: 0;
+        }
+        .offering-detail.expanded .offering-expand {
+            transform: rotate(180deg);
+        }
         .offering-description {
             font-size: 0.95rem;
             color: var(--text-light);
@@ -54,6 +79,13 @@
             font-style: normal;
         }
         .offering-details {
+            margin-top: 0.75rem;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease, margin-top 0.3s ease;
+        }
+        .offering-detail.expanded .offering-details {
+            max-height: 800px;
             margin-top: 0.75rem;
         }
         .detail-column h4 {
@@ -136,8 +168,13 @@
             <div class="offerings-grid">
             <div class="offering-detail" id="hardware">
                 <div class="offering-header">
-                    <span class="offering-number">1</span>
-                    <h3 data-i18n="offerings.hardware.title">Hardware Solutions</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">1</span>
+                        <h3 data-i18n="offerings.hardware.title">Hardware Solutions</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="offerings.hardware.description">Essential hardware equipment for remote medical work</p>
                 <div class="offering-details">
@@ -164,8 +201,13 @@
 
             <div class="offering-detail" id="it-infrastructure">
                 <div class="offering-header">
-                    <span class="offering-number">2</span>
-                    <h3 data-i18n="offerings.it.title">IT Infrastructure & Support</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">2</span>
+                        <h3 data-i18n="offerings.it.title">IT Infrastructure & Support</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="offerings.it.description">Professional system administration and IT infrastructure management</p>
                 <div class="offering-details">
@@ -192,8 +234,13 @@
 
             <div class="offering-detail" id="software">
                 <div class="offering-header">
-                    <span class="offering-number">3</span>
-                    <h3 data-i18n="offerings.software.title">Medical Software Update Management</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">3</span>
+                        <h3 data-i18n="offerings.software.title">Medical Software Update Management</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="offerings.software.description">Proactive management and updating of medical sector-specific software to ensure latest versions are available and installed</p>
                 <div class="offering-details">
@@ -219,8 +266,13 @@
 
             <div class="offering-detail" id="communication">
                 <div class="offering-header">
-                    <span class="offering-number">4</span>
-                    <h3 data-i18n="offerings.communication.title">Communication Tools</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">4</span>
+                        <h3 data-i18n="offerings.communication.title">Communication Tools</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="offerings.communication.description">Secure, integrated communication platforms for team and patient interactions</p>
                 <div class="offering-details">
@@ -246,8 +298,13 @@
 
             <div class="offering-detail" id="productivity">
                 <div class="offering-header">
-                    <span class="offering-number">5</span>
-                    <h3 data-i18n="offerings.productivity.title">Productivity Tools</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">5</span>
+                        <h3 data-i18n="offerings.productivity.title">Productivity Tools</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="offerings.productivity.description">Office suite and collaboration tools for medical professionals</p>
                 <div class="offering-details">
@@ -272,8 +329,13 @@
 
             <div class="offering-detail" id="workforce">
                 <div class="offering-header">
-                    <span class="offering-number">6</span>
-                    <h3 data-i18n="offerings.workforce.title">Workforce Organization Tools</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">6</span>
+                        <h3 data-i18n="offerings.workforce.title">Workforce Organization Tools</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="offerings.workforce.description">Comprehensive workforce planning and management system</p>
                 <div class="offering-details">
@@ -301,8 +363,13 @@
 
             <div class="offering-detail" id="organizational">
                 <div class="offering-header">
-                    <span class="offering-number">7</span>
-                    <h3 data-i18n="offerings.organizational.title">Organizational Structure & Design</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">7</span>
+                        <h3 data-i18n="offerings.organizational.title">Organizational Structure & Design</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="offerings.organizational.description">Strategic organizational structure design and optimization for medical centers facing professional shortages</p>
                 <div class="offering-details">
@@ -329,8 +396,13 @@
 
             <div class="offering-detail">
                 <div class="offering-header">
-                    <span class="offering-number">8</span>
-                    <h3 data-i18n="offerings.satisfaction.title">Satisfaction Tracking & Workload Monitoring</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">8</span>
+                        <h3 data-i18n="offerings.satisfaction.title">Satisfaction Tracking & Workload Monitoring</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="offerings.satisfaction.description">Comprehensive system for tracking patient satisfaction and monitoring workload of doctors and nurses to prevent overwhelm</p>
                 <div class="offering-details">
@@ -402,6 +474,19 @@
     <script src="js/i18n.js"></script>
     <script src="js/main.js"></script>
     <script>
+        // Expand/Collapse functionality for offering-detail
+        document.addEventListener('DOMContentLoaded', function() {
+            const offeringHeaders = document.querySelectorAll('.offering-header');
+            offeringHeaders.forEach(header => {
+                header.addEventListener('click', function() {
+                    const offeringDetail = this.closest('.offering-detail');
+                    if (offeringDetail) {
+                        offeringDetail.classList.toggle('expanded');
+                    }
+                });
+            });
+        });
+
         // Check authentication
         if (!sessionStorage.getItem('authenticated')) {
             window.location.href = 'login.html';
