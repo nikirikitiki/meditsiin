@@ -164,6 +164,7 @@ class I18n {
         const path = window.location.pathname;
         if (path.includes('about.html')) return 'about';
         if (path.includes('offerings.html')) return 'offerings';
+        if (path.includes('overview.html')) return 'overview';
         return 'home';
     }
 

@@ -4,18 +4,21 @@
       "home": "MEDITSIIN4.0 - Digitalization for Estonian GP Centers",
       "about": "About - MEDITSIIN4.0",
       "offerings": "Offerings - MEDITSIIN4.0",
+      "overview": "Overview - Medical Center Modernization Service",
       "settings": "Settings - MEDITSIIN4.0"
     },
       "description": {
       "home": "MEDITSIIN4.0 - Comprehensive digitalization solutions for Estonian GP centers. We enable remote work, modernize infrastructure, and optimize operations.",
       "about": "Learn about MEDITSIIN4.0's mission, vision, and commitment to digitalizing GP centers in Estonia.",
-      "offerings": "Explore MEDITSIIN4.0's digitalization offerings: hardware, IT support, communication tools, and more."
+      "offerings": "Explore MEDITSIIN4.0's digitalization offerings: hardware, IT support, communication tools, and more.",
+      "overview": "Medical Center Modernization Service — enabling secure, compliant remote and hybrid work for GP centers with a standardized 30-day package."
     }
   },
   "nav": {
     "home": "Home",
     "about": "About",
     "offerings": "Offerings",
+    "overview": "Overview",
     "settings": "Settings"
   },
   "common": {
@@ -384,6 +387,183 @@
       "label": "Reset to defaults",
       "description": "Clear all saved preferences and return to default settings",
       "button": "Reset All Settings"
+    }
+  },
+  "overview": {
+    "hero": {
+      "title": "Medical Center Modernization Service",
+      "subtitle": "Enabling Secure Remote Work for GP Centers"
+    },
+    "background": {
+      "title": "Background",
+      "intro": "Many GP centers operate under increasing pressure:",
+      "item1": "Staff shortages among doctors and nurses",
+      "item2": "Ageing hardware and outdated software",
+      "item3": "Fragmented tools for communication, scheduling, and documentation",
+      "item4": "No dedicated IT or operational support",
+      "item5": "Limited visibility into workload, staff wellbeing, or patient satisfaction",
+      "expectations": {
+        "title": "At the same time, expectations are changing.",
+        "text": "Younger doctors increasingly expect flexible and remote work options, while many centers remain dependent on physical presence and manual coordination.",
+        "lackTitle": "Most GP centers recognize the need to modernize, but lack:",
+        "lack1": "Time to manage multiple vendors",
+        "lack2": "Internal IT expertise",
+        "lack3": "Capacity to design secure, compliant remote setups"
+      }
+    },
+    "purpose": {
+      "title": "Purpose",
+      "goal": "Our goal is to:",
+      "item1": "Modernize GP centers",
+      "item2": "Enable secure remote and hybrid work",
+      "item3": "Reduce operational complexity",
+      "item4": "Cut costs",
+      "statement": "We provide a standardized operational foundation for reliable daily clinical work on-site and remote. We do not replace medical systems or introduce unnecessary tools."
+    },
+    "provide": {
+      "title": "What We Provide",
+      "intro": "A single, bundled service that replaces fragmented setups with one coordinated system",
+      "hardware": {
+        "title": "Hardware (Optional)",
+        "description": "Monthly hardware bundle, centrally managed",
+        "item1": "Laptops, monitors, and headsets provided on a monthly basis",
+        "item2": "Pre-configured, encrypted, and centrally managed",
+        "item3": "Suitable for both on-site and remote clinical work",
+        "item4": "No upfront investment required"
+      },
+      "it": {
+        "title": "IT & System Administration",
+        "description": "One accountable owner for day-to-day reliability",
+        "item1": "Centralized device management",
+        "item2": "Account and access provisioning",
+        "item3": "Software updates and security management",
+        "item4": "One responsible point of contact instead of multiple vendors"
+      },
+      "communication": {
+        "title": "Communication",
+        "description": "Reduce fragmentation and informal channels",
+        "item1": "Unified setup for chat, calls, and email",
+        "item2": "Integration with existing platforms where possible",
+        "item3": "Reduced reliance on informal or personal communication channels"
+      },
+      "remoteAccess": {
+        "title": "Secure Remote Access",
+        "description": "Remote and hybrid work without weakening security",
+        "item1": "VPN-based access to clinical and administrative systems",
+        "item2": "Role-based permissions aligned with staff responsibilities",
+        "item3": "Designed to meet EU and GDPR requirements"
+      },
+      "workforce": {
+        "title": "Workforce & Shift Management",
+        "description": "Support hybrid staffing models with clear coordination",
+        "item1": "Shift planning and coverage rules",
+        "item2": "Vacation and sick-leave tracking",
+        "item3": "Visibility into nurse–doctor ratios and team composition",
+        "item4": "Support for hybrid and remote staffing models"
+      },
+      "office": {
+        "title": "Office & Document Tools",
+        "description": "Clear ownership, access control, and auditability",
+        "item1": "Standard office software",
+        "item2": "Centralized document storage and access control",
+        "item3": "Auditability and clear ownership of information"
+      },
+      "consulting": {
+        "title": "Consulting on Personnel Management",
+        "description": "Ways of working and collaboration between nurses and doctors",
+        "item1": "Workflow design and optimization",
+        "item2": "Team collaboration structures",
+        "item3": "Communication protocols between staff",
+        "item4": "Best practices for nurse-doctor collaboration"
+      },
+      "monitoring": {
+        "title": "Workload & Satisfaction Monitoring",
+        "future": "(Future)",
+        "description": "Signals to support staffing and organizational decisions",
+        "item1": "Basic workload indicators",
+        "item2": "Patient feedback collection",
+        "item3": "Early signals of overload and burnout",
+        "item4": "Data to support staffing and organizational decisions"
+      }
+    },
+    "how": {
+      "title": "How It Works",
+      "intro": "We deliver in two parts:",
+      "onboarding": {
+        "title": "30-Day Onboarding",
+        "intro": "A standardized modernization package that sets up your operational foundation:",
+        "step1": {
+          "title": "Existing setup is mapped",
+          "text": "We document your current systems, devices, accounts, and workflows"
+        },
+        "step2": {
+          "title": "Hardware and access are provisioned centrally",
+          "text": "Managed devices (if needed) and identity/access baseline are set up"
+        },
+        "step3": {
+          "title": "Communication, scheduling, and documents are standardized",
+          "text": "We reduce fragmentation and clarify ownership and permissions"
+        },
+        "step4": {
+          "title": "Internal structure and collaborations are mapped",
+          "text": "Roles, responsibilities, and cross-coverage are documented"
+        },
+        "step5": {
+          "title": "Remote access and security rules are applied",
+          "text": "Least privilege, MFA, device policies, and auditability are configured"
+        },
+        "step6": {
+          "title": "Monitoring and reporting are activated",
+          "text": "Operational visibility for stability and incremental improvement"
+        }
+      },
+      "support": {
+        "title": "Continuous Support and Enablement",
+        "intro": "After onboarding, the system runs continuously with ongoing support:",
+        "item1": {
+          "title": "Continuous monitoring and maintenance",
+          "text": "Proactive system monitoring ensures reliability and security without manual intervention"
+        },
+        "item2": {
+          "title": "Incremental improvement",
+          "text": "Regular updates and optimizations keep your operational foundation current and effective"
+        },
+        "item3": {
+          "title": "Secure remote work enablement",
+          "text": "Ongoing support ensures your team can work remotely securely and reliably"
+        }
+      }
+    },
+    "who": {
+      "title": "Who This Is For",
+      "intro": "This service is designed for GP centers that want to:",
+      "item1": "Enable remote or hybrid work",
+      "item2": "Reduce administrative and coordination burden",
+      "item3": "Improve staff retention and attractiveness to younger doctors",
+      "item4": "Modernize without large upfront investments",
+      "item5": "Avoid building internal IT or operations teams"
+    },
+    "commercial": {
+      "title": "Commercial Model",
+      "intro": "Simple, predictable pricing:",
+      "item1": "Subscription per workplace",
+      "item2": "One unified monthly invoice",
+      "item3": "Hardware and software bundled",
+      "item4": "Predictable operational costs",
+      "item5": "One-time payment for the setup"
+    },
+    "aspire": {
+      "title": "We Aspire To",
+      "item1": "Make GP work more flexible and sustainable",
+      "item2": "Support smaller, rural, and understaffed centers",
+      "item3": "Create foundations for cross-clinic staffing and collaboration",
+      "item4": "Expand to neighbouring countries with similar healthcare systems",
+      "item5": "Enable medical professionals to work from home or remotely when appropriate, without compromising patient care or operational efficiency",
+      "item6": "Fully digitalize medical establishments with modern digital tools and processes, matching the digital transformation seen in other professional sectors",
+      "item7": "Optimize workforce through data-driven insights into wellbeing and efficiency, leading to better work-life balance and improved patient outcomes"
+    },
+    "footer": {
+      "description": "Medical center modernization for secure remote and hybrid work."
     }
   }
 }

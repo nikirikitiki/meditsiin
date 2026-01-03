@@ -4,18 +4,21 @@
       "home": "MEDITSIIN4.0 - Eesti perearstikeskuste digitaliseerimine",
       "about": "Meist - MEDITSIIN4.0",
       "offerings": "Teenused - MEDITSIIN4.0",
+      "overview": "Ülevaade - Meditsiinikeskuste moderniseerimisteenus",
       "settings": "Seaded - MEDITSIIN4.0"
     },
     "description": {
       "home": "MEDITSIIN4.0 - Terviklikud digiteerimislahendused Eesti perearstikeskustele. Võimaldame kaugtööd, moderniseerime taristut ja optimeerime toiminguid.",
       "about": "Tutvuge MEDITSIIN4.0 missiooni, visiooni ja pühendumusega Eesti perearstikeskuste digiteerimiseks.",
-      "offerings": "Uurige MEDITSIIN4.0 terviklikke digiteerimisteenuseid perearstikeskustele: riistvara, IT-tugi, suhtlustööriistad ja palju muud."
+      "offerings": "Uurige MEDITSIIN4.0 terviklikke digiteerimisteenuseid perearstikeskustele: riistvara, IT-tugi, suhtlustööriistad ja palju muud.",
+      "overview": "Meditsiinikeskuste moderniseerimisteenus — võimaldab turvalist, vastavusega kaug- ja hübriidtööd perearstikeskustele standardiseeritud 30-päevase paketiga."
     }
   },
   "nav": {
     "home": "Avaleht",
     "about": "Meist",
     "offerings": "Teenused",
+    "overview": "Ülevaade",
     "settings": "Seaded"
   },
   "common": {
@@ -384,6 +387,183 @@
       "label": "Lähtesta vaikimisi seaded",
       "description": "Kustutage kõik salvestatud eelistused ja naaske vaikimisi seadete juurde",
       "button": "Lähtesta kõik seaded"
+    }
+  },
+  "overview": {
+    "hero": {
+      "title": "Meditsiinikeskuste Moderniseerimisteenus",
+      "subtitle": "Võimaldab turvalist kaugtööd perearstikeskustele"
+    },
+    "background": {
+      "title": "Taust",
+      "intro": "Paljud perearstikeskused töötavad üha suureneva surve all:",
+      "item1": "Arstide ja õdede personalipuudus",
+      "item2": "Vananenud riistvara ja aegunud tarkvara",
+      "item3": "Killustatud tööriistad suhtluseks, ajakava ja dokumentatsiooniks",
+      "item4": "Puudub pühendunud IT või operatiivne tugi",
+      "item5": "Piiratud nähtavus koormuse, personali heaolu või patsientide rahulolu osas",
+      "expectations": {
+        "title": "Samal ajal muutuvad ootused.",
+        "text": "Nooremad arstid ootavad üha enam paindlikke ja kaugtöövõimalusi, samas kui paljud keskused jäävad sõltuma füüsilisest kohalolust ja käsitsi koordineerimisest.",
+        "lackTitle": "Enamik perearstikeskusi tunnistab moderniseerimise vajadust, kuid puudub:",
+        "lack1": "Aeg mitme tarnija haldamiseks",
+        "lack2": "Sisemine IT-ekspertis",
+        "lack3": "Võime kavandada turvalisi, vastavusega kaugtööseadistusi"
+      }
+    },
+    "purpose": {
+      "title": "Eesmärk",
+      "goal": "Meie eesmärk on:",
+      "item1": "Moderniseerida perearstikeskused",
+      "item2": "Võimaldada turvalist kaug- ja hübriidtööd",
+      "item3": "Vähendada operatiivset keerukust",
+      "item4": "Kärpida kulusid",
+      "statement": "Pakkume standardiseeritud operatiivset alust usaldusväärseks igapäevaseks kliiniliseks tööks kohapeal ja kaugtööna. Me ei asenda meditsiinisüsteeme ega tutvusta tarbetuid tööriistu."
+    },
+    "provide": {
+      "title": "Mida me pakume",
+      "intro": "Üksik, komplekteeritud teenus, mis asendab killustatud seadistused ühe koordineeritud süsteemiga",
+      "hardware": {
+        "title": "Riistvara (valikuline)",
+        "description": "Kuuine riistvarakomplekt, tsentraalselt hallatud",
+        "item1": "Sülearvutid, monitorid ja kõrvaklapid pakutakse kuu baasil",
+        "item2": "Eelkonfigureeritud, krüpteeritud ja tsentraalselt hallatud",
+        "item3": "Sobib nii kohapealseks kui kaugkliiniliseks tööks",
+        "item4": "Eelinvesteeringut ei vaja"
+      },
+      "it": {
+        "title": "IT ja süsteemiadministreerimine",
+        "description": "Üks vastutav omanik igapäevase usaldusväärsuse jaoks",
+        "item1": "Tsentraalne seadmehaldus",
+        "item2": "Konto ja juurdepääsu ettevalmistamine",
+        "item3": "Tarkvarauuendused ja turvalisuse haldus",
+        "item4": "Üks vastutav kontaktipunkt mitme tarnija asemel"
+      },
+      "communication": {
+        "title": "Suhtlus",
+        "description": "Vähendada killustatust ja mitteametlikke kanaleid",
+        "item1": "Ühtne seadistus vestluseks, kõnedeks ja e-posti jaoks",
+        "item2": "Integreerimine olemasolevate platvormidega, kus võimalik",
+        "item3": "Vähendatud sõltuvus mitteametlikest või isiklikest suhtluskanalitest"
+      },
+      "remoteAccess": {
+        "title": "Turvaline kaugjuurdepääs",
+        "description": "Kaug- ja hübriidtöö ilma turvalisuse nõrgestamata",
+        "item1": "VPN-põhine juurdepääs kliinilistele ja haldussüsteemidele",
+        "item2": "Rollipõhised õigused, mis on joondatud personali vastutustega",
+        "item3": "Kavandatud vastama EL ja GDPR nõuetele"
+      },
+      "workforce": {
+        "title": "Tööjõu ja vahetuste haldus",
+        "description": "Toetada hübriidpersonalimudeleid selge koordineerimisega",
+        "item1": "Vahetuste planeerimine ja katmise reeglid",
+        "item2": "Puhkuste ja haiguspuhkuste jälgimine",
+        "item3": "Nähtavus õde-arsti suhetesse ja meeskonna koosseisu",
+        "item4": "Tugi hübriid- ja kaugpersonalimudelitele"
+      },
+      "office": {
+        "title": "Kontori- ja dokumenditööriistad",
+        "description": "Selge omandiõigus, juurdepääsukontroll ja auditeeritavus",
+        "item1": "Standardne kontoritarkvara",
+        "item2": "Tsentraalne dokumendisalvestus ja juurdepääsukontroll",
+        "item3": "Auditeeritavus ja selge infomõistatus"
+      },
+      "consulting": {
+        "title": "Nõustamine personalihalduse osas",
+        "description": "Töötamise viisid ja koostöö õdede ja arstide vahel",
+        "item1": "Töövoogude kujundamine ja optimeerimine",
+        "item2": "Meeskonna koostööstruktuurid",
+        "item3": "Suhtlusprotokollid personali vahel",
+        "item4": "Parimad praktikad õde-arsti koostööks"
+      },
+      "monitoring": {
+        "title": "Koormuse ja rahulolu monitooring",
+        "future": "(Tulevikus)",
+        "description": "Signaalid personali- ja organisatsiooniliste otsuste toetamiseks",
+        "item1": "Põhilised koormuse näitajad",
+        "item2": "Patsientide tagasiside kogumine",
+        "item3": "Ülekoormuse ja põletiku varajased signaalid",
+        "item4": "Andmed personali- ja organisatsiooniliste otsuste toetamiseks"
+      }
+    },
+    "how": {
+      "title": "Kuidas see töötab",
+      "intro": "Tarnime kahes osas:",
+      "onboarding": {
+        "title": "30-päevane sisselogimine",
+        "intro": "Standardiseeritud moderniseerimispakett, mis loob teie operatiivse aluse:",
+        "step1": {
+          "title": "Olemasolev seadistus kaardistatakse",
+          "text": "Dokumenteerime teie praegused süsteemid, seadmed, kontod ja töövoogud"
+        },
+        "step2": {
+          "title": "Riistvara ja juurdepääs ettevalmistatakse tsentraalselt",
+          "text": "Hallatud seadmed (vajadusel) ja identiteedi/juurdepääsu alusjoon seadistatakse"
+        },
+        "step3": {
+          "title": "Suhtlus, ajakava ja dokumendid standardiseeritakse",
+          "text": "Vähendame killustatust ja selgitame omandiõigust ja õigusi"
+        },
+        "step4": {
+          "title": "Sisemine struktuur ja koostööd kaardistatakse",
+          "text": "Rollid, vastutused ja ristkatmised dokumenteeritakse"
+        },
+        "step5": {
+          "title": "Kaugjuurdepääs ja turvareeglid rakendatakse",
+          "text": "Väikseim privileeg, MFA, seadme poliitikad ja auditeeritavus konfigureeritakse"
+        },
+        "step6": {
+          "title": "Monitooring ja aruandlus aktiveeritakse",
+          "text": "Operatiivne nähtavus stabiilsuse ja järkjärgulise parandamise jaoks"
+        }
+      },
+      "support": {
+        "title": "Pidev tugi ja võimekuse suurendamine",
+        "intro": "Pärast sisselogimist töötab süsteem pidevalt põhjatugiga:",
+        "item1": {
+          "title": "Pidev monitooring ja hooldus",
+          "text": "Proaktiivne süsteemide monitooring tagab usaldusväärsuse ja turvalisuse ilma käsitsi sekkumiseta"
+        },
+        "item2": {
+          "title": "Järkjärguline parandamine",
+          "text": "Regulaarsed uuendused ja optimeerimised hoidvad teie operatiivse aluse ajakohasena ja tõhusana"
+        },
+        "item3": {
+          "title": "Turvalise kaugtöö võimekuse suurendamine",
+          "text": "Pidev tugi tagab, et teie meeskond saab kaugtööd turvaliselt ja usaldusväärselt teha"
+        }
+      }
+    },
+    "who": {
+      "title": "Kellele see on mõeldud",
+      "intro": "See teenus on mõeldud perearstikeskustele, mis soovivad:",
+      "item1": "Võimaldada kaug- või hübriidtööd",
+      "item2": "Vähendada haldus- ja koordineerimiskoormust",
+      "item3": "Parandada personali säilitamist ja atraktiivsust noorematele arstidele",
+      "item4": "Moderniseerida ilma suurte eelinvesteeringuteta",
+      "item5": "Vältida sisemiste IT või operatsioonimeeskondade ehitamist"
+    },
+    "commercial": {
+      "title": "Kommertsmudel",
+      "intro": "Lihtne, prognoositav hinnakujundus:",
+      "item1": "Tellimus töökoha kohta",
+      "item2": "Üks ühtne kuuarve",
+      "item3": "Riistvara ja tarkvara komplekteeritud",
+      "item4": "Prognoositavad operatiivkulud",
+      "item5": "Ühekordne makse seadistuse eest"
+    },
+    "aspire": {
+      "title": "Me püüdleme",
+      "item1": "Teha perearsti tööd paindlikumaks ja jätkusuutlikumaks",
+      "item2": "Toetada väiksemaid, maapiirkonna ja alavõimustatud keskusi",
+      "item3": "Luua alused ristkliinilisele personalile ja koostööle",
+      "item4": "Laiendada naabermaadesse sarnaste tervishoiusüsteemidega",
+      "item5": "Võimaldada meditsiinitöötajatel töötada kodust või kaugtööna, kui see on sobiv, ilma patsientide hoolduse või operatiivse efektiivsuse kahjustamata",
+      "item6": "Täielikult digiteerida meditsiiniasutused kaasaegsete digitaalsete tööriistade ja protsessidega, mis vastab digitaalsele transformatsioonile, mida näeme teistes professionaalsetes sektorites",
+      "item7": "Optimeerida tööjõudu andmepõhiste ülevaadete kaudu heaolu ja efektiivsuse kohta, mis viib parema töö- ja elutasakaaluni ning parandatud patsientide tulemusteni"
+    },
+    "footer": {
+      "description": "Meditsiinikeskuste moderniseerimine turvaliseks kaug- ja hübriidtööks."
     }
   }
 }

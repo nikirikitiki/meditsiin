@@ -9,13 +9,22 @@ website/
 ├── index.html          # Homepage
 ├── about.html          # About/Mission/Vision page
 ├── offerings.html      # Services/Offerings page
+├── overview.html       # Service overview (one-pager content)
+├── login.html          # Login page (password protection)
+├── settings.html       # Settings page
 ├── css/
 │   ├── style.css       # Main stylesheet
 │   └── responsive.css  # Mobile responsiveness
 ├── js/
-│   └── main.js         # Interactive features
+│   ├── main.js         # Interactive features
+│   ├── i18n.js         # Internationalization
+│   └── settings.js     # Settings functionality
+├── lang/               # Translation files
+│   ├── en.json         # English translations
+│   ├── et.json         # Estonian translations
+│   └── ru.json         # Russian translations
 ├── assets/
-│   ├── images/         # Logo, icons, images
+│   ├── images/         # Images
 │   └── fonts/          # Custom fonts (if needed)
 └── _config.yml         # GitHub Pages config (optional)
 ```
@@ -27,6 +36,9 @@ website/
 - **Professional Aesthetics**: Medical/healthcare industry appropriate
 - **Fast Loading**: Optimized, minimal dependencies
 - **SEO Ready**: Proper meta tags, semantic HTML
+- **Password Protection**: Client-side login page (username: demo, password: demo)
+- **Multi-Language Support**: Estonian (ET), Russian (RU), English (EN)
+- **Service Overview**: Comprehensive one-pager content on overview page
 
 ## GitHub Pages Setup
 
@@ -62,6 +74,14 @@ npx http-server -p 8000
 # Then visit http://localhost:8000
 ```
 
+## Password Protection
+
+The website includes client-side password protection:
+- **Login Page**: `login.html` - Username: `demo`, Password: `demo`
+- **Authentication**: Uses `sessionStorage` to maintain login state during browser session
+- **Protected Pages**: All pages (except login.html) require authentication
+- **Security Note**: This is client-side protection only and deters casual visitors. For stronger security, consider making the GitHub repository private or using a hosting service with built-in password protection.
+
 ## Multi-Language Support
 
 The website supports three languages:
@@ -73,11 +93,23 @@ Language is auto-detected from browser settings, and users can switch languages 
 
 **Note:** The language switcher will work perfectly on GitHub Pages. The CORS error only occurs when opening files directly from the file system - use a local server for testing.
 
+**Note:** The `overview.html` page is English-only and does not use the i18n system.
+
+## Pages Overview
+
+- **index.html** - Homepage with value proposition, challenges, and solutions preview
+- **about.html** - Mission, vision, aspirations, commitment, and team information
+- **offerings.html** - Detailed service offerings with components and value propositions
+- **overview.html** - Comprehensive service overview based on one-pager content (English-only)
+- **login.html** - Password-protected login page (username: demo, password: demo)
+- **settings.html** - User settings for font and color scheme preferences
+
 ## Customization
 
 - Update colors in `css/style.css` (CSS variables in `:root`)
 - Modify content in HTML files
 - Add images to `assets/images/`
+- Update translations in `lang/` JSON files
 
 ## Browser Support
 

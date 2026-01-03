@@ -11,6 +11,70 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <style>
+        /* Apply clinic page styles to offerings */
+        .offerings-section {
+            padding: 4rem 0;
+        }
+        .offerings-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .offering-detail {
+            margin-bottom: 0;
+            padding: 1.25rem 1.5rem;
+            background: white;
+            border: 2px solid var(--border-color);
+            border-radius: 0.5rem;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .offering-detail:hover {
+            border-color: var(--primary-color);
+            box-shadow: 0 2px 8px rgba(40, 53, 147, 0.1);
+        }
+        .offering-header {
+            margin-bottom: 0.75rem;
+        }
+        .offering-number {
+            width: 32px;
+            height: 32px;
+            font-size: 1rem;
+        }
+        .offering-header h3 {
+            font-size: 1.25rem;
+            margin: 0;
+        }
+        .offering-description {
+            font-size: 0.95rem;
+            color: var(--text-light);
+            margin-bottom: 0.75rem;
+            font-weight: 400;
+            font-style: normal;
+        }
+        .offering-details {
+            margin-top: 0.75rem;
+        }
+        .detail-column h4 {
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+            font-size: 0.9rem;
+        }
+        .detail-column ul {
+            margin-top: 0.25rem;
+        }
+        .detail-column li {
+            margin-bottom: 0.05rem;
+            line-height: 1.4;
+            font-size: 0.9rem;
+        }
+        @media (max-width: 768px) {
+            .offerings-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
 </head>
 <body>
     <!-- Navigation -->
@@ -27,8 +91,8 @@
                     <li><a href="index.html" data-i18n="nav.home">Home</a></li>
                     <li><a href="offerings.html" class="active" data-i18n="nav.offerings">Offerings</a></li>
                     <li><a href="about.html" data-i18n="nav.about">About</a></li>
-                    <li><a href="sales.html">Sales Pitch</a></li>
-                    <li><a href="clinic.html">Clinic Management</a></li>
+                    <li class="nav-divider"></li>
+                    <li><a href="overview.html">Overview</a></li>
                 </ul>
                 <div class="nav-right">
                     <div class="lang-switcher">
@@ -65,11 +129,12 @@
     </section>
 
     <!-- Core Offerings -->
-    <section class="offerings-section">
+    <section class="offerings-section" id="offerings">
         <div class="container">
             <h2 data-i18n="offerings.coreTitle">Core Offerings</h2>
             
-            <div class="offering-detail">
+            <div class="offerings-grid">
+            <div class="offering-detail" id="hardware">
                 <div class="offering-header">
                     <span class="offering-number">1</span>
                     <h3 data-i18n="offerings.hardware.title">Hardware Solutions</h3>
@@ -84,10 +149,20 @@
                             <li data-i18n="offerings.hardware.components.item3">Essential hardware for remote medical work</li>
                         </ul>
                     </div>
+                    <div class="detail-column">
+                        <h4>Value Proposition</h4>
+                        <ul>
+                            <li>Low recurring cost with monthly subscription model</li>
+                            <li>No management overhead - hardware is centrally managed</li>
+                            <li>No upfront investment required</li>
+                            <li>Pre-configured and encrypted devices ready to use</li>
+                            <li>Suitable for both on-site and remote clinical work</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
 
-            <div class="offering-detail">
+            <div class="offering-detail" id="it-infrastructure">
                 <div class="offering-header">
                     <span class="offering-number">2</span>
                     <h3 data-i18n="offerings.it.title">IT Infrastructure & Support</h3>
@@ -115,7 +190,7 @@
                 </div>
             </div>
 
-            <div class="offering-detail">
+            <div class="offering-detail" id="software">
                 <div class="offering-header">
                     <span class="offering-number">3</span>
                     <h3 data-i18n="offerings.software.title">Medical Software Update Management</h3>
@@ -142,7 +217,7 @@
                 </div>
             </div>
 
-            <div class="offering-detail">
+            <div class="offering-detail" id="communication">
                 <div class="offering-header">
                     <span class="offering-number">4</span>
                     <h3 data-i18n="offerings.communication.title">Communication Tools</h3>
@@ -169,7 +244,7 @@
                 </div>
             </div>
 
-            <div class="offering-detail">
+            <div class="offering-detail" id="productivity">
                 <div class="offering-header">
                     <span class="offering-number">5</span>
                     <h3 data-i18n="offerings.productivity.title">Productivity Tools</h3>
@@ -195,7 +270,7 @@
                 </div>
             </div>
 
-            <div class="offering-detail">
+            <div class="offering-detail" id="workforce">
                 <div class="offering-header">
                     <span class="offering-number">6</span>
                     <h3 data-i18n="offerings.workforce.title">Workforce Organization Tools</h3>
@@ -224,7 +299,7 @@
                 </div>
             </div>
 
-            <div class="offering-detail">
+            <div class="offering-detail" id="organizational">
                 <div class="offering-header">
                     <span class="offering-number">7</span>
                     <h3 data-i18n="offerings.organizational.title">Organizational Structure & Design</h3>
@@ -279,6 +354,7 @@
                     </div>
                 </div>
             </div>
+            </div>
         </div>
     </section>
 
@@ -305,7 +381,7 @@
                         <li><a href="index.html" data-i18n="nav.home">Home</a></li>
                         <li><a href="about.html" data-i18n="nav.about">About</a></li>
                         <li><a href="offerings.html" data-i18n="nav.offerings">Offerings</a></li>
-                        <li><a href="clinic.html">Clinic Management</a></li>
+                        <li><a href="overview.html">Overview</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
@@ -325,6 +401,12 @@
 
     <script src="js/i18n.js"></script>
     <script src="js/main.js"></script>
+    <script>
+        // Check authentication
+        if (!sessionStorage.getItem('authenticated')) {
+            window.location.href = 'login.html';
+        }
+    </script>
 </body>
 </html>
 

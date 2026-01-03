@@ -27,8 +27,8 @@
                     <li><a href="index.html" data-i18n="nav.home">Home</a></li>
                     <li><a href="offerings.html" data-i18n="nav.offerings">Offerings</a></li>
                     <li><a href="about.html" class="active" data-i18n="nav.about">About</a></li>
-                    <li><a href="sales.html">Sales Pitch</a></li>
-                    <li><a href="clinic.html">Clinic Management</a></li>
+                    <li class="nav-divider"></li>
+                    <li><a href="overview.html">Overview</a></li>
                 </ul>
                 <div class="nav-right">
                     <div class="lang-switcher">
@@ -81,6 +81,18 @@
                     </div>
                     <div class="vision-item">
                         <strong data-i18n="about.vision.aspirations.optimization.label">Workforce optimization through data:</strong> <span data-i18n="about.vision.aspirations.optimization.text">Medical teams benefit from analytics-driven insights into wellbeing and efficiency, leading to better work-life balance and improved patient outcomes.</span>
+                    </div>
+                    <div class="vision-item">
+                        <strong>Make GP work more flexible and sustainable:</strong> <span>Enable GP centers to operate with greater flexibility while maintaining sustainability and quality of care.</span>
+                    </div>
+                    <div class="vision-item">
+                        <strong>Support smaller, rural, and understaffed centers:</strong> <span>Provide solutions that help smaller and rural GP centers overcome staffing challenges and resource limitations.</span>
+                    </div>
+                    <div class="vision-item">
+                        <strong>Create foundations for cross-clinic staffing and collaboration:</strong> <span>Build infrastructure that enables healthcare professionals to work across multiple clinics and collaborate effectively.</span>
+                    </div>
+                    <div class="vision-item">
+                        <strong>Expand to neighbouring countries with similar healthcare systems:</strong> <span>Extend our solutions to help modernize healthcare systems in neighbouring countries facing similar challenges.</span>
                     </div>
                 </div>
             </div>
@@ -219,7 +231,7 @@
                         <li><a href="index.html" data-i18n="nav.home">Home</a></li>
                         <li><a href="about.html" data-i18n="nav.about">About</a></li>
                         <li><a href="offerings.html" data-i18n="nav.offerings">Offerings</a></li>
-                        <li><a href="clinic.html">Clinic Management</a></li>
+                        <li><a href="overview.html">Overview</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
@@ -239,6 +251,12 @@
 
     <script src="js/i18n.js"></script>
     <script src="js/main.js"></script>
+    <script>
+        // Check authentication
+        if (!sessionStorage.getItem('authenticated')) {
+            window.location.href = 'login.html';
+        }
+    </script>
 </body>
 </html>
 

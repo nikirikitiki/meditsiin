@@ -6,11 +6,13 @@ This repository contains all documentation for the MEDITSIIN4.0 project. Use thi
 
 ### High-Level Documents
 
-- **[Vision](./docs/vision.md)** - The long-term vision and aspirations for MEDITSIIN4.0
-- **[Mission](./docs/mission.md)** - The core mission and purpose of the project
-- **[Goals](./docs/goals.md)** - Strategic goals and objectives
-- **[Offerings](./docs/offerings.md)** - Detailed product and service offerings
+- **[Core](./docs/core.md)** - Core project documentation, problem statement, and business model
+- **[One-Pager](./docs/one-pager.md)** - Condensed service overview and key information
 - **[Pricing Model](./docs/pricing-model.md)** - Subscription-based pricing model (per workplace)
+- **[Revenue Strategy](./docs/revenue-strategy.md)** - Revenue strategy and business model
+- **[Implementation Plan](./docs/implementation-plan.md)** - Implementation planning and roadmap
+- **[Ideas](./docs/ideas.md)** - Project ideas and concepts
+- **[Research](./docs/research/)** - Customer research and market analysis
 
 ### Documentation Structure
 
@@ -18,16 +20,16 @@ This repository contains all documentation for the MEDITSIIN4.0 project. Use thi
 meditsiin4.0/
 ├── README.md          # This file - main index
 ├── docs/              # Documentation files
-│   ├── vision.md     # Project vision
-│   ├── mission.md     # Project mission
-│   ├── goals.md       # Project goals
-│   ├── offerings.md   # Product and service offerings
-│   └── pricing-model.md # Pricing model documentation
+│   ├── core.md       # Core project documentation
+│   ├── one-pager.md  # One-pager summary
+│   ├── revenue-strategy.md # Revenue strategy
+│   └── research/      # Research documents
 └── website/           # Website files (HTML/CSS/JS)
     ├── index.html     # Homepage
     ├── about.html     # About page
     ├── offerings.html # Offerings page
-    ├── sales.html     # Sales pitch page
+    ├── overview.html  # Service overview (one-pager content)
+    ├── login.html     # Login page (password protection)
     ├── settings.html  # Settings page
     ├── css/           # Stylesheets
     ├── js/            # JavaScript
@@ -48,11 +50,11 @@ meditsiin4.0/
 ### Reading the Documentation
 
 Begin by reading the high-level documents to understand the project's direction:
-1. Start with [Vision](./docs/vision.md) to understand the long-term aspirations
-2. Review [Mission](./docs/mission.md) to understand the core purpose
-3. Explore [Goals](./docs/goals.md) to see the strategic objectives
-4. Review [Offerings](./docs/offerings.md) to understand our products and services
-5. Review [Pricing Model](./docs/pricing-model.md) to understand the subscription pricing structure
+1. Start with [Core](./docs/core.md) to understand the project foundation, problem statement, and business model
+2. Review [One-Pager](./docs/one-pager.md) for a condensed overview of the service
+3. Review [Pricing Model](./docs/pricing-model.md) to understand the subscription pricing structure
+4. Explore [Revenue Strategy](./docs/revenue-strategy.md) for business model details
+5. Check [Research](./docs/research/) for customer and market analysis
 
 ### Running the Website Locally
 
@@ -96,21 +98,24 @@ For more details, see the [Website README](./website/README.md).
 MEDITSIIN4.0 is a comprehensive digitalization platform designed to support GP centers (Family Centers) in Estonia as they transition to modern, remote-work-capable operations. 
 
 **The Challenge:** GP centers in Estonia face significant digitalization challenges:
-- Outdated computer infrastructure
-- Fragmented software solutions for critical functions like shift planning and vacation management
-- Inability to envision or implement remote workforce solutions
-- Inefficient workforce planning without proper tools to manage nurse-to-doctor ratios and team composition
-- Lack of dedicated system administrators
+- Staff shortages among doctors and nurses
+- Ageing hardware and outdated software
+- Fragmented tools for communication, scheduling, and documentation
+- No dedicated IT or operational support
+- Limited visibility into workload, staff wellbeing, or patient satisfaction
+- No time to manage multiple vendors
+- Lack of internal IT expertise
+- Capacity to design secure, compliant remote setups
 
 **Our Solution:** We provide an integrated suite of services including:
-- Hardware rental (laptops, headphones)
-- System administration services and IT infrastructure support
-- Medical software update management
-- Communication tools (chat, calls, email)
-- Office suite solutions
-- Workforce organization tools (shift planning, vacation/sick-leave management, advanced workforce planning)
-- Organizational structure & design services
-- Satisfaction tracking & workload monitoring
+- Hardware (optional) - Monthly hardware bundle, centrally managed
+- IT & System Administration - One accountable owner for day-to-day reliability
+- Secure Remote Access - VPN-based access with role-based permissions
+- Communication - Unified setup for chat, calls, and email
+- Office & Document Tools - Standard office software with centralized storage
+- Workforce & Shift Management - Support hybrid staffing models
+- Consulting on Personnel Management - Ways of working and collaboration
+- Workload & Satisfaction Monitoring (Future) - Signals for staffing decisions
 
 **Key Benefits:** Modernization makes GP centers more attractive to young professionals, who are drawn to modern, digitalized work environments with flexible work options.
 

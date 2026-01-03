@@ -61,3 +61,6 @@ if __name__ == '__main__':
     print("This script would parse company data from SSB.ee")
     print("Due to access restrictions, manual data entry or API access would be needed")
 
+
+
+

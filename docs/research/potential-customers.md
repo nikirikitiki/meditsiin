@@ -4,524 +4,3073 @@ Data extracted from SSB.ee search results for medical practices (EMTAK: 86211)
 
 **Total companies extracted: 511**
 
-> 💡 **For a sortable and searchable version**, see [potential-customers.html](potential-customers.html) - Click column headers to sort, use the search box to filter companies.
-
 ## Companies
 
+### INNA KOVRIGINA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2550
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 472 347 €
 
-| Name | Krediidiskoor | Maineskoor | Töötajaid | Prognooskäive (2025) |
-|------|---------------|------------|-----------|----------------------|
-| INNA KOVRIGINA PEREARSTIKESKUS OÜ | Usaldusväärne | 2550 | 7 | 472 347 € |
-| MEDICUM PEREARSTIKESKUS AS | Usaldusväärne | 8120 | 119 | 8 227 830 € |
-| TERVISEAGENTUUR OÜ | Usaldusväärne | 6590 | 112 | 8 818 441 € |
-| PEREKLIINIK OÜ | Usaldusväärne | 4940 | 93 | 5 449 487 € |
-| PEALINNA PEREARSTID OÜ | Usaldusväärne | 4590 | 79 | 7 601 376 € |
-| NARVA PEREARSTIKESKUS OÜ | Usaldusväärne | 4490 | 66 | 5 435 937 € |
-| ENNETUSKLIINIK OÜ | Usaldusväärne | 4420 | 86 | 4 936 644 € |
-| TALLINNA PEREARSTIKESKUS OÜ | Usaldusväärne | 4320 | 60 | 5 094 082 € |
-| PÄRNU PEREARSTID OÜ | Usaldusväärne | 4020 | 49 | 5 783 856 € |
-| SAKU TERVISEKESKUS OÜ | Usaldusväärne | 3780 | 52 | 3 873 688 € |
-| JERŽANOVA OÜ | Usaldusväärne | 3580 | 2 | 271 278 € |
-| PIRITA PEREARSTIKESKUS OÜ | Usaldusväärne | 3540 | 39 | 3 842 292 € |
-| MUSTAMÄE JA NÕMME PEREARSTIKESKUS OÜ | Usaldusväärne | 3320 | 44 | 3 886 036 € |
-| PEREARSTIDE KESKUS NEEME OÜ | Usaldusväärne | 3300 | 42 | 2 328 932 € |
-| TARTU RAATUSE PAK OÜ | Usaldusväärne | 3270 | 54 | 5 246 853 € |
-| JÄRVE TERVISEKESKUS OÜ | Usaldusväärne | 3000 | 36 | 3 149 640 € |
-| LAAGRI PEREARSTIKESKUS OÜ | Usaldusväärne | 2830 | 44 | 3 289 096 € |
-| KURESSAARE PEREARSTIKESKUS OÜ | Usaldusväärne | 2780 | 31 | 2 803 558 € |
-| MEDITIIM OÜ | Usaldusväärne | 2640 | 32 | 3 058 972 € |
-| LINNAMÕISA PEREARSTIKESKUS OÜ | Usaldusväärne | 2580 | 29 | 2 826 956 € |
-| MERELAHE TK OÜ | Usaldusväärne | 2560 | 35 | 4 077 137 € |
-| KADRINA TERVISEKESKUS OÜ | Usaldusväärne | 2510 | 18 | 1 298 224 € |
-| PAIDE ARST OÜ | Usaldusväärne | 2500 | 26 | 1 522 831 € |
-| TÜRI TERVISEKESKUS OÜ | Usaldusväärne | 2490 | 26 | 1 903 605 € |
-| TARTU KOOLITERVISHOIU OÜ | Usaldusväärne | 2490 | 33 | 1 633 933 € |
-| MUSTAMÄE POLIKLIINIKU PEREARSTIKESKUS OÜ | Usaldusväärne | 2400 | 27 | 2 106 801 € |
-| JÄRVEOTSA PEREARSTIKESKUS OÜ | Usaldusväärne | 2380 | 30 | 3 311 366 € |
-| ERAARST KERSTI VEIDRIK OÜ | Usaldusväärne | 2370 | 7 | 1 054 334 € |
-| RAPLA PEREARSTIKESKUS OÜ | Usaldusväärne | 2350 | 24 | 1 970 431 € |
-| TABASALU PEREARSTIKESKUS OÜ | Usaldusväärne | 2350 | 26 | 1 753 752 € |
-| KEILA PEREARSTIKESKUSE OÜ | Usaldusväärne | 2330 | 25 | 1 938 757 € |
-| LINNA TERVISEKESKUS OÜ | Usaldusväärne | 2260 | 26 | 1 745 192 € |
-| SINDI TERVISEKESKUS OÜ | Usaldusväärne | 2170 | 20 | 2 122 642 € |
-| KARULAUGU TERVISEKESKUS OÜ | Usaldusväärne | 2130 | 24 | 2 291 753 € |
-| KODUDOKTORI PAK SINU ARST OÜ | Usaldusväärne | 2120 | 30 | 1 607 948 € |
-| AIRA PEREARSTIKESKUS OÜ | Usaldusväärne | 2100 | 23 | 2 300 639 € |
-| JÜRGENSON PAK OÜ | Usaldusväärne | 2100 | 17 | 1 589 157 € |
-| MÄRJAMAA PEREARSTIKESKUS OÜ | Usaldusväärne | 2090 | 19 | 1 827 064 € |
-| TÕSTAMAA TERVISEKESKUS OÜ | Usaldusväärne | 2060 | 18 | 1 685 417 € |
-| ASCOLI SA | Usaldusväärne | 2050 | 31 | 1 033 229 € |
-| ÜLEJÕE PEREARST OÜ | Usaldusväärne | 2030 | 18 | 1 848 357 € |
-| KIVIMÄE PEREARSTIKESKUS OÜ | Usaldusväärne | 1990 | 30 | 2 193 052 € |
-| JÜRI TERVISEKESKUSE OÜ | Usaldusväärne | 1970 | 24 | 2 237 599 € |
-| ROSENTHALI TERVISEKESKUS OÜ | Usaldusväärne | 1970 | 23 | 1 911 987 € |
-| MÕISAVAHE PEREARSTID OÜ | Usaldusväärne | 1960 | 16 | 1 959 440 € |
-| KEHRA TERVISEKESKUS OÜ | Usaldusväärne | 1950 | 16 | 1 362 040 € |
-| HAABERSTI PEREARSTIKESKUS OÜ | Usaldusväärne | 1940 | 17 | 1 541 628 € |
-| SEKSUAALTERVISE KLIINIK OÜ | Usaldusväärne | 1910 | 20 | 837 983 € |
-| HELVE KANSI OÜ | Usaldusväärne | 1900 | 25 | 832 115 € |
-| TAPA PEREARSTIKESKUS OÜ | Usaldusväärne | 1890 | 17 | 1 924 421 € |
-| VÄNDRA ARST OÜ | Usaldusväärne | 1870 | 15 | 1 428 488 € |
-| SAUE PEREARSTIKESKUS OÜ | Usaldusväärne | 1860 | 14 | 966 301 € |
-| KALAMAJA PEREARSTID OÜ | Usaldusväärne | 1850 | 15 | 1 253 946 € |
-| ÄDALA PEREARSTIKESKUS OÜ | Usaldusväärne | 1840 | 14 | 1 909 022 € |
-| ROPKA PEREARSTIKESKUS OÜ | Usaldusväärne | 1800 | 16 | 1 360 066 € |
-| MAGDALEENA PEREARSTID OÜ | Usaldusväärne | 1770 | 12 | 1 192 027 € |
-| VIRU PEREARSTID OÜ | Usaldusväärne | 1770 | 18 | 2 008 315 € |
-| MERIMED OÜ | Usaldusväärne | 1720 | 19 | 1 330 587 € |
-| MAJAKA PEREARSTIKESKUS OÜ | Usaldusväärne | 1710 | 12 | 902 866 € |
-| NARVA JOALA PEREARSTIKESKUS OÜ | Usaldusväärne | 1700 | 14 | 1 128 089 € |
-| VIIMSI PEREARSTIKESKUS OÜ | Usaldusväärne | 1690 | 20 | 1 370 050 € |
-| MAHTRA PEREARSTIKESKUS OÜ | Usaldusväärne | 1670 | 12 | 1 060 409 € |
-| MEREKIVI PEREARSTID OÜ | Usaldusväärne | 1640 | 10 | 1 003 806 € |
-| PEREARST ALLA KISSEL OÜ | Usaldusväärne | 1640 | 7 | 397 054 € |
-| LASNAMÄE PEREARSTID-KAKS OÜ | Usaldusväärne | 1630 | 13 | 1 039 661 € |
-| TÕNISMÄE PEREMEDITSIINI KOLLEEGIUM OÜ | Usaldusväärne | 1620 | 14 | 1 158 285 € |
-| ELVA KESKLINNA PEREARSTIKESKUS OÜ | Usaldusväärne | 1580 | 9 | 1 182 487 € |
-| VÕRU ARST OÜ | Usaldusväärne | 1570 | 10 | 1 148 808 € |
-| PEREKESKUS OÜ | Usaldusväärne | 1570 | 10 | 867 520 € |
-| MUUGA PEREARSTIKESKUS OÜ | Usaldusväärne | 1550 | 18 | 1 469 631 € |
-| KUUSALU TERVISEKESKUS OÜ | Usaldusväärne | 1550 | 10 | 798 817 € |
-| MYMED PEREARSTID OÜ | Usaldusväärne | 1550 | 24 | 1 423 695 € |
-| KIVILINNA PEREARSTIKESKUS OÜ | Usaldusväärne | 1540 | 10 | 1 527 267 € |
-| PEREARST KAALEP KOPPEL OÜ | Usaldusväärne | 1540 | 8 | 776 752 € |
-| KLEIN JA OLLIKAINEN OÜ | Usaldusväärne | 1540 | 10 | 1 066 056 € |
-| PEREARSTID TAKKER JA SARAPUU OÜ | Usaldusväärne | 1540 | 10 | 997 154 € |
-| ESTONIAN CLINIC OÜ | Usaldusväärne | 1530 | 23 | 1 651 047 € |
-| FAVOREK PEREARSTIKESKUS OÜ | Usaldusväärne | 1520 | 16 | 57 089 € |
-| PEREARST MAIMU PINTSON OÜ | Usaldusväärne | 1510 | 4 | 415 807 € |
-| SL MEEDIK OÜ | Usaldusväärne | 1510 | 10 | 335 516 € |
-| MUSTAMÄE PEREARSTIKESKUS OÜ | Usaldusväärne | 1500 | 8 | 775 755 € |
-| MEDITERI PEREARSTID OÜ | Usaldusväärne | 1480 | 10 | 658 827 € |
-| NÕMME PEREARSTID OÜ | Usaldusväärne | 1480 | 11 | 882 143 € |
-| KOSE-LASNAMÄE PEREARSTIKESKUS OÜ | Usaldusväärne | 1480 | 9 | 1 083 251 € |
-| AL MARE PEREARSTIKESKUS OÜ | Usaldusväärne | 1480 | 22 | 1 219 134 € |
-| PAE PEREARSTIKESKUS OÜ | Usaldusväärne | 1470 | 10 | 964 776 € |
-| PEREARST ÜLLE PEREND OÜ | Usaldusväärne | 1460 | 8 | 978 969 € |
-| LIIVALAIA PEREARST OÜ | Usaldusväärne | 1460 | 8 | 659 223 € |
-| TOMSON TERVISEKESKUS OÜ | Usaldusväärne | 1460 | 16 | 1 351 840 € |
-| RÄNILINNA PEREARSTIKESKUS OÜ | Neutraalne | 1450 | 11 | 906 075 € |
-| PEREARST ANNE ORAS OÜ | Usaldusväärne | 1440 | 3 | 231 919 € |
-| VALGAMAA ARSTIKESKUS OÜ | Usaldusväärne | 1430 | 13 | 657 206 € |
-| PEREARST SILLE VÄLI OÜ | Usaldusväärne | 1430 | 5 | 446 161 € |
-| RAUAM & GAVRONSKI PEREARSTIKEKUS OÜ | Usaldusväärne | 1430 | 9 | 1 035 904 € |
-| STROOMI PEREARSTID OÜ | Usaldusväärne | 1430 | 10 | 618 430 € |
-| VITACON PEREARSTIKESKUS OÜ | Usaldusväärne | 1420 | 8 | 759 573 € |
-| DR.SIGNE ALLIKSOO PEREARSTIPRAKSIS OÜ | Usaldusväärne | 1420 | 9 | 569 700 € |
-| PALDISKI PEREARSTID OÜ | Usaldusväärne | 1420 | 9 | 650 718 € |
-| LASTEARST/PEREARST SIGNE USTAV OÜ | Usaldusväärne | 1410 | 9 | 506 328 € |
-| MAI PEREARSTID OÜ | Usaldusväärne | 1410 | 9 | 771 711 € |
-| DR. DIANA KIRSS OÜ | Usaldusväärne | 1400 | 8 | 269 432 € |
-| RÄGAVERE PEREARSTIKESKUS OÜ | Usaldusväärne | 1400 | 6 | 668 801 € |
-| VARDJA & SARAPUU OÜ | Usaldusväärne | 1390 | 7 | 826 685 € |
-| SURJU TERVISEKESKUS OÜ | Usaldusväärne | 1380 | 8 | 659 187 € |
-| PEREARST TIIU TOOTSI OÜ | Usaldusväärne | 1380 | 6 | 404 393 € |
-| LOO TERVISEKESKUS OÜ | Usaldusväärne | 1370 | 6 | 309 510 € |
-| MUSTLA PEREARSTIKESKUS OÜ | Usaldusväärne | 1360 | 6 | 710 418 € |
-| SINU ARST OÜ | Usaldusväärne | 1360 | 5 | 312 972 € |
-| PEREARST TAMARA VAHTRA-AASMETS OÜ | Usaldusväärne | 1350 | 4 | 386 460 € |
-| EVA LOSKIT OÜ | Usaldusväärne | 1350 | 5 | 432 799 € |
-| HÄÄDEMEESTE PEREARSTIKESKUS OÜ | Usaldusväärne | 1350 | 5 | 462 803 € |
-| MEDICAL PAK OÜ | Usaldusväärne | 1350 | 8 | 598 707 € |
-| AHTME PEREARSTIKESKUS OÜ | Usaldusväärne | 1350 | 13 | 1 592 333 € |
-| KRISTIINE PEREARSTID OÜ | Usaldusväärne | 1340 | 8 | 787 266 € |
-| KABO PEREARSTIKESKUS OÜ | Usaldusväärne | 1340 | 10 | 395 445 € |
-| TERVIS.E.KE OÜ | Usaldusväärne | 1330 | 4 | 447 579 € |
-| DOKTOR KRAFT-JAAKSOO OÜ | Usaldusväärne | 1320 | 6 | 416 554 € |
-| SALU HEALTH OÜ | Usaldusväärne | 1320 | 18 | 362 692 € |
-| LEHT JA MARGUS OÜ | Usaldusväärne | 1310 | 6 | 537 188 € |
-| MAGDALEENA TERVISEKESKUS OÜ | Usaldusväärne | 1310 | 17 | 1 775 109 € |
-| ASL PEREARST OÜ | Usaldusväärne | 1310 | 9 | 432 733 € |
-| MEDIHOLD OÜ | Neutraalne | 1310 | 11 | 345 641 € |
-| KESKLINNA PEREARST OÜ | Usaldusväärne | 1310 | 11 | 289 022 € |
-| PEREARST TARMO LOOGUS OÜ | Usaldusväärne | 1300 | 6 | 456 326 € |
-| PEREARST KÜLLI PAAL OÜ | Usaldusväärne | 1300 | 6 | 468 910 € |
-| DR AUNE OÜ | Usaldusväärne | 1300 | 6 | 427 995 € |
-| PEREARST ANU STARKOPF OÜ | Usaldusväärne | 1300 | 6 | 513 239 € |
-| PEREARST PIRET TAMMIST OÜ | Usaldusväärne | 1290 | 10 | 500 642 € |
-| PEREARST MARIKA TEDER OÜ | Usaldusväärne | 1290 | 5 | 875 767 € |
-| PEREARST MERIKE ROSENIIT OÜ | Usaldusväärne | 1270 | 5 | 348 429 € |
-| VITALONG PEREARSTIKESKUS OÜ | Usaldusväärne | 1270 | 7 | 357 371 € |
-| PEREARST NADEŽDA GRIGORJEVA OÜ | Usaldusväärne | 1260 | 6 | 366 769 € |
-| KAI SOOP OÜ | Usaldusväärne | 1250 | 6 | 620 459 € |
-| PEREMEDITSIINI JA TERVISEKESKUS RAHU OÜ | Usaldusväärne | 1250 | 5 | 571 783 € |
-| PEREARST VIIVIKA ALLAS OÜ | Usaldusväärne | 1250 | 7 | 748 329 € |
-| DR. MERIKE TUBLI OÜ | Usaldusväärne | 1250 | 7 | 476 516 € |
-| PEREARSTIKESKUS LAAGNA OÜ | Usaldusväärne | 1250 | 6 | 417 319 € |
-| LAADI&KÕRGESAAR OÜ | Usaldusväärne | 1240 | 8 | 740 466 € |
-| PIRITA-KOSE PEREARSTIKESKUS OÜ | Usaldusväärne | 1240 | 12 | 1 067 909 € |
-| PEREARST NADEŽDA MATÕŽENKO OÜ | Usaldusväärne | 1230 | 6 | 374 744 € |
-| PEREARST SVETLANA SINKINA OÜ | Usaldusväärne | 1230 | 8 | 692 094 € |
-| MERE PEREARSTIKESKUS OÜ | Usaldusväärne | 1230 | 5 | 468 064 € |
-| SHM MEDICOR OÜ | Usaldusväärne | 1230 | 5 | 689 256 € |
-| PEREARST ÜLLE STERN OÜ | Usaldusväärne | 1230 | 4 | 353 714 € |
-| PEREARST MAIRE NIRK OÜ | Usaldusväärne | 1230 | 6 | 449 044 € |
-| ERM OÜ | Usaldusväärne | 1220 | 5 | 438 580 € |
-| TERVISEKESKUS OÜ | Usaldusväärne | 1220 | 16 | 1 260 614 € |
-| DOCLINE OÜ | Usaldusväärne | 1220 | 3 | 171 642 € |
-| PEREARST MARE LÕUNAT OÜ | Usaldusväärne | 1220 | 4 | 379 874 € |
-| RAASIKU AMBULATOORIUM OÜ | Usaldusväärne | 1220 | 6 | 432 566 € |
-| PEREARST KARIN JÄGER OÜ | Usaldusväärne | 1220 | 5 | 258 701 € |
-| MEDISVET NPS OÜ | Usaldusväärne | 1220 | 5 | 482 525 € |
-| HIIUVIIDE OÜ | Usaldusväärne | 1220 | 9 | 670 008 € |
-| JÕGEVA VALLA PEREARSTIKESKUS OÜ | Usaldusväärne | 1220 | – | 322 932 € |
-| PEREARST VIIDA KORDMAA OÜ | Usaldusväärne | 1210 | 5 | 398 684 € |
-| PEREARST ANNE MINKA OÜ | Usaldusväärne | 1210 | 4 | 450 522 € |
-| PEREARST MALL LEPIKSOO OÜ | Usaldusväärne | 1210 | 6 | 667 040 € |
-| PEREARST HELGI LUIK OÜ | Usaldusväärne | 1210 | 7 | 734 925 € |
-| PEREARST MONIKA HÕIM OÜ | Usaldusväärne | 1210 | 6 | 366 750 € |
-| LARISSA GOLT OÜ | Usaldusväärne | 1210 | 6 | 284 356 € |
-| LJUDMILA JAZEPOVA PEREARST OÜ | Usaldusväärne | 1210 | 5 | 434 619 € |
-| VÄIKE-MAARJA TERVISEKESKUS OÜ | Usaldusväärne | 1200 | 9 | 587 307 € |
-| ANDRI MERILOO ARSTIKABINET OÜ | Usaldusväärne | 1200 | 6 | 570 224 € |
-| KALLASTE PEREARST OÜ | Usaldusväärne | 1200 | 7 | 266 734 € |
-| OSULA PEREARSTIKESKUS OÜ | Usaldusväärne | 1200 | 3 | 422 740 € |
-| PEREARST PÄÄSLANE OÜ | Usaldusväärne | 1200 | 6 | 403 190 € |
-| PEREARST HELLE VAMBOLA OÜ | Usaldusväärne | 1190 | 8 | 651 494 € |
-| PEREARST KRISTINA KESKÜLA OÜ | Usaldusväärne | 1190 | 7 | 577 093 € |
-| PEREARST TIIU KAJU OÜ | Usaldusväärne | 1180 | 3 | 373 928 € |
-| PEREARST KÜLVI PETERSON OÜ | Usaldusväärne | 1180 | 6 | 429 339 € |
-| MEDIKRAFT OÜ | Usaldusväärne | 1180 | 6 | 453 417 € |
-| PEREARST TATJANA ŠTŠASLIVAJA OÜ | Usaldusväärne | 1180 | 3 | 327 848 € |
-| ÜLEMISTE PEREARSTID OÜ | Usaldusväärne | 1180 | 8 | 720 352 € |
-| MERE-MED PEREARSTIKESKUS OÜ | Usaldusväärne | 1170 | 5 | 659 631 € |
-| DR. MONIKA VASK OÜ | Usaldusväärne | 1170 | 5 | 456 835 € |
-| PEREARST IŠTVAN KOSO OÜ | Usaldusväärne | 1170 | 4 | 257 945 € |
-| PEREARST IISI KRIIPSALU OÜ | Usaldusväärne | 1170 | 7 | 405 446 € |
-| TAMM JA SULA OÜ | Usaldusväärne | 1170 | 7 | 894 232 € |
-| PEREARST IGOR JUNKIN OÜ | Usaldusväärne | 1170 | 7 | 620 066 € |
-| KOOSA PEREARSTIKABINET OÜ | Usaldusväärne | 1160 | 10 | 428 587 € |
-| PERMER OÜ | Usaldusväärne | 1160 | 5 | 400 978 € |
-| JÄRVA-JAANI PEREARSTIKESKUS OÜ | Usaldusväärne | 1160 | 5 | 448 575 € |
-| MAARJAVÄLJA PEREARSTID OÜ | Usaldusväärne | 1160 | 12 | 1 226 044 € |
-| PEREMED OÜ | Usaldusväärne | 1160 | 3 | 280 086 € |
-| PA ALUSALU OÜ | Usaldusväärne | 1160 | 5 | 418 767 € |
-| KOSE PEREARSTIKABINET OÜ | Usaldusväärne | 1150 | 4 | 572 061 € |
-| MARJE METSUR-BENZEL OÜ | Usaldusväärne | 1150 | 7 | 437 229 € |
-| PEREARST AGI MÄRDIN OÜ | Usaldusväärne | 1150 | 5 | 480 303 € |
-| FLOMED OÜ | Usaldusväärne | 1140 | 3 | 428 092 € |
-| PEREARST HIRVE OÜ | Usaldusväärne | 1140 | 7 | 369 552 € |
-| PERETOHTER OÜ | Usaldusväärne | 1140 | 3 | 542 164 € |
-| PEREARST VALENTINA KESPER OÜ | Usaldusväärne | 1140 | 5 | 285 173 € |
-| PEREARST TARMO PEDA OÜ | Usaldusväärne | 1140 | 7 | 908 252 € |
-| DR MARET TAMME OÜ | Usaldusväärne | 1130 | 11 | 751 891 € |
-| PEREMEEDIK OÜ | Usaldusväärne | 1130 | 4 | 362 237 € |
-| VENOREST OÜ | Usaldusväärne | 1130 | 11 | 657 238 € |
-| PEREARST HIIE KARELSON OÜ | Usaldusväärne | 1130 | 4 | 475 599 € |
-| PEREARST KAIRI ROHTLA OÜ | Usaldusväärne | 1130 | 8 | 657 108 € |
-| PEREARST PIRET METS OÜ | Usaldusväärne | 1130 | 8 | 544 564 € |
-| PEREARST OÜ | Usaldusväärne | 1120 | 3 | 443 218 € |
-| PEREARST OLGA GVOZDEVA OÜ | Usaldusväärne | 1120 | 4 | 394 268 € |
-| SILLAMÄE KAJAKA ARSTIABIKESKUS OÜ | Usaldusväärne | 1120 | 4 | 706 265 € |
-| VINNI TERVISEMAJA OÜ | Neutraalne | 1120 | 7 | – |
-| PEREARST RITA ALANURM OÜ | Usaldusväärne | 1110 | 3 | 591 580 € |
-| ROIU TOHTER OÜ | Usaldusväärne | 1110 | 3 | 377 329 € |
-| MARJU JALLAI OÜ | Usaldusväärne | 1110 | 4 | 432 210 € |
-| PEREARST KAJA TORM OÜ | Usaldusväärne | 1110 | 4 | 427 624 € |
-| DR. MEISTER OÜ | Usaldusväärne | 1110 | 7 | 432 859 € |
-| PEREARST ALLA KOSTINA OÜ | Usaldusväärne | 1100 | 5 | 607 577 € |
-| MEDKAI PEREARST OÜ | Usaldusväärne | 1100 | 4 | 297 858 € |
-| PEREARST KÄRDI KALDA OÜ | Usaldusväärne | 1100 | 3 | 321 075 € |
-| PEREARST MARIKA PLAKS OÜ | Usaldusväärne | 1100 | 4 | 470 944 € |
-| VINNI TERVISEKESKUS OÜ | Usaldusväärne | 1100 | – | 371 618 € |
-| PEREARST TRIIN JAANIMÄGI OÜ | Usaldusväärne | 1100 | 5 | 514 314 € |
-| TORMA AMBULATOORIUM OÜ | Usaldusväärne | 1090 | 5 | 475 625 € |
-| PEREARST KÜLLIKI TIKKER OÜ | Usaldusväärne | 1090 | – | 317 148 € |
-| PEREARST SIRJE SAARNIIT OÜ | Usaldusväärne | 1090 | 4 | 302 332 € |
-| TAMSALU PEREARSTID OÜ | Usaldusväärne | 1090 | 9 | 687 169 € |
-| JELENA MAYOROVA OÜ | Usaldusväärne | 1080 | 6 | 421 570 € |
-| ÜLLE HANSEN OÜ | Usaldusväärne | 1080 | 5 | 485 605 € |
-| RAVITOODE OÜ | Usaldusväärne | 1080 | 8 | 438 167 € |
-| PEREARST KATRIN AKKEL OÜ | Usaldusväärne | 1080 | 4 | 151 356 € |
-| PERETERVIS OÜ | Usaldusväärne | 1080 | 5 | 537 927 € |
-| V. ABRAMOVITŠI PEREARSTIKESKUS OÜ | Usaldusväärne | 1070 | 4 | 411 566 € |
-| PEREARST LIIDIA BODNAR OÜ | Usaldusväärne | 1060 | 4 | 379 624 € |
-| PEREARST ÜLLE RUNNEL OÜ | Usaldusväärne | 1060 | 2 | 510 119 € |
-| BERTA TOIKKA OÜ | Usaldusväärne | 1060 | 9 | 469 465 € |
-| PEREARST NADEŽDA HOVANSKAJA OÜ | Usaldusväärne | 1060 | 4 | 283 892 € |
-| HARKU PEREARST OÜ | Usaldusväärne | 1060 | 6 | 430 866 € |
-| PEREARST MEELI MARIPUU OÜ | Usaldusväärne | 1060 | 5 | 507 131 € |
-| AG PRAKSIS OÜ | Usaldusväärne | 1060 | 5 | 385 431 € |
-| PEREARST KÜLLI RAUDSIK OÜ | Usaldusväärne | 1050 | 4 | 362 384 € |
-| PEREARSTIKESKUS REMEDIUM OÜ | Usaldusväärne | 1050 | 12 | 34 253 € |
-| DR. ELVIRA MURDE OÜ | Usaldusväärne | 1050 | 6 | 347 009 € |
-| PEREARST IRINA FOMKINA OÜ | Usaldusväärne | 1040 | 5 | 259 998 € |
-| PA MERLE KALLAS OÜ | Usaldusväärne | 1040 | 10 | 498 084 € |
-| RAATUSE PEREARST OÜ | Usaldusväärne | 1040 | 6 | 470 818 € |
-| AKUDDO PEREARST OÜ | Usaldusväärne | 1040 | 4 | 461 032 € |
-| DR. KARPENKO OÜ | Usaldusväärne | 1030 | 5 | 478 667 € |
-| LPKG OÜ | Usaldusväärne | 1030 | 6 | 398 605 € |
-| PEREARST SIRJE SAAR OÜ | Usaldusväärne | 1030 | 5 | 409 793 € |
-| TEIE TERVIS OÜ | Usaldusväärne | 1030 | 4 | 303 299 € |
-| PEREARST SILVIA KORBERG OÜ | Usaldusväärne | 1030 | 4 | 406 008 € |
-| KADRIORU PEREARSTIKESKUS OÜ | Usaldusväärne | 1030 | 4 | 122 829 € |
-| PEREARST MARGARITA HAPUNOVA OÜ | Usaldusväärne | 1030 | 5 | 319 566 € |
-| PEREARST MARGOT TAMM OÜ | Usaldusväärne | 1030 | 5 | 486 101 € |
-| DR JAKOVLEV OÜ | Usaldusväärne | 1030 | 6 | 499 170 € |
-| PEREARST SVETLANA EHILOO OÜ | Usaldusväärne | 1020 | 5 | 436 345 € |
-| ELOLEM OÜ | Usaldusväärne | 1020 | 6 | 417 870 € |
-| NUIA PAK OÜ | Usaldusväärne | 1020 | 2 | 182 128 € |
-| PEREARST KAJA ÕUNAPUU OÜ | Usaldusväärne | 1020 | 4 | 404 876 € |
-| DR. HELI TÄHEPÕLD ÜLIKOOLI PEREARSTIKESKUS OÜ | Neutraalne | 1020 | 8 | 443 862 € |
-| TOOME PAK OÜ | Usaldusväärne | 1010 | 3 | 640 591 € |
-| PEREARST MARET MISSAMOU OÜ | Usaldusväärne | 1010 | 4 | 533 284 € |
-| TERVE LAPS OÜ | Usaldusväärne | 1010 | 3 | 282 872 € |
-| MÄRJAMAA ARSTID OÜ | Usaldusväärne | 1010 | 7 | 611 826 € |
-| TAEBLA PEREARST OÜ | Usaldusväärne | 1010 | 3 | 275 574 € |
-| PEREARST MARJAM LARIONOVA OÜ | Usaldusväärne | 1010 | 4 | 381 915 € |
-| PEREARST RAUNO KURG OÜ | Usaldusväärne | 1000 | 5 | 512 209 € |
-| PEREARSTIKESKUS MEDICA OÜ | Usaldusväärne | 1000 | 4 | 435 424 € |
-| PEREARST MERILIN KÜTT OÜ | Usaldusväärne | 1000 | 4 | 369 570 € |
-| SALME PEREARSTIKESKUS OÜ | Usaldusväärne | 990 | 4 | 347 946 € |
-| PEREARST MARGIT KIVASTE OÜ | Usaldusväärne | 990 | 3 | 332 050 € |
-| ASTERMED OÜ | Usaldusväärne | 990 | 3 | 527 468 € |
-| SANSENTO OÜ | Usaldusväärne | 980 | 3 | 396 512 € |
-| PEREARST ANNE KALDOJA OÜ | Usaldusväärne | 980 | 9 | 556 558 € |
-| PEREARST TIIU KAASIK OÜ | Usaldusväärne | 980 | – | – |
-| PEREARST KERTU RÜNKORG OÜ | Usaldusväärne | 980 | 13 | 894 214 € |
-| PEREARST NIINA KONDRATJEVA OÜ | Usaldusväärne | 980 | 5 | 351 396 € |
-| PEREARST VIKTORIA LELEKA OÜ | Usaldusväärne | 970 | 3 | 306 745 € |
-| TELLISKIVI PEREARSTIKESKUS OÜ | Usaldusväärne | 970 | 9 | 540 212 € |
-| KATRIN KALLASMAA OÜ | Usaldusväärne | 970 | 9 | 511 859 € |
-| PEREARST MERIANA MAIDLA OÜ | Neutraalne | 970 | 4 | 412 163 € |
-| PEREARST VALENTINA ZEVAKINA OÜ | Usaldusväärne | 960 | 3 | 416 912 € |
-| MEDISTAR OÜ | Usaldusväärne | 950 | 4 | 475 661 € |
-| TERVEM TARTU OÜ | Usaldusväärne | 950 | 4 | 469 222 € |
-| PEREARST VIVIAN ALLES OÜ | Neutraalne | 950 | 6 | 8699 € |
-| RANNU PEREARSTIKESKUS OÜ | Usaldusväärne | 940 | 4 | 508 821 € |
-| SINU TERVIS PEREARSTIKESKUS OÜ | Usaldusväärne | 940 | 2 | 322 261 € |
-| PEREARST TOOMAS ERIK OÜ | Usaldusväärne | 940 | 2 | 365 182 € |
-| PEREARST NAIMA TOHT OÜ | Usaldusväärne | 940 | 3 | 620 014 € |
-| PEREARST LJUDMILA JAKOBSON OÜ | Usaldusväärne | 930 | 3 | 334 723 € |
-| KIILI PEREARSTIKESKUS OÜ | Usaldusväärne | 930 | 3 | 151 766 € |
-| BONMEDICA OÜ | Usaldusväärne | 930 | 4 | 361 218 € |
-| PEREARST SERGEI FJODOROV OÜ | Usaldusväärne | 930 | 4 | 535 575 € |
-| LÄÄNE-NIGULA PEREARSTIKESKUS OÜ | Usaldusväärne | 920 | 4 | 346 808 € |
-| LOO PEREARST OÜ | Usaldusväärne | 920 | 4 | 523 295 € |
-| MAARDU PEREARSTI KESKUS OÜ | Usaldusväärne | 910 | 6 | 739 125 € |
-| PEREARST MILVI SILD OÜ | Usaldusväärne | 910 | – | 438 882 € |
-| VOORMAN OÜ | Usaldusväärne | 910 | – | – |
-| DR. PILV OÜ | Usaldusväärne | 910 | 7 | 674 457 € |
-| TARTU TERVISE HEAKS OÜ | Usaldusväärne | 910 | 6 | 781 237 € |
-| PEREARST GULJAJEVA OÜ | Usaldusväärne | 900 | 2 | 311 729 € |
-| PARGI PEREARSTIKESKUS OÜ | Usaldusväärne | 900 | 3 | 357 527 € |
-| PEREARST MAIRE NÕMM OÜ | Usaldusväärne | 900 | 3 | 476 998 € |
-| PEREARST PIRET INNOS OÜ | Usaldusväärne | 900 | 5 | 399 498 € |
-| PEREARST KRISTEL UUSTAMM OÜ | Usaldusväärne | 900 | 5 | 541 389 € |
-| DR. JELENA PETROVA OÜ | Usaldusväärne | 900 | 3 | 302 214 € |
-| ÕISMED OÜ | Usaldusväärne | 890 | 3 | 385 875 € |
-| MUSTAMÄE TERVISEKESKUS OÜ | Usaldusväärne | 890 | 1 | 6902 € |
-| PEREARST MARJE TOOM OÜ | Usaldusväärne | 890 | 2 | 50 166 € |
-| PEREARST PIRET JÕGI OÜ | Usaldusväärne | 890 | 3 | 451 518 € |
-| PEREARST MEELIS KAUP OÜ | Usaldusväärne | 890 | 3 | 526 260 € |
-| VIRUMED OÜ | Usaldusväärne | 890 | 12 | 1 302 637 € |
-| TERVE PERE ARST OÜ | Usaldusväärne | 890 | 5 | 389 854 € |
-| PEREARST REET POLLI OÜ | Usaldusväärne | 880 | 3 | 533 324 € |
-| DIANA PEREARST OÜ | Usaldusväärne | 880 | 4 | 484 336 € |
-| ALIVIO OÜ | Usaldusväärne | 870 | 3 | 64 205 € |
-| PEREARST MARI VIRULA OÜ | Usaldusväärne | 870 | 5 | 321 689 € |
-| PEREARST MAKSYM UMANTSEV OÜ | Usaldusväärne | 860 | 3 | 587 257 € |
-| PEREARST PIRJE HÜTT OÜ | Usaldusväärne | 860 | 2 | 295 336 € |
-| PEREARST ELLEN LEMBRA OÜ | Usaldusväärne | 850 | 3 | 566 783 € |
-| MEDICOLM OÜ | Usaldusväärne | 830 | 6 | 580 591 € |
-| PEREARST NATALIA GVOZDEVA OÜ | Usaldusväärne | 830 | 5 | 304 429 € |
-| PEREARST T.GIRINSKAJA OÜ | Usaldusväärne | 830 | 3 | 287 341 € |
-| TRIIN NIRGI OÜ | Usaldusväärne | 830 | 3 | 335 038 € |
-| UUS LAINE KLIINIK OÜ | Usaldusväärne | 830 | 9 | 13 705 € |
-| OMA TERVIS OÜ | Usaldusväärne | 830 | 12 | 611 256 € |
-| MARITTA LOOG OÜ | Usaldusväärne | 820 | 5 | 403 586 € |
-| PEREARST ÜLLE BÜRKLAND OÜ | Usaldusväärne | 820 | 1 | 229 528 € |
-| PEREARST ÜLLE LOMP OÜ | Usaldusväärne | 820 | 1 | 235 101 € |
-| PEREARST AET VALGEPEA OÜ | Usaldusväärne | 820 | 2 | 458 055 € |
-| PANENKO OÜ | Usaldusväärne | 810 | 10 | 335 944 € |
-| FONS PEREARSTID OÜ | Usaldusväärne | 810 | 4 | 600 598 € |
-| KERSTI TUULING OÜ | Usaldusväärne | 800 | 5 | 322 374 € |
-| MEDPA OÜ | Usaldusväärne | 790 | 12 | 396 738 € |
-| PROPOSMED OÜ | Usaldusväärne | 790 | 2 | 196 527 € |
-| FAMILY DOCTOR OÜ | Usaldusväärne | 770 | – | 115 934 € |
-| NORDIC MEDICAL PARTNERS OÜ | Usaldusväärne | 770 | – | 2514 € |
-| ASKLEPION OÜ | Usaldusväärne | 770 | 6 | 370 696 € |
-| PEREARST AIRI KASEMÄGI OÜ | Usaldusväärne | 770 | 8 | 266 084 € |
-| KÕUE PEREARSTIKESKUS OÜ | Usaldusväärne | 760 | 8 | 564 198 € |
-| CURO OÜ | Usaldusväärne | 760 | – | 91 475 € |
-| UKU-MÄRT MÄTAS OÜ | Usaldusväärne | 760 | 3 | 452 142 € |
-| DAGÖ PEREARSTID OÜ | Usaldusväärne | 750 | 12 | – |
-| MEDLAAS OÜ | Usaldusväärne | 740 | – | – |
-| PEREARST KERSTI METSA OÜ | Usaldusväärne | 730 | 4 | 390 274 € |
-| KIBUVITSA PEREARSTIKESKUS OÜ | Riskantne | 730 | 9 | 11 219 € |
-| MUHU PEREARSTIKESKUS OÜ | Riskantne | 730 | 6 | 381 888 € |
-| PEREARST GERTA SONTAK OÜ | Usaldusväärne | 710 | 7 | 368 562 € |
-| PEREARST AIVAZJAN OÜ | Usaldusväärne | 710 | 4 | 365 537 € |
-| SINUHE OÜ | Usaldusväärne | 710 | – | 42 732 € |
-| ILME LAST FIE | Usaldusväärne | 700 | 7 | – |
-| PEREARST HEPP NIGOL OÜ | Usaldusväärne | 700 | 7 | 366 244 € |
-| NJORD INVESTMENTS OÜ | Usaldusväärne | 700 | – | – |
-| PEREARST EIKE ELMET OÜ | Usaldusväärne | 690 | 4 | 326 857 € |
-| PEREARST TIIA PARIIS OÜ | Usaldusväärne | 690 | 6 | 495 056 € |
-| JOALDUN SERVICES OÜ | Usaldusväärne | 690 | – | – |
-| MEDINVEST OÜ | Usaldusväärne | 680 | – | – |
-| PEREARST TARVO KIUDMA OÜ | Usaldusväärne | 680 | 4 | 548 748 € |
-| EVE MÕISTUSE PEREARSTIKESKUS OÜ | Usaldusväärne | 680 | 4 | 468 547 € |
-| MEDICENTER EESTI OÜ | Riskantne | 675 | 4 | 183 709 € |
-| ALATSKIVI PEREARST OÜ | Usaldusväärne | 660 | 2 | 344 589 € |
-| RIISIPERE TERVISEKESKUS OÜ | Usaldusväärne | 660 | – | 5730 € |
-| LOO TK OÜ | Usaldusväärne | 660 | 6 | 331 963 € |
-| DRDD CONSULTING OÜ | Usaldusväärne | 650 | 1 | 63 778 € |
-| INTERDOC OÜ | Usaldusväärne | 650 | 1 | 105 955 € |
-| RNTMEDS OÜ | Usaldusväärne | 640 | 4 | 314 918 € |
-| PUHJA PEREARST OÜ | Usaldusväärne | 640 | 6 | 377 163 € |
-| PEREARST EVELI PARVEOTS OÜ | Usaldusväärne | 640 | 5 | 230 786 € |
-| KEVADTUUL OÜ | Usaldusväärne | 640 | 1 | – |
-| KOSE PEREARSTIKESKUS OÜ | Usaldusväärne | 630 | 4 | 383 396 € |
-| NIINA MAMAI OÜ | Usaldusväärne | 630 | 2 | 278 478 € |
-| FREIENTHAL CONSULTATIONS OÜ | Usaldusväärne | 630 | – | – |
-| IVASK GRUPP OÜ | Usaldusväärne | 620 | – | – |
-| PAMED OÜ | Usaldusväärne | 620 | – | 14 376 € |
-| OJA JA PEDAJA OÜ | Usaldusväärne | 610 | 8 | 705 259 € |
-| PEREARST HEIKI ANNUK OÜ | Usaldusväärne | 610 | 6 | 326 244 € |
-| MAAARST OÜ | Neutraalne | 610 | 6 | 4583 € |
-| MÄGIDOKTOR OÜ | Usaldusväärne | 610 | 9 | – |
-| REGCONSULT OÜ | Usaldusväärne | 610 | – | 2760 € |
-| RRTERVIS OÜ | Usaldusväärne | 610 | – | – |
-| KATRIN PALOVER OÜ | Usaldusväärne | 600 | 3 | 252 348 € |
-| MEDIMOTION OÜ | Usaldusväärne | 600 | – | – |
-| RAVIALIS OÜ | Usaldusväärne | 600 | – | – |
-| M.A MEDICAL COMPANY OÜ | Usaldusväärne | 600 | – | – |
-| PEREARST RUTH LADVA OÜ | Usaldusväärne | 590 | 3 | 407 594 € |
-| PÄEVASAARE PEREARST OÜ | Usaldusväärne | 590 | – | 63 209 € |
-| PRIIT GINTER PAK OÜ | Usaldusväärne | 580 | 4 | 574 213 € |
-| PEREARST JULIA JÄRVEKÜLA OÜ | Usaldusväärne | 570 | 8 | – |
-| MINU ARST OÜ | Usaldusväärne | 570 | 7 | 558 219 € |
-| PEREARST JURI KADATSKI OÜ | Piiripealne | 560 | 4 | 402 248 € |
-| PEREARST ANU JÕEMÄGI OÜ | Usaldusväärne | 560 | 5 | 359 217 € |
-| PA LEGA OÜ | Usaldusväärne | 540 | 2 | 293 132 € |
-| PEREARST GALINA KUZNETSOVA OÜ | Usaldusväärne | 540 | – | – |
-| PEREARST MERLE JAKOBSON OÜ | Usaldusväärne | 540 | 5 | 249 350 € |
-| PEREARST LADVA OÜ | Usaldusväärne | 530 | – | – |
-| PEREARST PEETER BAKHOFF OÜ | Usaldusväärne | 530 | 3 | 433 401 € |
-| PEREARST JANE OTT OÜ | Usaldusväärne | 520 | 7 | 331 378 € |
-| KKC TEGEMISED OÜ | Usaldusväärne | 510 | – | – |
-| PEREARST VITIK OÜ | Usaldusväärne | 510 | 7 | – |
-| AIVALUS OÜ | Riskantne | 500 | – | 390 198 € |
-| KAI LAUTER OÜ | Usaldusväärne | 500 | – | 234 461 € |
-| EDUTARK OÜ | Usaldusväärne | 500 | – | 2869 € |
-| VOORUS OÜ | Riskantne | 500 | – | 21 607 € |
-| LEA MIIDLA-LEITU OÜ | Usaldusväärne | 500 | – | – |
-| PEREARST BORISS SLEPIKOVSKI OÜ | Usaldusväärne | 490 | 4 | 444 285 € |
-| RIOLANI OÜ | Usaldusväärne | 490 | 1 | 21 382 € |
-| PEREARST HEINAMETS OÜ | Usaldusväärne | 490 | 2 | 147 656 € |
-| AISU PEREARSTIKESKUS OÜ | Usaldusväärne | 490 | 6 | 367 236 € |
-| PEREARST TIIU LUUKAS OÜ | Usaldusväärne | 470 | – | – |
-| PEREARST KULLAMA OÜ | Usaldusväärne | 460 | – | – |
-| PEREARST KONGO OÜ | Usaldusväärne | 460 | 6 | – |
-| NISSI PEREARSTIKESKUS OÜ | Usaldusväärne | 460 | 3 | 349 775 € |
-| KOERU ARSTIKESKUS OÜ | Usaldusväärne | 450 | – | – |
-| PEREARST SIRJE PUHASMÄGI OÜ | Usaldusväärne | 450 | 1 | – |
-| MEDIRA OÜ | Usaldusväärne | 430 | 4 | 521 747 € |
-| VINNI ARST OÜ | Usaldusväärne | 420 | 5 | – |
-| HAAVAMÄE OÜ | Usaldusväärne | 410 | – | – |
-| INVITUM OÜ | Usaldusväärne | 400 | – | – |
-| PELGURANNA PAK OÜ | Usaldusväärne | 400 | 3 | 243 149 € |
-| TERVE PERE OÜ | Usaldusväärne | 390 | 1 | 328 485 € |
-| AMBROMED GRUPP OÜ | Usaldusväärne | 390 | 15 | 293 855 € |
-| DR KALLE OÜ | Usaldusväärne | 390 | – | 96 401 € |
-| PEREARST TIINA SAAR OÜ | Usaldusväärne | 390 | 4 | 270 433 € |
-| TERVIS JA TASAKAAL OÜ | Usaldusväärne | 380 | 2 | 94 € |
-| PEREARST LY ANDLA OÜ | Usaldusväärne | 380 | 1 | – |
-| ÕISMÄE PEREARSTIKESKUS OÜ | Usaldusväärne | 380 | – | – |
-| PEREARSTID BELAR OÜ | Piiripealne | 380 | – | – |
-| PEREARST TIINA PROOSVÄLI OÜ | Usaldusväärne | 380 | 4 | – |
-| NÕMME KLIINIK OÜ | Usaldusväärne | 370 | 3 | 55 611 € |
-| PEREARST TATJANA LELOV OÜ | Usaldusväärne | 370 | – | – |
-| FREST CONSULTING OÜ | Usaldusväärne | 350 | 1 | – |
-| PILLE SARAPUU OÜ | Usaldusväärne | 340 | 3 | – |
-| KRISTA REVA OÜ | Usaldusväärne | 340 | – | – |
-| RAPLAMAA KOOLIÕDE OÜ | Usaldusväärne | 340 | 3 | 92 954 € |
-| KAJA KASAK FIE | Usaldusväärne | 320 | 2 | – |
-| PEREARST EHA TALI OÜ | Usaldusväärne | 320 | – | – |
-| MARINA TARASSOVA FIE | Piiripealne | 320 | 4 | – |
-| PEREARST EVE NURMEKIVI OÜ | Usaldusväärne | 310 | – | – |
-| HIIUMAA TERVISEKESKUS OÜ | Usaldusväärne | 310 | 1 | 511 646 € |
-| SINILILLE PEREARSTIKESKUS OÜ | Usaldusväärne | 300 | 1 | – |
-| ALSRNT OÜ | Usaldusväärne | 300 | 1 | 498 620 € |
-| TUGIKODA OÜ | Usaldusväärne | 290 | – | 4288 € |
-| MDLUKS OÜ | Usaldusväärne | 270 | – | – |
-| PEREARST MERLE MUDA OÜ | Usaldusväärne | 270 | – | – |
-| MEDIZONE OÜ | Usaldusväärne | 270 | – | – |
-| 3DPRISMA OÜ | Usaldusväärne | 250 | – | – |
-| MEDISPIRE OÜ | Usaldusväärne | 250 | – | – |
-| PEREARST SUSI OÜ | Usaldusväärne | 250 | 2 | – |
-| FAST TRACK CLINIC OÜ | Usaldusväärne | 230 | – | – |
-| FRED MEDICUS OÜ | Usaldusväärne | 210 | – | – |
-| PEREARST IVI SONN OÜ | Usaldusväärne | 200 | 2 | – |
-| EDO HEALTH OÜ | Usaldusväärne | 200 | 1 | 19 544 € |
-| TUULEMAA PEREARSTIKESKUS OÜ | Usaldusväärne | 200 | 7 | – |
-| DOCGUIDE OÜ | Usaldusväärne | 190 | – | – |
-| MEDTEENUS OÜ | Usaldusväärne | 190 | – | – |
-| HML CONSULTANCY OÜ | Usaldusväärne | 180 | – | – |
-| TUGIMED OÜ | Usaldusväärne | 180 | – | 4422 € |
-| TÕRVA PEREARSTID OÜ | Usaldusväärne | 160 | – | – |
-| KUNGLA PEREARST OÜ | Usaldusväärne | 150 | – | – |
-| REVAMEDI OÜ | Usaldusväärne | 140 | – | – |
-| VARMED OÜ | Usaldusväärne | 130 | – | – |
-| ELAN CLINIC OÜ | Usaldusväärne | 120 | – | – |
-| ENTHELOS OÜ | Usaldusväärne | 120 | 3 | – |
-| FINESTMED OÜ | Usaldusväärne | 110 | 1 | – |
-| CAPFUL CAPITAL OÜ | Usaldusväärne | 110 | – | – |
-| PEREKESKUS GENERIS OÜ | Riskantne | 100 | – | – |
-| ARUKÜLA AMBULATOORIUM OÜ | Riskantne | 100 | 3 | 464 178 € |
-| DR. PIKK PEREARSTIKESKUS OÜ | Riskantne | 100 | – | – |
-| MEDREI OÜ | Usaldusväärne | 100 | – | – |
-| ODRAMED OÜ | Usaldusväärne | 100 | – | 202 € |
-| SETOMAA PEREARST OÜ | Usaldusväärne | 100 | – | – |
-| HATTIE INVEST OÜ | Usaldusväärne | 90 | – | – |
-| ALTHEUM OÜ | Piiripealne | 80 | – | 15 691 € |
-| LUMIFY OÜ | Usaldusväärne | 70 | – | – |
-| MC MED OÜ | Usaldusväärne | 60 | 3 | – |
-| SINITSIRGU OÜ | Usaldusväärne | 60 | – | – |
-| VALVEKLIINIK OÜ | Usaldusväärne | 50 | 42 | 533 850 € |
-| HEALTH AND MINDFULNESS OÜ | Usaldusväärne | 50 | – | – |
-| CURAMED OÜ | Usaldusväärne | 50 | – | – |
-| PLUS HEALTH OÜ | Usaldusväärne | 50 | – | – |
-| AURAMED OÜ | Usaldusväärne | 50 | – | – |
-| DR LIIS MÄGI PEREARSTIKESKUS OÜ | Usaldusväärne | 50 | – | – |
-| ÜLDARSTIABI OÜ | Usaldusväärne | 40 | – | – |
-| ENDLA AAS-PEREARST JA STOMATOLOOG FIE | Usaldusväärne | 40 | – | – |
-| MEDIGO OÜ | Usaldusväärne | 40 | – | – |
-| SENTIFOLI-LINDSTRÖM OÜ | Usaldusväärne | 40 | – | – |
-| UVAROV MEDICAL OÜ | Usaldusväärne | 40 | – | – |
-| ANCONEUS OÜ | Usaldusväärne | 40 | – | – |
-| OLIMED OÜ | Usaldusväärne | 40 | 1 | – |
-| ARST-LÄÄKÄRI OÜ | Usaldusväärne | 40 | 1 | – |
-| FRESIMED OÜ | Usaldusväärne | 40 | – | – |
-| HEDASI! OÜ | Usaldusväärne | 40 | – | – |
-| TERVEMA ELUKAARE OÜ | Usaldusväärne | 30 | – | – |
-| MÄRJAMAA TERVISEKESKUS OÜ | Usaldusväärne | 30 | – | – |
-| CABATRIV OÜ | Usaldusväärne | 30 | – | – |
-| SANTEVIA OÜ | Usaldusväärne | 30 | – | – |
-| TATJANA PROSKURINA OÜ | Riskantne | – | – | – |
-| VARSTU PEREARSTIKESKUS OÜ | Riskantne | – | 1 | – |
-| PEREARST PROOVEL OÜ | Riskantne | – | 2 | 84 472 € |
-| PEREARST EERIKA PUKSPUU OÜ | Riskantne | – | – | – |
-| TORI AMBULATOORIUM OÜ | Riskantne | – | 4 | – |
-| H&U ANDRE OÜ | Riskantne | – | 2 | – |
-| ELLI KAHAR OÜ | Riskantne | – | – | – |
-| MARGARITA LASMANIS OÜ | Riskantne | – | – | 874 € |
-| MULGI PEREARSTIKESKUS OÜ | Riskantne | – | – | 23 387 € |
-| PEREARST RAISSA KARTUŠINA OÜ | Usaldusväärne | -180 | – | – |
-| PRIMO SOCCORSO OÜ | Usaldusväärne | -430 | – | – |
-| PARESTEESIA OÜ | Usaldusväärne | -440 | – | – |
-| PEREARST TRUMM OÜ | Riskantne | -490 | 1 | – |
-| PEREARST TANEL MARTIS OÜ | Riskantne | -3500 | – | – |
-| FAMILYMED OÜ | Riskantne | -6500 | – | – |
-| SHEVMED OÜ | Riskantne | -6537 | 1 | – |
-| AMERICHIRO OÜ | Riskantne | -10 440 | 1 | – |
-| DETOX RAVI OÜ | Riskantne | -10 500 | – | – |
-| PEREARST KAUPO PEDA OÜ | Riskantne | -10 500 | – | – |
-| PEREARSTIDE PRAKSIS TANEKO MTÜ | Riskantne | -10 500 | – | – |
-| MAARJAMÕISA PEREARSTIDE PRAKSIS MTÜ | Riskantne | -10 500 | – | – |
-| KALLASTE TERVISEKESKUS MTÜ | Riskantne | -10 500 | – | – |
-| MED4U PEREARSTIKESKUS OÜ | Riskantne | -38 400 | 9 | 269 077 € |
+### MEDICUM PEREARSTIKESKUS AS
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 8120
+- **Töötajaid:** 119
+- **Prognooskäive (2025):** 8 227 830 €
+
+### TERVISEAGENTUUR OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 6590
+- **Töötajaid:** 112
+- **Prognooskäive (2025):** 8 818 441 €
+
+### PEREKLIINIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 4940
+- **Töötajaid:** 93
+- **Prognooskäive (2025):** 5 449 487 €
+
+### PEALINNA PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 4590
+- **Töötajaid:** 79
+- **Prognooskäive (2025):** 7 601 376 €
+
+### NARVA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 4490
+- **Töötajaid:** 66
+- **Prognooskäive (2025):** 5 435 937 €
+
+### ENNETUSKLIINIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 4420
+- **Töötajaid:** 86
+- **Prognooskäive (2025):** 4 936 644 €
+
+### TALLINNA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 4320
+- **Töötajaid:** 60
+- **Prognooskäive (2025):** 5 094 082 €
+
+### PÄRNU PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 4020
+- **Töötajaid:** 49
+- **Prognooskäive (2025):** 5 783 856 €
+
+### SAKU TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 3780
+- **Töötajaid:** 52
+- **Prognooskäive (2025):** 3 873 688 €
+
+### JERŽANOVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 3580
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 271 278 €
+
+### PIRITA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 3540
+- **Töötajaid:** 39
+- **Prognooskäive (2025):** 3 842 292 €
+
+### MUSTAMÄE JA NÕMME PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 3320
+- **Töötajaid:** 44
+- **Prognooskäive (2025):** 3 886 036 €
+
+### PEREARSTIDE KESKUS NEEME OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 3300
+- **Töötajaid:** 42
+- **Prognooskäive (2025):** 2 328 932 €
+
+### TARTU RAATUSE PAK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 3270
+- **Töötajaid:** 54
+- **Prognooskäive (2025):** 5 246 853 €
+
+### JÄRVE TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 3000
+- **Töötajaid:** 36
+- **Prognooskäive (2025):** 3 149 640 €
+
+### LAAGRI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2830
+- **Töötajaid:** 44
+- **Prognooskäive (2025):** 3 289 096 €
+
+### KURESSAARE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2780
+- **Töötajaid:** 31
+- **Prognooskäive (2025):** 2 803 558 €
+
+### MEDITIIM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2640
+- **Töötajaid:** 32
+- **Prognooskäive (2025):** 3 058 972 €
+
+### LINNAMÕISA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2580
+- **Töötajaid:** 29
+- **Prognooskäive (2025):** 2 826 956 €
+
+### MERELAHE TK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2560
+- **Töötajaid:** 35
+- **Prognooskäive (2025):** 4 077 137 €
+
+### KADRINA TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2510
+- **Töötajaid:** 18
+- **Prognooskäive (2025):** 1 298 224 €
+
+### PAIDE ARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2500
+- **Töötajaid:** 26
+- **Prognooskäive (2025):** 1 522 831 €
+
+### TÜRI TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2490
+- **Töötajaid:** 26
+- **Prognooskäive (2025):** 1 903 605 €
+
+### TARTU KOOLITERVISHOIU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2490
+- **Töötajaid:** 33
+- **Prognooskäive (2025):** 1 633 933 €
+
+### MUSTAMÄE POLIKLIINIKU PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2400
+- **Töötajaid:** 27
+- **Prognooskäive (2025):** 2 106 801 €
+
+### JÄRVEOTSA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2380
+- **Töötajaid:** 30
+- **Prognooskäive (2025):** 3 311 366 €
+
+### ERAARST KERSTI VEIDRIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2370
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 1 054 334 €
+
+### RAPLA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2350
+- **Töötajaid:** 24
+- **Prognooskäive (2025):** 1 970 431 €
+
+### TABASALU PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2350
+- **Töötajaid:** 26
+- **Prognooskäive (2025):** 1 753 752 €
+
+### KEILA PEREARSTIKESKUSE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2330
+- **Töötajaid:** 25
+- **Prognooskäive (2025):** 1 938 757 €
+
+### LINNA TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2260
+- **Töötajaid:** 26
+- **Prognooskäive (2025):** 1 745 192 €
+
+### SINDI TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2170
+- **Töötajaid:** 20
+- **Prognooskäive (2025):** 2 122 642 €
+
+### KARULAUGU TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2130
+- **Töötajaid:** 24
+- **Prognooskäive (2025):** 2 291 753 €
+
+### KODUDOKTORI PAK SINU ARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2120
+- **Töötajaid:** 30
+- **Prognooskäive (2025):** 1 607 948 €
+
+### AIRA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2100
+- **Töötajaid:** 23
+- **Prognooskäive (2025):** 2 300 639 €
+
+### JÜRGENSON PAK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2100
+- **Töötajaid:** 17
+- **Prognooskäive (2025):** 1 589 157 €
+
+### MÄRJAMAA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2090
+- **Töötajaid:** 19
+- **Prognooskäive (2025):** 1 827 064 €
+
+### TÕSTAMAA TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2060
+- **Töötajaid:** 18
+- **Prognooskäive (2025):** 1 685 417 €
+
+### ASCOLI SA
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2050
+- **Töötajaid:** 31
+- **Prognooskäive (2025):** 1 033 229 €
+
+### ÜLEJÕE PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 2030
+- **Töötajaid:** 18
+- **Prognooskäive (2025):** 1 848 357 €
+
+### KIVIMÄE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1990
+- **Töötajaid:** 30
+- **Prognooskäive (2025):** 2 193 052 €
+
+### JÜRI TERVISEKESKUSE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1970
+- **Töötajaid:** 24
+- **Prognooskäive (2025):** 2 237 599 €
+
+### ROSENTHALI TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1970
+- **Töötajaid:** 23
+- **Prognooskäive (2025):** 1 911 987 €
+
+### MÕISAVAHE PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1960
+- **Töötajaid:** 16
+- **Prognooskäive (2025):** 1 959 440 €
+
+### KEHRA TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1950
+- **Töötajaid:** 16
+- **Prognooskäive (2025):** 1 362 040 €
+
+### HAABERSTI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1940
+- **Töötajaid:** 17
+- **Prognooskäive (2025):** 1 541 628 €
+
+### SEKSUAALTERVISE KLIINIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1910
+- **Töötajaid:** 20
+- **Prognooskäive (2025):** 837 983 €
+
+### HELVE KANSI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1900
+- **Töötajaid:** 25
+- **Prognooskäive (2025):** 832 115 €
+
+### TAPA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1890
+- **Töötajaid:** 17
+- **Prognooskäive (2025):** 1 924 421 €
+
+### VÄNDRA ARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1870
+- **Töötajaid:** 15
+- **Prognooskäive (2025):** 1 428 488 €
+
+### SAUE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1860
+- **Töötajaid:** 14
+- **Prognooskäive (2025):** 966 301 €
+
+### KALAMAJA PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1850
+- **Töötajaid:** 15
+- **Prognooskäive (2025):** 1 253 946 €
+
+### ÄDALA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1840
+- **Töötajaid:** 14
+- **Prognooskäive (2025):** 1 909 022 €
+
+### ROPKA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1800
+- **Töötajaid:** 16
+- **Prognooskäive (2025):** 1 360 066 €
+
+### MAGDALEENA PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1770
+- **Töötajaid:** 12
+- **Prognooskäive (2025):** 1 192 027 €
+
+### VIRU PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1770
+- **Töötajaid:** 18
+- **Prognooskäive (2025):** 2 008 315 €
+
+### MERIMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1720
+- **Töötajaid:** 19
+- **Prognooskäive (2025):** 1 330 587 €
+
+### MAJAKA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1710
+- **Töötajaid:** 12
+- **Prognooskäive (2025):** 902 866 €
+
+### NARVA JOALA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1700
+- **Töötajaid:** 14
+- **Prognooskäive (2025):** 1 128 089 €
+
+### VIIMSI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1690
+- **Töötajaid:** 20
+- **Prognooskäive (2025):** 1 370 050 €
+
+### MAHTRA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1670
+- **Töötajaid:** 12
+- **Prognooskäive (2025):** 1 060 409 €
+
+### MEREKIVI PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1640
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 1 003 806 €
+
+### PEREARST ALLA KISSEL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1640
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 397 054 €
+
+### LASNAMÄE PEREARSTID-KAKS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1630
+- **Töötajaid:** 13
+- **Prognooskäive (2025):** 1 039 661 €
+
+### TÕNISMÄE PEREMEDITSIINI KOLLEEGIUM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1620
+- **Töötajaid:** 14
+- **Prognooskäive (2025):** 1 158 285 €
+
+### ELVA KESKLINNA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1580
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 1 182 487 €
+
+### VÕRU ARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1570
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 1 148 808 €
+
+### PEREKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1570
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 867 520 €
+
+### MUUGA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1550
+- **Töötajaid:** 18
+- **Prognooskäive (2025):** 1 469 631 €
+
+### KUUSALU TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1550
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 798 817 €
+
+### MYMED PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1550
+- **Töötajaid:** 24
+- **Prognooskäive (2025):** 1 423 695 €
+
+### KIVILINNA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1540
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 1 527 267 €
+
+### PEREARST KAALEP KOPPEL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1540
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 776 752 €
+
+### KLEIN JA OLLIKAINEN OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1540
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 1 066 056 €
+
+### PEREARSTID TAKKER JA SARAPUU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1540
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 997 154 €
+
+### ESTONIAN CLINIC OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1530
+- **Töötajaid:** 23
+- **Prognooskäive (2025):** 1 651 047 €
+
+### FAVOREK PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1520
+- **Töötajaid:** 16
+- **Prognooskäive (2025):** 57 089 €
+
+### PEREARST MAIMU PINTSON OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1510
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 415 807 €
+
+### SL MEEDIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1510
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 335 516 €
+
+### MUSTAMÄE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1500
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 775 755 €
+
+### MEDITERI PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1480
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 658 827 €
+
+### NÕMME PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1480
+- **Töötajaid:** 11
+- **Prognooskäive (2025):** 882 143 €
+
+### KOSE-LASNAMÄE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1480
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 1 083 251 €
+
+### AL MARE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1480
+- **Töötajaid:** 22
+- **Prognooskäive (2025):** 1 219 134 €
+
+### PAE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1470
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 964 776 €
+
+### PEREARST ÜLLE PEREND OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1460
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 978 969 €
+
+### LIIVALAIA PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1460
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 659 223 €
+
+### TOMSON TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1460
+- **Töötajaid:** 16
+- **Prognooskäive (2025):** 1 351 840 €
+
+### RÄNILINNA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Neutraalne
+- **Maineskoor:** 1450
+- **Töötajaid:** 11
+- **Prognooskäive (2025):** 906 075 €
+
+### PEREARST ANNE ORAS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1440
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 231 919 €
+
+### VALGAMAA ARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1430
+- **Töötajaid:** 13
+- **Prognooskäive (2025):** 657 206 €
+
+### PEREARST SILLE VÄLI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1430
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 446 161 €
+
+### RAUAM & GAVRONSKI PEREARSTIKEKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1430
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 1 035 904 €
+
+### STROOMI PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1430
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 618 430 €
+
+### VITACON PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1420
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 759 573 €
+
+### DR.SIGNE ALLIKSOO PEREARSTIPRAKSIS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1420
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 569 700 €
+
+### PALDISKI PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1420
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 650 718 €
+
+### LASTEARST/PEREARST SIGNE USTAV OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1410
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 506 328 €
+
+### MAI PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1410
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 771 711 €
+
+### DR. DIANA KIRSS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1400
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 269 432 €
+
+### RÄGAVERE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1400
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 668 801 €
+
+### VARDJA & SARAPUU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1390
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 826 685 €
+
+### SURJU TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1380
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 659 187 €
+
+### PEREARST TIIU TOOTSI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1380
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 404 393 €
+
+### LOO TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1370
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 309 510 €
+
+### MUSTLA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1360
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 710 418 €
+
+### SINU ARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1360
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 312 972 €
+
+### PEREARST TAMARA VAHTRA-AASMETS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1350
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 386 460 €
+
+### EVA LOSKIT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1350
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 432 799 €
+
+### HÄÄDEMEESTE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1350
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 462 803 €
+
+### MEDICAL PAK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1350
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 598 707 €
+
+### AHTME PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1350
+- **Töötajaid:** 13
+- **Prognooskäive (2025):** 1 592 333 €
+
+### KRISTIINE PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1340
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 787 266 €
+
+### KABO PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1340
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 395 445 €
+
+### TERVIS.E.KE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1330
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 447 579 €
+
+### DOKTOR KRAFT-JAAKSOO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1320
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 416 554 €
+
+### SALU HEALTH OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1320
+- **Töötajaid:** 18
+- **Prognooskäive (2025):** 362 692 €
+
+### LEHT JA MARGUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1310
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 537 188 €
+
+### MAGDALEENA TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1310
+- **Töötajaid:** 17
+- **Prognooskäive (2025):** 1 775 109 €
+
+### ASL PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1310
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 432 733 €
+
+### MEDIHOLD OÜ
+- **Krediidiskoor:** Neutraalne
+- **Maineskoor:** 1310
+- **Töötajaid:** 11
+- **Prognooskäive (2025):** 345 641 €
+
+### KESKLINNA PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1310
+- **Töötajaid:** 11
+- **Prognooskäive (2025):** 289 022 €
+
+### PEREARST TARMO LOOGUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1300
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 456 326 €
+
+### PEREARST KÜLLI PAAL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1300
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 468 910 €
+
+### DR AUNE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1300
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 427 995 €
+
+### PEREARST ANU STARKOPF OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1300
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 513 239 €
+
+### PEREARST PIRET TAMMIST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1290
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 500 642 €
+
+### PEREARST MARIKA TEDER OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1290
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 875 767 €
+
+### PEREARST MERIKE ROSENIIT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1270
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 348 429 €
+
+### VITALONG PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1270
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 357 371 €
+
+### PEREARST NADEŽDA GRIGORJEVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1260
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 366 769 €
+
+### KAI SOOP OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1250
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 620 459 €
+
+### PEREMEDITSIINI JA TERVISEKESKUS RAHU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1250
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 571 783 €
+
+### PEREARST VIIVIKA ALLAS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1250
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 748 329 €
+
+### DR. MERIKE TUBLI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1250
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 476 516 €
+
+### PEREARSTIKESKUS LAAGNA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1250
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 417 319 €
+
+### LAADI&KÕRGESAAR OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1240
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 740 466 €
+
+### PIRITA-KOSE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1240
+- **Töötajaid:** 12
+- **Prognooskäive (2025):** 1 067 909 €
+
+### PEREARST NADEŽDA MATÕŽENKO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1230
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 374 744 €
+
+### PEREARST SVETLANA SINKINA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1230
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 692 094 €
+
+### MERE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1230
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 468 064 €
+
+### SHM MEDICOR OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1230
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 689 256 €
+
+### PEREARST ÜLLE STERN OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1230
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 353 714 €
+
+### PEREARST MAIRE NIRK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1230
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 449 044 €
+
+### ERM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1220
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 438 580 €
+
+### TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1220
+- **Töötajaid:** 16
+- **Prognooskäive (2025):** 1 260 614 €
+
+### DOCLINE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1220
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 171 642 €
+
+### PEREARST MARE LÕUNAT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1220
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 379 874 €
+
+### RAASIKU AMBULATOORIUM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1220
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 432 566 €
+
+### PEREARST KARIN JÄGER OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1220
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 258 701 €
+
+### MEDISVET NPS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1220
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 482 525 €
+
+### HIIUVIIDE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1220
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 670 008 €
+
+### JÕGEVA VALLA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1220
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 322 932 €
+
+### PEREARST VIIDA KORDMAA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1210
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 398 684 €
+
+### PEREARST ANNE MINKA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1210
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 450 522 €
+
+### PEREARST MALL LEPIKSOO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1210
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 667 040 €
+
+### PEREARST HELGI LUIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1210
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 734 925 €
+
+### PEREARST MONIKA HÕIM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1210
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 366 750 €
+
+### LARISSA GOLT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1210
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 284 356 €
+
+### LJUDMILA JAZEPOVA PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1210
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 434 619 €
+
+### VÄIKE-MAARJA TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1200
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 587 307 €
+
+### ANDRI MERILOO ARSTIKABINET OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1200
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 570 224 €
+
+### KALLASTE PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1200
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 266 734 €
+
+### OSULA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1200
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 422 740 €
+
+### PEREARST PÄÄSLANE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1200
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 403 190 €
+
+### PEREARST HELLE VAMBOLA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1190
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 651 494 €
+
+### PEREARST KRISTINA KESKÜLA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1190
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 577 093 €
+
+### PEREARST TIIU KAJU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1180
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 373 928 €
+
+### PEREARST KÜLVI PETERSON OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1180
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 429 339 €
+
+### MEDIKRAFT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1180
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 453 417 €
+
+### PEREARST TATJANA ŠTŠASLIVAJA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1180
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 327 848 €
+
+### ÜLEMISTE PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1180
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 720 352 €
+
+### MERE-MED PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1170
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 659 631 €
+
+### DR. MONIKA VASK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1170
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 456 835 €
+
+### PEREARST IŠTVAN KOSO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1170
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 257 945 €
+
+### PEREARST IISI KRIIPSALU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1170
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 405 446 €
+
+### TAMM JA SULA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1170
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 894 232 €
+
+### PEREARST IGOR JUNKIN OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1170
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 620 066 €
+
+### KOOSA PEREARSTIKABINET OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1160
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 428 587 €
+
+### PERMER OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1160
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 400 978 €
+
+### JÄRVA-JAANI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1160
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 448 575 €
+
+### MAARJAVÄLJA PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1160
+- **Töötajaid:** 12
+- **Prognooskäive (2025):** 1 226 044 €
+
+### PEREMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1160
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 280 086 €
+
+### PA ALUSALU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1160
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 418 767 €
+
+### KOSE PEREARSTIKABINET OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1150
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 572 061 €
+
+### MARJE METSUR-BENZEL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1150
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 437 229 €
+
+### PEREARST AGI MÄRDIN OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1150
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 480 303 €
+
+### FLOMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1140
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 428 092 €
+
+### PEREARST HIRVE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1140
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 369 552 €
+
+### PERETOHTER OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1140
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 542 164 €
+
+### PEREARST VALENTINA KESPER OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1140
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 285 173 €
+
+### PEREARST TARMO PEDA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1140
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 908 252 €
+
+### DR MARET TAMME OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1130
+- **Töötajaid:** 11
+- **Prognooskäive (2025):** 751 891 €
+
+### PEREMEEDIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1130
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 362 237 €
+
+### VENOREST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1130
+- **Töötajaid:** 11
+- **Prognooskäive (2025):** 657 238 €
+
+### PEREARST HIIE KARELSON OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1130
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 475 599 €
+
+### PEREARST KAIRI ROHTLA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1130
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 657 108 €
+
+### PEREARST PIRET METS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1130
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 544 564 €
+
+### PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1120
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 443 218 €
+
+### PEREARST OLGA GVOZDEVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1120
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 394 268 €
+
+### SILLAMÄE KAJAKA ARSTIABIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1120
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 706 265 €
+
+### VINNI TERVISEMAJA OÜ
+- **Krediidiskoor:** Neutraalne
+- **Maineskoor:** 1120
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** –
+
+### PEREARST RITA ALANURM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1110
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 591 580 €
+
+### ROIU TOHTER OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1110
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 377 329 €
+
+### MARJU JALLAI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1110
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 432 210 €
+
+### PEREARST KAJA TORM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1110
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 427 624 €
+
+### DR. MEISTER OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1110
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 432 859 €
+
+### PEREARST ALLA KOSTINA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1100
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 607 577 €
+
+### MEDKAI PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1100
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 297 858 €
+
+### PEREARST KÄRDI KALDA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1100
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 321 075 €
+
+### PEREARST MARIKA PLAKS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1100
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 470 944 €
+
+### VINNI TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1100
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 371 618 €
+
+### PEREARST TRIIN JAANIMÄGI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1100
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 514 314 €
+
+### TORMA AMBULATOORIUM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1090
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 475 625 €
+
+### PEREARST KÜLLIKI TIKKER OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1090
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 317 148 €
+
+### PEREARST SIRJE SAARNIIT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1090
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 302 332 €
+
+### TAMSALU PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1090
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 687 169 €
+
+### JELENA MAYOROVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1080
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 421 570 €
+
+### ÜLLE HANSEN OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1080
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 485 605 €
+
+### RAVITOODE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1080
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 438 167 €
+
+### PEREARST KATRIN AKKEL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1080
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 151 356 €
+
+### PERETERVIS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1080
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 537 927 €
+
+### V. ABRAMOVITŠI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1070
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 411 566 €
+
+### PEREARST LIIDIA BODNAR OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1060
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 379 624 €
+
+### PEREARST ÜLLE RUNNEL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1060
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 510 119 €
+
+### BERTA TOIKKA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1060
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 469 465 €
+
+### PEREARST NADEŽDA HOVANSKAJA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1060
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 283 892 €
+
+### HARKU PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1060
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 430 866 €
+
+### PEREARST MEELI MARIPUU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1060
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 507 131 €
+
+### AG PRAKSIS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1060
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 385 431 €
+
+### PEREARST KÜLLI RAUDSIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1050
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 362 384 €
+
+### PEREARSTIKESKUS REMEDIUM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1050
+- **Töötajaid:** 12
+- **Prognooskäive (2025):** 34 253 €
+
+### DR. ELVIRA MURDE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1050
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 347 009 €
+
+### PEREARST IRINA FOMKINA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1040
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 259 998 €
+
+### PA MERLE KALLAS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1040
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 498 084 €
+
+### RAATUSE PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1040
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 470 818 €
+
+### AKUDDO PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1040
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 461 032 €
+
+### DR. KARPENKO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1030
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 478 667 €
+
+### LPKG OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1030
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 398 605 €
+
+### PEREARST SIRJE SAAR OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1030
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 409 793 €
+
+### TEIE TERVIS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1030
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 303 299 €
+
+### PEREARST SILVIA KORBERG OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1030
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 406 008 €
+
+### KADRIORU PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1030
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 122 829 €
+
+### PEREARST MARGARITA HAPUNOVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1030
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 319 566 €
+
+### PEREARST MARGOT TAMM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1030
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 486 101 €
+
+### DR JAKOVLEV OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1030
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 499 170 €
+
+### PEREARST SVETLANA EHILOO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1020
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 436 345 €
+
+### ELOLEM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1020
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 417 870 €
+
+### NUIA PAK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1020
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 182 128 €
+
+### PEREARST KAJA ÕUNAPUU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1020
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 404 876 €
+
+### DR. HELI TÄHEPÕLD ÜLIKOOLI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Neutraalne
+- **Maineskoor:** 1020
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 443 862 €
+
+### TOOME PAK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1010
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 640 591 €
+
+### PEREARST MARET MISSAMOU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1010
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 533 284 €
+
+### TERVE LAPS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1010
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 282 872 €
+
+### MÄRJAMAA ARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1010
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 611 826 €
+
+### TAEBLA PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1010
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 275 574 €
+
+### PEREARST MARJAM LARIONOVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1010
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 381 915 €
+
+### PEREARST RAUNO KURG OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1000
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 512 209 €
+
+### PEREARSTIKESKUS MEDICA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1000
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 435 424 €
+
+### PEREARST MERILIN KÜTT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 1000
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 369 570 €
+
+### SALME PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 990
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 347 946 €
+
+### PEREARST MARGIT KIVASTE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 990
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 332 050 €
+
+### ASTERMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 990
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 527 468 €
+
+### SANSENTO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 980
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 396 512 €
+
+### PEREARST ANNE KALDOJA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 980
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 556 558 €
+
+### PEREARST TIIU KAASIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 980
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST KERTU RÜNKORG OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 980
+- **Töötajaid:** 13
+- **Prognooskäive (2025):** 894 214 €
+
+### PEREARST NIINA KONDRATJEVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 980
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 351 396 €
+
+### PEREARST VIKTORIA LELEKA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 970
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 306 745 €
+
+### TELLISKIVI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 970
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 540 212 €
+
+### KATRIN KALLASMAA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 970
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 511 859 €
+
+### PEREARST MERIANA MAIDLA OÜ
+- **Krediidiskoor:** Neutraalne
+- **Maineskoor:** 970
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 412 163 €
+
+### PEREARST VALENTINA ZEVAKINA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 960
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 416 912 €
+
+### MEDISTAR OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 950
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 475 661 €
+
+### TERVEM TARTU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 950
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 469 222 €
+
+### PEREARST VIVIAN ALLES OÜ
+- **Krediidiskoor:** Neutraalne
+- **Maineskoor:** 950
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 8699 €
+
+### RANNU PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 940
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 508 821 €
+
+### SINU TERVIS PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 940
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 322 261 €
+
+### PEREARST TOOMAS ERIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 940
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 365 182 €
+
+### PEREARST NAIMA TOHT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 940
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 620 014 €
+
+### PEREARST LJUDMILA JAKOBSON OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 930
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 334 723 €
+
+### KIILI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 930
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 151 766 €
+
+### BONMEDICA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 930
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 361 218 €
+
+### PEREARST SERGEI FJODOROV OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 930
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 535 575 €
+
+### LÄÄNE-NIGULA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 920
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 346 808 €
+
+### LOO PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 920
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 523 295 €
+
+### MAARDU PEREARSTI KESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 910
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 739 125 €
+
+### PEREARST MILVI SILD OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 910
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 438 882 €
+
+### VOORMAN OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 910
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### DR. PILV OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 910
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 674 457 €
+
+### TARTU TERVISE HEAKS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 910
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 781 237 €
+
+### PEREARST GULJAJEVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 900
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 311 729 €
+
+### PARGI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 900
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 357 527 €
+
+### PEREARST MAIRE NÕMM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 900
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 476 998 €
+
+### PEREARST PIRET INNOS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 900
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 399 498 €
+
+### PEREARST KRISTEL UUSTAMM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 900
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 541 389 €
+
+### DR. JELENA PETROVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 900
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 302 214 €
+
+### ÕISMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 890
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 385 875 €
+
+### MUSTAMÄE TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 890
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** 6902 €
+
+### PEREARST MARJE TOOM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 890
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 50 166 €
+
+### PEREARST PIRET JÕGI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 890
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 451 518 €
+
+### PEREARST MEELIS KAUP OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 890
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 526 260 €
+
+### VIRUMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 890
+- **Töötajaid:** 12
+- **Prognooskäive (2025):** 1 302 637 €
+
+### TERVE PERE ARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 890
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 389 854 €
+
+### PEREARST REET POLLI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 880
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 533 324 €
+
+### DIANA PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 880
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 484 336 €
+
+### ALIVIO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 870
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 64 205 €
+
+### PEREARST MARI VIRULA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 870
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 321 689 €
+
+### PEREARST MAKSYM UMANTSEV OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 860
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 587 257 €
+
+### PEREARST PIRJE HÜTT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 860
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 295 336 €
+
+### PEREARST ELLEN LEMBRA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 850
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 566 783 €
+
+### MEDICOLM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 830
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 580 591 €
+
+### PEREARST NATALIA GVOZDEVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 830
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 304 429 €
+
+### PEREARST T.GIRINSKAJA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 830
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 287 341 €
+
+### TRIIN NIRGI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 830
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 335 038 €
+
+### UUS LAINE KLIINIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 830
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 13 705 €
+
+### OMA TERVIS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 830
+- **Töötajaid:** 12
+- **Prognooskäive (2025):** 611 256 €
+
+### MARITTA LOOG OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 820
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 403 586 €
+
+### PEREARST ÜLLE BÜRKLAND OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 820
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** 229 528 €
+
+### PEREARST ÜLLE LOMP OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 820
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** 235 101 €
+
+### PEREARST AET VALGEPEA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 820
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 458 055 €
+
+### PANENKO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 810
+- **Töötajaid:** 10
+- **Prognooskäive (2025):** 335 944 €
+
+### FONS PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 810
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 600 598 €
+
+### KERSTI TUULING OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 800
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 322 374 €
+
+### MEDPA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 790
+- **Töötajaid:** 12
+- **Prognooskäive (2025):** 396 738 €
+
+### PROPOSMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 790
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 196 527 €
+
+### FAMILY DOCTOR OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 770
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 115 934 €
+
+### NORDIC MEDICAL PARTNERS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 770
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 2514 €
+
+### ASKLEPION OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 770
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 370 696 €
+
+### PEREARST AIRI KASEMÄGI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 770
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 266 084 €
+
+### KÕUE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 760
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 564 198 €
+
+### CURO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 760
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 91 475 €
+
+### UKU-MÄRT MÄTAS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 760
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 452 142 €
+
+### DAGÖ PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 750
+- **Töötajaid:** 12
+- **Prognooskäive (2025):** –
+
+### MEDLAAS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 740
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST KERSTI METSA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 730
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 390 274 €
+
+### KIBUVITSA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** 730
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 11 219 €
+
+### MUHU PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** 730
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 381 888 €
+
+### PEREARST GERTA SONTAK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 710
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 368 562 €
+
+### PEREARST AIVAZJAN OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 710
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 365 537 €
+
+### SINUHE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 710
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 42 732 €
+
+### ILME LAST FIE
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 700
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** –
+
+### PEREARST HEPP NIGOL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 700
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 366 244 €
+
+### NJORD INVESTMENTS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 700
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST EIKE ELMET OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 690
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 326 857 €
+
+### PEREARST TIIA PARIIS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 690
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 495 056 €
+
+### JOALDUN SERVICES OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 690
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MEDINVEST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 680
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST TARVO KIUDMA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 680
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 548 748 €
+
+### EVE MÕISTUSE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 680
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 468 547 €
+
+### MEDICENTER EESTI OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** 675
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 183 709 €
+
+### ALATSKIVI PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 660
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 344 589 €
+
+### RIISIPERE TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 660
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 5730 €
+
+### LOO TK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 660
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 331 963 €
+
+### DRDD CONSULTING OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 650
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** 63 778 €
+
+### INTERDOC OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 650
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** 105 955 €
+
+### RNTMEDS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 640
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 314 918 €
+
+### PUHJA PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 640
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 377 163 €
+
+### PEREARST EVELI PARVEOTS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 640
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 230 786 €
+
+### KEVADTUUL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 640
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### KOSE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 630
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 383 396 €
+
+### NIINA MAMAI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 630
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 278 478 €
+
+### FREIENTHAL CONSULTATIONS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 630
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### IVASK GRUPP OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 620
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PAMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 620
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 14 376 €
+
+### OJA JA PEDAJA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 610
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** 705 259 €
+
+### PEREARST HEIKI ANNUK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 610
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 326 244 €
+
+### MAAARST OÜ
+- **Krediidiskoor:** Neutraalne
+- **Maineskoor:** 610
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 4583 €
+
+### MÄGIDOKTOR OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 610
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** –
+
+### REGCONSULT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 610
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 2760 €
+
+### RRTERVIS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 610
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### KATRIN PALOVER OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 600
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 252 348 €
+
+### MEDIMOTION OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 600
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### RAVIALIS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 600
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### M.A MEDICAL COMPANY OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 600
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST RUTH LADVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 590
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 407 594 €
+
+### PÄEVASAARE PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 590
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 63 209 €
+
+### PRIIT GINTER PAK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 580
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 574 213 €
+
+### PEREARST JULIA JÄRVEKÜLA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 570
+- **Töötajaid:** 8
+- **Prognooskäive (2025):** –
+
+### MINU ARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 570
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 558 219 €
+
+### PEREARST JURI KADATSKI OÜ
+- **Krediidiskoor:** Piiripealne
+- **Maineskoor:** 560
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 402 248 €
+
+### PEREARST ANU JÕEMÄGI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 560
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 359 217 €
+
+### PA LEGA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 540
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 293 132 €
+
+### PEREARST GALINA KUZNETSOVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 540
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST MERLE JAKOBSON OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 540
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** 249 350 €
+
+### PEREARST LADVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 530
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST PEETER BAKHOFF OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 530
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 433 401 €
+
+### PEREARST JANE OTT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 520
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** 331 378 €
+
+### KKC TEGEMISED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 510
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST VITIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 510
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** –
+
+### AIVALUS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** 500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 390 198 €
+
+### KAI LAUTER OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 234 461 €
+
+### EDUTARK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 2869 €
+
+### VOORUS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** 500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 21 607 €
+
+### LEA MIIDLA-LEITU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST BORISS SLEPIKOVSKI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 490
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 444 285 €
+
+### RIOLANI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 490
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** 21 382 €
+
+### PEREARST HEINAMETS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 490
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 147 656 €
+
+### AISU PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 490
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** 367 236 €
+
+### PEREARST TIIU LUUKAS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 470
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST KULLAMA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 460
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST KONGO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 460
+- **Töötajaid:** 6
+- **Prognooskäive (2025):** –
+
+### NISSI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 460
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 349 775 €
+
+### KOERU ARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 450
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST SIRJE PUHASMÄGI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 450
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### MEDIRA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 430
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 521 747 €
+
+### VINNI ARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 420
+- **Töötajaid:** 5
+- **Prognooskäive (2025):** –
+
+### HAAVAMÄE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 410
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### INVITUM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 400
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PELGURANNA PAK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 400
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 243 149 €
+
+### TERVE PERE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 390
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** 328 485 €
+
+### AMBROMED GRUPP OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 390
+- **Töötajaid:** 15
+- **Prognooskäive (2025):** 293 855 €
+
+### DR KALLE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 390
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 96 401 €
+
+### PEREARST TIINA SAAR OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 390
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** 270 433 €
+
+### TERVIS JA TASAKAAL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 380
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 94 €
+
+### PEREARST LY ANDLA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 380
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### ÕISMÄE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 380
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARSTID BELAR OÜ
+- **Krediidiskoor:** Piiripealne
+- **Maineskoor:** 380
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST TIINA PROOSVÄLI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 380
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** –
+
+### NÕMME KLIINIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 370
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 55 611 €
+
+### PEREARST TATJANA LELOV OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 370
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### FREST CONSULTING OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 350
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### PILLE SARAPUU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 340
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** –
+
+### KRISTA REVA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 340
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### RAPLAMAA KOOLIÕDE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 340
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 92 954 €
+
+### KAJA KASAK FIE
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 320
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** –
+
+### PEREARST EHA TALI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 320
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MARINA TARASSOVA FIE
+- **Krediidiskoor:** Piiripealne
+- **Maineskoor:** 320
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** –
+
+### PEREARST EVE NURMEKIVI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 310
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### HIIUMAA TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 310
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** 511 646 €
+
+### SINILILLE PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 300
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### ALSRNT OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 300
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** 498 620 €
+
+### TUGIKODA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 290
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 4288 €
+
+### MDLUKS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 270
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST MERLE MUDA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 270
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MEDIZONE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 270
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### 3DPRISMA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 250
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MEDISPIRE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 250
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST SUSI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 250
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** –
+
+### FAST TRACK CLINIC OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 230
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### FRED MEDICUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 210
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST IVI SONN OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 200
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** –
+
+### EDO HEALTH OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 200
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** 19 544 €
+
+### TUULEMAA PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 200
+- **Töötajaid:** 7
+- **Prognooskäive (2025):** –
+
+### DOCGUIDE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 190
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MEDTEENUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 190
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### HML CONSULTANCY OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 180
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### TUGIMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 180
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 4422 €
+
+### TÕRVA PEREARSTID OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 160
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### KUNGLA PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 150
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### REVAMEDI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 140
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### VARMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 130
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### ELAN CLINIC OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 120
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### ENTHELOS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 120
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** –
+
+### FINESTMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 110
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### CAPFUL CAPITAL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 110
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREKESKUS GENERIS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** 100
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### ARUKÜLA AMBULATOORIUM OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** 100
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** 464 178 €
+
+### DR. PIKK PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** 100
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MEDREI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 100
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### ODRAMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 100
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 202 €
+
+### SETOMAA PEREARST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 100
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### HATTIE INVEST OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 90
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### ALTHEUM OÜ
+- **Krediidiskoor:** Piiripealne
+- **Maineskoor:** 80
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 15 691 €
+
+### LUMIFY OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 70
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MC MED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 60
+- **Töötajaid:** 3
+- **Prognooskäive (2025):** –
+
+### SINITSIRGU OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 60
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### VALVEKLIINIK OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 50
+- **Töötajaid:** 42
+- **Prognooskäive (2025):** 533 850 €
+
+### HEALTH AND MINDFULNESS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 50
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### CURAMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 50
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PLUS HEALTH OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 50
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### AURAMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 50
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### DR LIIS MÄGI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 50
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### ÜLDARSTIABI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 40
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### ENDLA AAS-PEREARST JA STOMATOLOOG FIE
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 40
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MEDIGO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 40
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### SENTIFOLI-LINDSTRÖM OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 40
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### UVAROV MEDICAL OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 40
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### ANCONEUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 40
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### OLIMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 40
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### ARST-LÄÄKÄRI OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 40
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### FRESIMED OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 40
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### HEDASI! OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 40
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### TERVEMA ELUKAARE OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 30
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MÄRJAMAA TERVISEKESKUS OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 30
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### CABATRIV OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 30
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### SANTEVIA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** 30
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### TATJANA PROSKURINA OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** –
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### VARSTU PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** –
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### PEREARST PROOVEL OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** –
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** 84 472 €
+
+### PEREARST EERIKA PUKSPUU OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** –
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### TORI AMBULATOORIUM OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** –
+- **Töötajaid:** 4
+- **Prognooskäive (2025):** –
+
+### H&U ANDRE OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** –
+- **Töötajaid:** 2
+- **Prognooskäive (2025):** –
+
+### ELLI KAHAR OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** –
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MARGARITA LASMANIS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** –
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 874 €
+
+### MULGI PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** –
+- **Töötajaid:** –
+- **Prognooskäive (2025):** 23 387 €
+
+### PEREARST RAISSA KARTUŠINA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** -180
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PRIMO SOCCORSO OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** -430
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PARESTEESIA OÜ
+- **Krediidiskoor:** Usaldusväärne
+- **Maineskoor:** -440
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST TRUMM OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -490
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### PEREARST TANEL MARTIS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -3500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### FAMILYMED OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -6500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### SHEVMED OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -6537
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### AMERICHIRO OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -10 440
+- **Töötajaid:** 1
+- **Prognooskäive (2025):** –
+
+### DETOX RAVI OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -10 500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARST KAUPO PEDA OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -10 500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### PEREARSTIDE PRAKSIS TANEKO MTÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -10 500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MAARJAMÕISA PEREARSTIDE PRAKSIS MTÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -10 500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### KALLASTE TERVISEKESKUS MTÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -10 500
+- **Töötajaid:** –
+- **Prognooskäive (2025):** –
+
+### MED4U PEREARSTIKESKUS OÜ
+- **Krediidiskoor:** Riskantne
+- **Maineskoor:** -38 400
+- **Töötajaid:** 9
+- **Prognooskäive (2025):** 269 077 €
 
 ---
 
