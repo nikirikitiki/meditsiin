@@ -29,11 +29,12 @@ A bundle that gives GP centers everything they need to modernize:
 
 1. **Hardware** - Rent laptops and headphones (start as middleman, later own hardware)
 2. **IT Support** - System administration (they have zero, we provide it)
-3. **Communication** - Chat, calls, email (integrate existing platforms)
-4. **Office Tools** - Office suite, document management
-5. **Workforce Management** - Shift planning, vacation/sick leave, nurse-to-doctor ratios, who's working with whom
-6. **Organizational Design** - Help structure teams when they're short on professionals
-7. **Satisfaction & Workload Tracking** - Monitor patient satisfaction and prevent staff overwhelm
+3. **VPN Service** - Secure remote access for medical data and systems
+4. **Communication** - Chat, calls, email (integrate existing platforms)
+5. **Office Tools** - Office suite, document management
+6. **Workforce Management** - Shift planning, vacation/sick leave, nurse-to-doctor ratios, who's working with whom
+7. **Organizational Design** - Help structure teams when they're short on professionals
+8. **Satisfaction & Workload Tracking** - Monitor patient satisfaction and prevent staff overwhelm
 
 And this all to enable remote work.
 
@@ -47,7 +48,7 @@ Future expansion: Expand to neighbouring countries with similar GP systems (i.e.
 
 
 **By Spring 2026:**
-- Core platform ready (hardware rental, IT support, communication, workforce tools, organizational design, satisfaction tracking)
+- Core platform ready (hardware rental, IT support, VPN, communication, workforce tools, organizational design, satisfaction tracking)
 - Start direct sales
 
 **Later (2-3 years):**

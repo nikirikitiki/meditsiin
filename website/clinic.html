@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Medical Center Modernization Service — enabling secure, compliant remote and hybrid work for GP centers with a standardized 30-day package.">
+    <meta name="keywords" content="GP center, remote work, healthcare IT, medical center modernization, GDPR, EU, VPN, device management">
+    <title>Clinic Management — Medical Center Modernization Service</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <style>
+        /* Page-specific styles for clarity and readability */
+        .clinic-section {
+            padding: 4rem 0;
+        }
+        .clinic-section.alt {
+            background-color: var(--bg-light);
+        }
+        .clinic-kicker {
+            font-size: 1.25rem;
+            color: rgba(255, 255, 255, 0.95);
+            max-width: 900px;
+            margin: 1.5rem auto 0;
+            line-height: 1.6;
+        }
+        .clinic-callout {
+            margin: 2rem 0;
+            padding: 1.5rem 2rem;
+            background: var(--bg-light);
+            border-radius: 0.5rem;
+            border-left: 4px solid var(--primary-color);
+        }
+        .clinic-callout strong {
+            color: var(--text-dark);
+            display: block;
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+        }
+        .clinic-callout p {
+            margin: 0;
+            color: var(--text-light);
+        }
+        .problem-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        .problem-card {
+            padding: 1.5rem;
+            background: white;
+            border-radius: 0.5rem;
+            border-left: 3px solid var(--primary-color);
+        }
+        .problem-card p {
+            margin: 0;
+            color: var(--text-dark);
+            font-weight: 500;
+        }
+        .offerings-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .offering-detail {
+            margin-bottom: 0;
+            padding: 1.25rem 1.5rem;
+            background: white;
+            border: 2px solid var(--border-color);
+            border-radius: 0.5rem;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .offering-detail:hover {
+            border-color: var(--primary-color);
+            box-shadow: 0 2px 8px rgba(40, 53, 147, 0.1);
+        }
+        .offering-header {
+            margin-bottom: 0.75rem;
+        }
+        .offering-number {
+            width: 32px;
+            height: 32px;
+            font-size: 1rem;
+        }
+        .offering-header h3 {
+            font-size: 1.25rem;
+            margin: 0;
+        }
+        .offering-description {
+            font-size: 0.95rem;
+            color: var(--text-light);
+            margin-bottom: 0.75rem;
+            font-weight: 400;
+            font-style: normal;
+        }
+        .offering-details {
+            margin-top: 0.75rem;
+        }
+        .detail-column h4 {
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+            font-size: 0.9rem;
+        }
+        .detail-column ul {
+            margin-top: 0.25rem;
+        }
+        .detail-column li {
+            margin-bottom: 0.05rem;
+            line-height: 1.4;
+            font-size: 0.9rem;
+        }
+        .how-it-works-steps {
+            display: grid;
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+        .step-item {
+            display: flex;
+            gap: 1rem;
+            padding: 1.25rem;
+            background: var(--bg-light);
+            border-radius: 0.5rem;
+            border-left: 4px solid var(--primary-color);
+        }
+        .step-number {
+            flex: 0 0 2.5rem;
+            width: 2.5rem;
+            height: 2.5rem;
+            background: var(--primary-color);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+        .step-content {
+            flex: 1;
+        }
+        .step-content strong {
+            display: block;
+            color: var(--text-dark);
+            margin-bottom: 0.25rem;
+            font-size: 1.05rem;
+        }
+        .step-content p {
+            margin: 0;
+            color: var(--text-light);
+            font-size: 0.95rem;
+        }
+        .who-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+        .who-item {
+            padding: 1rem 1.5rem;
+            background: white;
+            border-radius: 0.5rem;
+            border-left: 3px solid var(--secondary-color);
+        }
+        .who-item p {
+            margin: 0;
+            color: var(--text-dark);
+        }
+        .commercial-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        .commercial-item {
+            padding: 1.5rem;
+            background: var(--bg-light);
+            border-radius: 0.5rem;
+            text-align: center;
+        }
+        .commercial-item strong {
+            display: block;
+            color: var(--primary-color);
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+        }
+        .commercial-item p {
+            margin: 0;
+            color: var(--text-light);
+            font-size: 0.95rem;
+        }
+        @media (max-width: 768px) {
+            .clinic-section {
+                padding: 3rem 0;
+            }
+            .problem-grid,
+            .who-grid,
+            .commercial-grid,
+            .offerings-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-wrapper">
+                <a href="index.html" class="logo">MEDITSIIN4.0</a>
+                <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="offerings.html">Offerings</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="sales.html">Sales Pitch</a></li>
+                    <li><a href="clinic.html" class="active">Clinic Management</a></li>
+                </ul>
+                <div class="nav-right">
+                    <!-- Language switcher (affects the rest of the site via localStorage). This page remains English-only. -->
+                    <div class="lang-switcher">
+                        <button class="lang-btn" data-lang="et" title="Eesti">ET</button>
+                        <button class="lang-btn" data-lang="ru" title="Русский">RU</button>
+                        <button class="lang-btn" data-lang="en" title="English">EN</button>
+                    </div>
+                    <a href="settings.html" class="settings-icon" title="Settings" aria-label="Settings">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M10 12.5C11.3807 12.5 12.5 11.3807 12.5 10C12.5 8.61929 11.3807 7.5 10 7.5C8.61929 7.5 7.5 8.61929 7.5 10C7.5 11.3807 8.61929 12.5 10 12.5Z" stroke="currentColor" stroke-width="1.5"/>
+                            <path d="M16.25 10.625L14.5833 14.1667L11.0417 15.8333C10.7083 15.9167 10.4167 16.0833 10.2083 16.3333L7.66667 18.875L4.125 15.3333C3.91667 15.0833 3.625 14.9167 3.29167 14.8333L-0.25 13.1667L-1.91667 9.625C-2 9.29167 -2 8.95833 -1.91667 8.625L-0.25 5.08333L3.29167 3.41667C3.625 3.33333 3.91667 3.16667 4.125 2.91667L7.66667 0.375L10.2083 2.91667C10.4167 3.16667 10.7083 3.33333 11.0417 3.41667L14.5833 5.08333L16.25 8.625C16.3333 8.95833 16.3333 9.29167 16.25 9.625V10.625Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="page-header" id="top">
+        <div class="container">
+            <h1>Medical Center Modernization Service</h1>
+            <p class="clinic-kicker"><strong>Enabling Secure Remote Work for GP Centers</strong></p>
+        </div>
+    </section>
+
+    <!-- Background -->
+    <section class="clinic-section alt" id="background">
+        <div class="container">
+            <div class="content-block">
+                <h2>Background</h2>
+                
+                <p style="font-size: 1.05rem; line-height: 1.7; margin-bottom: 1.25rem; color: var(--text-dark);">Many GP centers operate under increasing pressure:</p>
+                
+                <div class="problem-list" style="background: white; padding: 1.25rem; border-radius: 0.5rem; border: 1px solid var(--border-color); margin-bottom: 1.5rem;">
+                    <ul style="list-style: none; padding: 0; margin: 0;">
+                        <li style="padding: 0.6rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.25rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Staff shortages among doctors and nurses
+                        </li>
+                        <li style="padding: 0.6rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.25rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Ageing hardware and outdated software
+                        </li>
+                        <li style="padding: 0.6rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.25rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Fragmented tools for communication, scheduling, and documentation
+                        </li>
+                        <li style="padding: 0.6rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.25rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            No dedicated IT or operational support
+                        </li>
+                        <li style="padding: 0.6rem 0; padding-left: 1.25rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Limited visibility into workload, staff wellbeing, or patient satisfaction
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="clinic-callout" style="background: rgba(40, 53, 147, 0.02); border-left: 2px solid var(--primary-color); margin-bottom: 1.5rem;">
+                    <strong style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem;">At the same time, expectations are changing.</strong>
+                    <p style="font-size: 1.05rem; line-height: 1.6; margin: 0 0 1.25rem 0;">Younger doctors increasingly expect flexible and remote work options, while many centers remain dependent on physical presence and manual coordination.</p>
+                    <p style="font-size: 1rem; line-height: 1.7; color: var(--text-dark); margin: 0 0 0.5rem 0;"><strong>Most GP centers recognize the need to modernize, but lack:</strong></p>
+                    <ul style="margin: 0; padding-left: 1.5rem; color: var(--text-dark); font-size: 1rem; line-height: 1.7;">
+                        <li>Time to manage multiple vendors</li>
+                        <li>Internal IT expertise</li>
+                        <li>Capacity to design secure, compliant remote setups</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Purpose -->
+    <section class="clinic-section" id="purpose">
+        <div class="container">
+            <div class="content-block">
+                <h2>Purpose</h2>
+                <div class="clinic-callout" style="background: white; border: 1px solid var(--border-color); padding: 1.25rem 1.5rem;">
+                    <p style="margin: 0 0 1rem 0; font-weight: 500;">Our goal is to:</p>
+                    <ul style="list-style: none; padding: 0; margin: 0;">
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Modernize GP centers
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Enable secure remote and hybrid work
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Reduce operational complexity
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Cut costs
+                        </li>
+                    </ul>
+                    <p style="margin: 1rem 0 0 0; font-size: 1rem; line-height: 1.7; color: var(--text-dark); padding-top: 1rem; border-top: 1px solid var(--bg-light);">We provide a standardized operational foundation for reliable daily clinical work on-site and remote. We do not replace medical systems or introduce unnecessary tools.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- What We Provide -->
+    <section class="clinic-section alt" id="provide">
+        <div class="container">
+            <h2 style="text-align:center; font-size:2.5rem; margin-bottom:1rem;">What We Provide</h2>
+            <p class="section-intro" style="text-align:center; margin-bottom:2rem;">A single, bundled service that replaces fragmented setups with one coordinated system</p>
+
+            <div class="offerings-grid">
+            <div class="offering-detail">
+                <div class="offering-header">
+                    <span class="offering-number">1</span>
+                    <h3>Hardware (Optional)</h3>
+                </div>
+                <p class="offering-description">Monthly hardware bundle, centrally managed</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <ul>
+                            <li>Laptops, monitors, and headsets provided on a monthly basis</li>
+                            <li>Pre-configured, encrypted, and centrally managed</li>
+                            <li>Suitable for both on-site and remote clinical work</li>
+                            <li>No upfront investment required</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail">
+                <div class="offering-header">
+                    <span class="offering-number">2</span>
+                    <h3>IT & System Administration</h3>
+                </div>
+                <p class="offering-description">One accountable owner for day-to-day reliability</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <ul>
+                            <li>Centralized device management</li>
+                            <li>Account and access provisioning</li>
+                            <li>Software updates and security management</li>
+                            <li>One responsible point of contact instead of multiple vendors</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail">
+                <div class="offering-header">
+                    <span class="offering-number">3</span>
+                    <h3>Secure Remote Access</h3>
+                </div>
+                <p class="offering-description">Remote and hybrid work without weakening security</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <ul>
+                            <li>VPN-based access to clinical and administrative systems</li>
+                            <li>Role-based permissions aligned with staff responsibilities</li>
+                            <li>Designed to meet EU and GDPR requirements</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail">
+                <div class="offering-header">
+                    <span class="offering-number">4</span>
+                    <h3>Communication</h3>
+                </div>
+                <p class="offering-description">Reduce fragmentation and informal channels</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <ul>
+                            <li>Unified setup for chat, calls, and email</li>
+                            <li>Integration with existing platforms where possible</li>
+                            <li>Reduced reliance on informal or personal communication channels</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail">
+                <div class="offering-header">
+                    <span class="offering-number">5</span>
+                    <h3>Office & Document Tools</h3>
+                </div>
+                <p class="offering-description">Clear ownership, access control, and auditability</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <ul>
+                            <li>Standard office software</li>
+                            <li>Centralized document storage and access control</li>
+                            <li>Auditability and clear ownership of information</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail">
+                <div class="offering-header">
+                    <span class="offering-number">6</span>
+                    <h3>Workforce & Shift Management</h3>
+                </div>
+                <p class="offering-description">Support hybrid staffing models with clear coordination</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <ul>
+                            <li>Shift planning and coverage rules</li>
+                            <li>Vacation and sick-leave tracking</li>
+                            <li>Visibility into nurse–doctor ratios and team composition</li>
+                            <li>Support for hybrid and remote staffing models</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail">
+                <div class="offering-header">
+                    <span class="offering-number">7</span>
+                    <h3>Consulting on Personnel Management</h3>
+                </div>
+                <p class="offering-description">Ways of working and collaboration between nurses and doctors</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <ul>
+                            <li>Workflow design and optimization</li>
+                            <li>Team collaboration structures</li>
+                            <li>Communication protocols between staff</li>
+                            <li>Best practices for nurse-doctor collaboration</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail">
+                <div class="offering-header">
+                    <span class="offering-number">8</span>
+                    <h3>Workload & Satisfaction Monitoring <span style="font-size: 0.85rem; font-weight: 400; color: var(--text-light);">(Future)</span></h3>
+                </div>
+                <p class="offering-description">Signals to support staffing and organizational decisions</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <ul>
+                            <li>Basic workload indicators</li>
+                            <li>Patient feedback collection</li>
+                            <li>Early signals of overload and burnout</li>
+                            <li>Data to support staffing and organizational decisions</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="clinic-section" id="how">
+        <div class="container">
+            <div class="content-block">
+                <h2>How It Works</h2>
+                <p style="font-size: 1.1rem; line-height: 1.7; margin-bottom: 2rem;">We deliver in two parts: <strong>30-day onboarding</strong> and <strong>continuous support and enablement of remote work</strong>.</p>
+                
+                <div class="clinic-callout" style="background: rgba(40, 53, 147, 0.05); border-left: 4px solid var(--primary-color); margin-bottom: 2rem; padding: 1.5rem 2rem;">
+                    <strong style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem; display: block;">30-Day Onboarding</strong>
+                    <p style="font-size: 1.05rem; line-height: 1.6; margin: 0 0 1.5rem 0;">A standardized modernization package that sets up your operational foundation:</p>
+                    
+                    <div style="display: flex; gap: 1rem; margin-bottom: 1rem; padding-left: 1.5rem;">
+                        <span style="flex: 0 0 2rem; color: var(--primary-color); font-weight: 700; font-size: 1.1rem;">1</span>
+                        <div style="flex: 1;">
+                            <strong style="display: block; color: var(--text-dark); margin-bottom: 0.25rem;">Existing setup is mapped</strong>
+                            <p style="margin: 0; color: var(--text-light); font-size: 0.95rem;">We document your current systems, devices, accounts, and workflows</p>
+                        </div>
+                    </div>
+                    
+                    <div style="display: flex; gap: 1rem; margin-bottom: 1rem; padding-left: 1.5rem;">
+                        <span style="flex: 0 0 2rem; color: var(--primary-color); font-weight: 700; font-size: 1.1rem;">2</span>
+                        <div style="flex: 1;">
+                            <strong style="display: block; color: var(--text-dark); margin-bottom: 0.25rem;">Hardware and access are provisioned centrally</strong>
+                            <p style="margin: 0; color: var(--text-light); font-size: 0.95rem;">Managed devices (if needed) and identity/access baseline are set up</p>
+                        </div>
+                    </div>
+                    
+                    <div style="display: flex; gap: 1rem; margin-bottom: 1rem; padding-left: 1.5rem;">
+                        <span style="flex: 0 0 2rem; color: var(--primary-color); font-weight: 700; font-size: 1.1rem;">3</span>
+                        <div style="flex: 1;">
+                            <strong style="display: block; color: var(--text-dark); margin-bottom: 0.25rem;">Communication, scheduling, and documents are standardized</strong>
+                            <p style="margin: 0; color: var(--text-light); font-size: 0.95rem;">We reduce fragmentation and clarify ownership and permissions</p>
+                        </div>
+                    </div>
+                    
+                    <div style="display: flex; gap: 1rem; margin-bottom: 1rem; padding-left: 1.5rem;">
+                        <span style="flex: 0 0 2rem; color: var(--primary-color); font-weight: 700; font-size: 1.1rem;">4</span>
+                        <div style="flex: 1;">
+                            <strong style="display: block; color: var(--text-dark); margin-bottom: 0.25rem;">Internal structure and collaborations are mapped</strong>
+                            <p style="margin: 0; color: var(--text-light); font-size: 0.95rem;">Roles, responsibilities, and cross-coverage are documented</p>
+                        </div>
+                    </div>
+                    
+                    <div style="display: flex; gap: 1rem; margin-bottom: 1rem; padding-left: 1.5rem;">
+                        <span style="flex: 0 0 2rem; color: var(--primary-color); font-weight: 700; font-size: 1.1rem;">5</span>
+                        <div style="flex: 1;">
+                            <strong style="display: block; color: var(--text-dark); margin-bottom: 0.25rem;">Remote access and security rules are applied</strong>
+                            <p style="margin: 0; color: var(--text-light); font-size: 0.95rem;">Least privilege, MFA, device policies, and auditability are configured</p>
+                        </div>
+                    </div>
+                    
+                    <div style="display: flex; gap: 1rem; padding-left: 1.5rem;">
+                        <span style="flex: 0 0 2rem; color: var(--primary-color); font-weight: 700; font-size: 1.1rem;">6</span>
+                        <div style="flex: 1;">
+                            <strong style="display: block; color: var(--text-dark); margin-bottom: 0.25rem;">Monitoring and reporting are activated</strong>
+                            <p style="margin: 0; color: var(--text-light); font-size: 0.95rem;">Operational visibility for stability and incremental improvement</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="clinic-callout" style="background: rgba(40, 53, 147, 0.05); border-left: 4px solid var(--primary-color); margin-top: 2rem; padding: 1.5rem 2rem;">
+                    <strong style="font-size: 1.2rem; color: var(--primary-color); margin-bottom: 0.75rem; display: block;">Continuous Support and Enablement</strong>
+                    <p style="font-size: 1.05rem; line-height: 1.6; margin: 0 0 1.5rem 0;">After onboarding, the system runs continuously with ongoing support:</p>
+                    
+                    <div style="display: flex; gap: 1rem; margin-bottom: 1rem; padding-left: 1.5rem;">
+                        <span style="flex: 0 0 2rem; color: var(--primary-color); font-weight: 700; font-size: 1.1rem;">•</span>
+                        <div style="flex: 1;">
+                            <strong style="display: block; color: var(--text-dark); margin-bottom: 0.25rem;">Continuous monitoring and maintenance</strong>
+                            <p style="margin: 0; color: var(--text-light); font-size: 0.95rem;">Proactive system monitoring ensures reliability and security without manual intervention</p>
+                        </div>
+                    </div>
+                    
+                    <div style="display: flex; gap: 1rem; margin-bottom: 1rem; padding-left: 1.5rem;">
+                        <span style="flex: 0 0 2rem; color: var(--primary-color); font-weight: 700; font-size: 1.1rem;">•</span>
+                        <div style="flex: 1;">
+                            <strong style="display: block; color: var(--text-dark); margin-bottom: 0.25rem;">Incremental improvement</strong>
+                            <p style="margin: 0; color: var(--text-light); font-size: 0.95rem;">Regular updates and optimizations keep your operational foundation current and effective</p>
+                        </div>
+                    </div>
+                    
+                    <div style="display: flex; gap: 1rem; padding-left: 1.5rem;">
+                        <span style="flex: 0 0 2rem; color: var(--primary-color); font-weight: 700; font-size: 1.1rem;">•</span>
+                        <div style="flex: 1;">
+                            <strong style="display: block; color: var(--text-dark); margin-bottom: 0.25rem;">Secure remote work enablement</strong>
+                            <p style="margin: 0; color: var(--text-light); font-size: 0.95rem;">Ongoing support ensures your team can work remotely securely and reliably</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Who This Is For -->
+    <section class="clinic-section alt" id="who">
+        <div class="container">
+            <div class="content-block">
+                <h2>Who This Is For</h2>
+                <p style="margin-bottom: 1.25rem;">This service is designed for GP centers that want to:</p>
+                
+                <div class="clinic-callout" style="background: white; border: 1px solid var(--border-color); padding: 1.25rem 1.5rem;">
+                    <ul style="list-style: none; padding: 0; margin: 0;">
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Enable remote or hybrid work
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Reduce administrative and coordination burden
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Improve staff retention and attractiveness to younger doctors
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Modernize without large upfront investments
+                        </li>
+                        <li style="padding: 0.5rem 0; padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Avoid building internal IT or operations teams
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Commercial Model -->
+    <section class="clinic-section" id="commercial">
+        <div class="container">
+            <div class="content-block">
+                <h2>Commercial Model</h2>
+                
+                <div class="clinic-callout" style="background: white; border: 1px solid var(--border-color); padding: 1.25rem 1.5rem;">
+                    <p style="margin: 0 0 1rem 0; font-weight: 500;">Simple, predictable pricing:</p>
+                    <ul style="list-style: none; padding: 0; margin: 0;">
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Subscription per workplace
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            One unified monthly invoice
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Hardware and software bundled
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Predictable operational costs
+                        </li>
+                        <li style="padding: 0.5rem 0; padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            One-time payment for the setup
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- We Aspire To -->
+    <section class="clinic-section alt" id="aspire">
+        <div class="container">
+            <div class="content-block">
+                <h2>We Aspire To</h2>
+                <div class="clinic-callout" style="background: white; border: 1px solid var(--border-color); padding: 1.25rem 1.5rem;">
+                    <ul style="list-style: none; padding: 0; margin: 0;">
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Make GP work more flexible and sustainable
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Support smaller, rural, and understaffed centers
+                        </li>
+                        <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Create foundations for cross-clinic staffing and collaboration
+                        </li>
+                        <li style="padding: 0.5rem 0; padding-left: 1.5rem; position: relative;">
+                            <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
+                            Expand to neighbouring countries with similar healthcare systems
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>MEDITSIIN4.0</h3>
+                    <p>Medical center modernization for secure remote and hybrid work.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Navigation</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="offerings.html">Offerings</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="sales.html">Sales Pitch</a></li>
+                        <li><a href="clinic.html">Clinic Management</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 MEDITSIIN4.0. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script>
+        // Clinic page is English-only, but we still allow setting the global language preference
+        // so other pages (which use i18n.js) reflect the user's choice.
+        (function () {
+            const supported = ['et', 'ru', 'en'];
+            const switcher = document.querySelector('.lang-switcher');
+            if (!switcher) return;
+
+            function currentLang() {
+                const saved = localStorage.getItem('meditsiin4.0_lang');
+                return supported.includes(saved) ? saved : 'et';
+            }
+
+            function setActive(lang) {
+                switcher.querySelectorAll('.lang-btn').forEach(btn => {
+                    btn.classList.toggle('active', btn.getAttribute('data-lang') === lang);
+                });
+            }
+
+            setActive(currentLang());
+
+            switcher.addEventListener('click', function (e) {
+                const btn = e.target.closest('.lang-btn');
+                if (!btn) return;
+                e.preventDefault();
+                const lang = btn.getAttribute('data-lang');
+                if (!supported.includes(lang)) return;
+                localStorage.setItem('meditsiin4.0_lang', lang);
+                setActive(lang);
+            });
+        })();
+    </script>
+</body>
+</html>
