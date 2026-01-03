@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore MEDITSIIN4.0's comprehensive digitalization offerings for GP centers: hardware, IT support, communication tools, and more.">
+    <title>Offerings - MEDITSIIN4.0</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <style>
+        /* Apply clinic page styles to offerings */
+        .offerings-section {
+            padding: 4rem 0;
+        }
+        .offerings-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .offering-detail {
+            margin-bottom: 0;
+            padding: 1.25rem 1.5rem;
+            background: white;
+            border: 2px solid var(--border-color);
+            border-radius: 0.5rem;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .offering-detail:hover {
+            border-color: var(--primary-color);
+            box-shadow: 0 2px 8px rgba(40, 53, 147, 0.1);
+        }
+        .offering-header {
+            margin-bottom: 0.75rem;
+        }
+        .offering-number {
+            width: 32px;
+            height: 32px;
+            font-size: 1rem;
+        }
+        .offering-header h3 {
+            font-size: 1.25rem;
+            margin: 0;
+        }
+        .offering-description {
+            font-size: 0.95rem;
+            color: var(--text-light);
+            margin-bottom: 0.75rem;
+            font-weight: 400;
+            font-style: normal;
+        }
+        .offering-details {
+            margin-top: 0.75rem;
+        }
+        .detail-column h4 {
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+            font-size: 0.9rem;
+        }
+        .detail-column ul {
+            margin-top: 0.25rem;
+        }
+        .detail-column li {
+            margin-bottom: 0.05rem;
+            line-height: 1.4;
+            font-size: 0.9rem;
+        }
+        @media (max-width: 768px) {
+            .offerings-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-wrapper">
+                <a href="index.html" class="logo">MEDITSIIN4.0</a>
+                <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-menu">
+                    <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+                    <li><a href="offerings.html" class="active" data-i18n="nav.offerings">Offerings</a></li>
+                    <li><a href="about.html" data-i18n="nav.about">About</a></li>
+                    <li class="nav-divider"></li>
+                    <li><a href="overview.html">Overview</a></li>
+                </ul>
+                <div class="nav-right">
+                    <div class="lang-switcher">
+                        <button class="lang-btn" data-lang="et" title="Eesti">ET</button>
+                        <button class="lang-btn" data-lang="ru" title="Русский">RU</button>
+                        <button class="lang-btn" data-lang="en" title="English">EN</button>
+                    </div>
+                    <a href="settings.html" class="settings-icon" title="Settings" aria-label="Settings">
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M10 12.5C11.3807 12.5 12.5 11.3807 12.5 10C12.5 8.61929 11.3807 7.5 10 7.5C8.61929 7.5 7.5 8.61929 7.5 10C7.5 11.3807 8.61929 12.5 10 12.5Z" stroke="currentColor" stroke-width="1.5"/>
+                            <path d="M16.25 10.625L14.5833 14.1667L11.0417 15.8333C10.7083 15.9167 10.4167 16.0833 10.2083 16.3333L7.66667 18.875L4.125 15.3333C3.91667 15.0833 3.625 14.9167 3.29167 14.8333L-0.25 13.1667L-1.91667 9.625C-2 9.29167 -2 8.95833 -1.91667 8.625L-0.25 5.08333L3.29167 3.41667C3.625 3.33333 3.91667 3.16667 4.125 2.91667L7.66667 0.375L10.2083 2.91667C10.4167 3.16667 10.7083 3.33333 11.0417 3.41667L14.5833 5.08333L16.25 8.625C16.3333 8.95833 16.3333 9.29167 16.25 9.625V10.625Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1 data-i18n="offerings.header.title">Our Offerings</h1>
+            <p data-i18n="offerings.header.subtitle">Comprehensive digitalization solutions for GP centers in Estonia</p>
+        </div>
+    </section>
+
+    <!-- Overview -->
+    <section class="overview-section">
+        <div class="container">
+            <div class="content-block">
+                <p class="intro-text" data-i18n="offerings.overview">MEDITSIIN4.0 provides a comprehensive suite of digitalization solutions designed to enable remote work capabilities, modernize infrastructure, and streamline operations for GP centers (Family Centers) in Estonia.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Core Offerings -->
+    <section class="offerings-section" id="offerings">
+        <div class="container">
+            <h2 data-i18n="offerings.coreTitle">Core Offerings</h2>
+            
+            <div class="offerings-grid">
+            <div class="offering-detail" id="hardware">
+                <div class="offering-header">
+                    <span class="offering-number">1</span>
+                    <h3 data-i18n="offerings.hardware.title">Hardware Solutions</h3>
+                </div>
+                <p class="offering-description" data-i18n="offerings.hardware.description">Essential hardware equipment for remote medical work</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.hardware.components.title">Components</h4>
+                        <ul>
+                            <li data-i18n="offerings.hardware.components.item1">Laptops and computing devices</li>
+                            <li data-i18n="offerings.hardware.components.item2">Headphones and communication equipment</li>
+                            <li data-i18n="offerings.hardware.components.item3">Essential hardware for remote medical work</li>
+                        </ul>
+                    </div>
+                    <div class="detail-column">
+                        <h4>Value Proposition</h4>
+                        <ul>
+                            <li>Low recurring cost with monthly subscription model</li>
+                            <li>No management overhead - hardware is centrally managed</li>
+                            <li>No upfront investment required</li>
+                            <li>Pre-configured and encrypted devices ready to use</li>
+                            <li>Suitable for both on-site and remote clinical work</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail" id="it-infrastructure">
+                <div class="offering-header">
+                    <span class="offering-number">2</span>
+                    <h3 data-i18n="offerings.it.title">IT Infrastructure & Support</h3>
+                </div>
+                <p class="offering-description" data-i18n="offerings.it.description">Professional system administration and IT infrastructure management</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.it.components.title">Components</h4>
+                        <ul>
+                            <li data-i18n="offerings.it.components.item1">System administration services</li>
+                            <li data-i18n="offerings.it.components.item2">IT infrastructure management</li>
+                            <li data-i18n="offerings.it.components.item3">Technical support and maintenance</li>
+                            <li data-i18n="offerings.it.components.item4">Integration with existing medical software systems</li>
+                            <li data-i18n="offerings.it.components.item5">24/7 support for critical medical operations</li>
+                        </ul>
+                    </div>
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.it.value.title">Value Proposition</h4>
+                        <ul>
+                            <li data-i18n="offerings.it.value.item1">Addresses the critical gap of non-existent sysadmins in GP centers</li>
+                            <li data-i18n="offerings.it.value.item2">Ensures reliable, secure IT infrastructure</li>
+                            <li data-i18n="offerings.it.value.item3">Enables seamless integration with existing systems</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail" id="software">
+                <div class="offering-header">
+                    <span class="offering-number">3</span>
+                    <h3 data-i18n="offerings.software.title">Medical Software Update Management</h3>
+                </div>
+                <p class="offering-description" data-i18n="offerings.software.description">Proactive management and updating of medical sector-specific software to ensure latest versions are available and installed</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.software.features.title">Key Features</h4>
+                        <ul>
+                            <li data-i18n="offerings.software.features.item1">Automated monitoring of software update availability</li>
+                            <li data-i18n="offerings.software.features.item2">Planned update schedules that work around medical center operations</li>
+                            <li data-i18n="offerings.software.features.item3">Testing environment validation before production deployment</li>
+                            <li data-i18n="offerings.software.features.item4">Rollback capabilities if issues arise</li>
+                        </ul>
+                    </div>
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.software.value.title">Value Proposition</h4>
+                        <ul>
+                            <li data-i18n="offerings.software.value.item1">Addresses the common issue where medical centers don't bother with available software upgrades</li>
+                            <li data-i18n="offerings.software.value.item2">Ensures access to latest features, security patches, and improvements</li>
+                            <li data-i18n="offerings.software.value.item3">Reduces security risks from outdated software</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail" id="communication">
+                <div class="offering-header">
+                    <span class="offering-number">4</span>
+                    <h3 data-i18n="offerings.communication.title">Communication Tools</h3>
+                </div>
+                <p class="offering-description" data-i18n="offerings.communication.description">Secure, integrated communication platforms for team and patient interactions</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.communication.components.title">Components</h4>
+                        <ul>
+                            <li data-i18n="offerings.communication.components.item1">Internal chat services for secure team communication</li>
+                            <li data-i18n="offerings.communication.components.item2">Call services for patient and team interactions</li>
+                            <li data-i18n="offerings.communication.components.item3">Email services</li>
+                            <li data-i18n="offerings.communication.components.item4">Integrated communication platforms</li>
+                        </ul>
+                    </div>
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.communication.features.title">Key Features</h4>
+                        <ul>
+                            <li data-i18n="offerings.communication.features.item1">Secure, GDPR-compliant communication</li>
+                            <li data-i18n="offerings.communication.features.item2">Integration with existing workflows</li>
+                            <li data-i18n="offerings.communication.features.item3">Support for remote and hybrid work models</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail" id="productivity">
+                <div class="offering-header">
+                    <span class="offering-number">5</span>
+                    <h3 data-i18n="offerings.productivity.title">Productivity Tools</h3>
+                </div>
+                <p class="offering-description" data-i18n="offerings.productivity.description">Office suite and collaboration tools for medical professionals</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.productivity.components.title">Components</h4>
+                        <ul>
+                            <li data-i18n="offerings.productivity.components.item1">Office suite solutions</li>
+                            <li data-i18n="offerings.productivity.components.item2">Document management</li>
+                            <li data-i18n="offerings.productivity.components.item3">Collaboration tools</li>
+                        </ul>
+                    </div>
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.productivity.value.title">Value Proposition</h4>
+                        <ul>
+                            <li data-i18n="offerings.productivity.value.item1">Replaces fragmented software solutions</li>
+                            <li data-i18n="offerings.productivity.value.item2">Enables seamless document sharing and collaboration</li>
+                            <li data-i18n="offerings.productivity.value.item3">Supports remote work workflows</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail" id="workforce">
+                <div class="offering-header">
+                    <span class="offering-number">6</span>
+                    <h3 data-i18n="offerings.workforce.title">Workforce Organization Tools</h3>
+                </div>
+                <p class="offering-description" data-i18n="offerings.workforce.description">Comprehensive workforce planning and management system</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.workforce.components.title">Components</h4>
+                        <ul>
+                            <li data-i18n="offerings.workforce.components.item1">Shift planning and scheduling systems</li>
+                            <li data-i18n="offerings.workforce.components.item2">Vacation and sick-leave management</li>
+                            <li data-i18n="offerings.workforce.components.item3">Workforce coordination and optimization</li>
+                            <li data-i18n="offerings.workforce.components.item4">Nurse-to-doctor ratio optimization</li>
+                            <li data-i18n="offerings.workforce.components.item5">Team composition management</li>
+                            <li data-i18n="offerings.workforce.components.item6">Real-time visibility into who is working and with whom</li>
+                        </ul>
+                    </div>
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.workforce.value.title">Value Proposition</h4>
+                        <ul>
+                            <li data-i18n="offerings.workforce.value.item1">Replaces outdated planning systems</li>
+                            <li data-i18n="offerings.workforce.value.item2">Provides data-driven workforce optimization</li>
+                            <li data-i18n="offerings.workforce.value.item3">Ensures proper staffing ratios and team composition</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail" id="organizational">
+                <div class="offering-header">
+                    <span class="offering-number">7</span>
+                    <h3 data-i18n="offerings.organizational.title">Organizational Structure & Design</h3>
+                </div>
+                <p class="offering-description" data-i18n="offerings.organizational.description">Strategic organizational structure design and optimization for medical centers facing professional shortages</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.organizational.components.title">Components</h4>
+                        <ul>
+                            <li data-i18n="offerings.organizational.components.item1">Organizational structure analysis and design</li>
+                            <li data-i18n="offerings.organizational.components.item2">Work planning optimization for limited professional resources</li>
+                            <li data-i18n="offerings.organizational.components.item3">Role definition and responsibility mapping</li>
+                            <li data-i18n="offerings.organizational.components.item4">Team structure recommendations</li>
+                            <li data-i18n="offerings.organizational.components.item5">Workflow design to maximize efficiency</li>
+                        </ul>
+                    </div>
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.organizational.value.title">Value Proposition</h4>
+                        <ul>
+                            <li data-i18n="offerings.organizational.value.item1">Addresses the critical challenge of lack of professionals</li>
+                            <li data-i18n="offerings.organizational.value.item2">Enables effective work planning despite staff shortages</li>
+                            <li data-i18n="offerings.organizational.value.item3">Optimizes organizational structure to work with available resources</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offering-detail">
+                <div class="offering-header">
+                    <span class="offering-number">8</span>
+                    <h3 data-i18n="offerings.satisfaction.title">Satisfaction Tracking & Workload Monitoring</h3>
+                </div>
+                <p class="offering-description" data-i18n="offerings.satisfaction.description">Comprehensive system for tracking patient satisfaction and monitoring workload of doctors and nurses to prevent overwhelm</p>
+                <div class="offering-details">
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.satisfaction.components.title">Components</h4>
+                        <ul>
+                            <li data-i18n="offerings.satisfaction.components.item1">Patient satisfaction tracking and analytics</li>
+                            <li data-i18n="offerings.satisfaction.components.item2">Social rating monitoring and management</li>
+                            <li data-i18n="offerings.satisfaction.components.item3">Workload tracking for doctors and nurses</li>
+                            <li data-i18n="offerings.satisfaction.components.item4">Real-time workload visibility and alerts</li>
+                            <li data-i18n="offerings.satisfaction.components.item5">Overwhelm prevention and early warning systems</li>
+                        </ul>
+                    </div>
+                    <div class="detail-column">
+                        <h4 data-i18n="offerings.satisfaction.value.title">Value Proposition</h4>
+                        <ul>
+                            <li data-i18n="offerings.satisfaction.value.item1">Addresses the issue of poor social ratings for family centers</li>
+                            <li data-i18n="offerings.satisfaction.value.item2">Enables tracking of actual workload to understand capacity constraints</li>
+                            <li data-i18n="offerings.satisfaction.value.item3">Prevents doctors and nurses from becoming overwhelmed</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <h2 data-i18n="offerings.cta.title">Ready to Get Started?</h2>
+            <p data-i18n="offerings.cta.text">Learn more about our offerings and how they can benefit your GP center</p>
+            <a href="index.html" class="btn btn-primary btn-large" data-i18n="common.backToHome">Back to Home</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>MEDITSIIN4.0</h3>
+                    <p data-i18n="footer.description">Comprehensive digitalization solutions for GP centers in Estonia.</p>
+                </div>
+                <div class="footer-section">
+                    <h4 data-i18n="footer.navigation">Navigation</h4>
+                    <ul>
+                        <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+                        <li><a href="about.html" data-i18n="nav.about">About</a></li>
+                        <li><a href="offerings.html" data-i18n="nav.offerings">Offerings</a></li>
+                        <li><a href="overview.html">Overview</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4 data-i18n="footer.resources">Resources</h4>
+                    <ul>
+                        <li><a href="../README.md" data-i18n="footer.documentation">Documentation</a></li>
+                        <li><a href="../docs/vision.md" data-i18n="footer.vision">Vision</a></li>
+                        <li><a href="../docs/mission.md" data-i18n="footer.mission">Mission</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 MEDITSIIN4.0. <span data-i18n="common.allRightsReserved">All Rights Reserved.</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/i18n.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+        // Check authentication
+        if (!sessionStorage.getItem('authenticated')) {
+            window.location.href = 'login.html';
+        }
+    </script>
+</body>
+</html>
+

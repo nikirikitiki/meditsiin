@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "title": {
+      "home": "MEDITSIIN4.0 - Digitalization for Estonian GP Centers",
+      "about": "About - MEDITSIIN4.0",
+      "offerings": "Offerings - MEDITSIIN4.0",
+      "overview": "Overview - Medical Center Modernization Service",
+      "settings": "Settings - MEDITSIIN4.0"
+    },
+      "description": {
+      "home": "MEDITSIIN4.0 - Comprehensive digitalization solutions for Estonian GP centers. We enable remote work, modernize infrastructure, and optimize operations.",
+      "about": "Learn about MEDITSIIN4.0's mission, vision, and commitment to digitalizing GP centers in Estonia.",
+      "offerings": "Explore MEDITSIIN4.0's digitalization offerings: hardware, IT support, communication tools, and more.",
+      "overview": "Medical Center Modernization Service — enabling secure, compliant remote and hybrid work for GP centers with a standardized 30-day package."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "offerings": "Offerings",
+    "overview": "Overview",
+    "settings": "Settings"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewOfferings": "View Offerings",
+    "backToHome": "Back to Home",
+    "allRightsReserved": "All Rights Reserved"
+  },
+  "home": {
+    "hero": {
+      "title": "Digitalization for Estonian GP Centers",
+      "subtitle": "We enable remote work, modernize infrastructure, and optimize medical professionals' workflows."
+    },
+    "valueProp": {
+      "title": "Why MEDITSIIN4.0?",
+      "modernize": {
+        "title": "Modernize Infrastructure",
+        "text": "We replace outdated computers."
+      },
+      "remoteWork": {
+        "title": "Enable Remote Work",
+        "text": "We give medical professionals the freedom to work from home."
+      },
+      "itSupport": {
+        "title": "Professional IT Support",
+        "text": "Always available IT support."
+      },
+      "streamline": {
+        "title": "Operations Optimization",
+        "text": "We provide workforce management tools."
+      }
+    },
+    "problem": {
+      "title": "The Challenge",
+      "intro": "Estonian GP centers face significant digitalization challenges:",
+      "outdated": "Outdated computer infrastructure",
+      "noSysadmin": "Lack of system administration",
+      "fragmented": "Fragmented software solutions",
+      "remote": "Remote work seems impossible"
+    },
+    "solutions": {
+      "title": "Our Solutions",
+      "intro": "Comprehensive digitalization services for GP centers",
+      "hardware": {
+        "title": "Hardware Solutions",
+        "text": "Laptops, headphones, and essential hardware for remote medical work"
+      },
+      "it": {
+        "title": "IT Infrastructure & Support",
+        "text": "Professional system administration and IT infrastructure management"
+      },
+      "communication": {
+        "title": "Communication Tools",
+        "text": "Secure chat, call, and email services for internal teams and patients"
+      },
+      "workforce": {
+        "title": "Workforce Organization",
+        "text": "Shift planning, vacation schedules, and sick leave management"
+      },
+      "viewAll": "View All Offerings"
+    },
+    "cta": {
+      "title": "Ready to Modernize Your GP Center?",
+      "text": "Learn how MEDITSIIN4.0 can support your digitalization journey"
+    }
+  },
+  "about": {
+    "header": {
+      "title": "MEDITSIIN4.0"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "We help medical establishments with digitalization. We provide solutions that enable remote work, improve operations, and ensure continuity of care."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "All medical professionals are capable of working with the freedom and flexibility of the digital age, while maintaining the highest quality of patient care.",
+      "aspirations": {
+        "title": "Our Aspirations",
+        "flexibility": {
+          "label": "Medical professionals have flexibility:",
+          "text": "Doctors and medical staff can work remotely when needed, without compromising patient care or operational efficiency."
+        },
+        "digitalized": {
+          "label": "Medical establishments are fully digitalized:",
+          "text": "Healthcare facilities operate with modern tools and processes."
+        },
+        "optimization": {
+          "label": "Workforce optimization through data:",
+          "text": "Analytics-based insights maintain team wellbeing and efficiency, bringing better work-life balance."
+        }
+      }
+    },
+    "purpose": {
+      "title": "Core Purpose",
+      "text": "MEDITSIIN4.0 was created to solve the slow digital development of the medical field and enable the rapid spread of remote work. While many professions have successfully adapted to flexible and remote work forms, medicine requires a thoughtful, secure, and specifically tailored approach due to its critical nature. Our goal is to provide the support that allows the medical field to develop modernly, without compromising quality or safety.",
+      "ourPurpose": "Our Purpose",
+      "accelerate": {
+        "title": "Accelerate Digitalization",
+        "text": "In medical establishments with confidence and security"
+      },
+      "empower": {
+        "title": "Empower Medical Practitioners",
+        "text": "With the freedom and flexibility to work remotely when appropriate"
+      },
+      "excellence": {
+        "title": "Ensure Operational Excellence",
+        "text": "Through reliable tools and processes"
+      },
+      "continuity": {
+        "title": "Support Healthcare Continuity",
+        "text": "By maintaining high standards during digital transformation"
+      },
+      "itSupport": {
+        "title": "Provide IT Support",
+        "text": "Where it's currently missing"
+      },
+      "modernize": {
+        "title": "Modernize Infrastructure",
+        "text": "With reliable, integrated solutions"
+      }
+    },
+    "commitment": {
+      "title": "Our Commitment",
+      "safety": {
+        "title": "Patient Safety First",
+        "text": "All solutions prioritize patient care and safety above all else"
+      },
+      "reliability": {
+        "title": "Reliability",
+        "text": "Providing robust, secure, and dependable tools that medical professionals can trust"
+      },
+      "support": {
+        "title": "Support",
+        "text": "Being a true partner in the digitalization journey, not just a vendor"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "text": "Continuously evolving our offerings to meet the changing needs of the medical field"
+      },
+      "respect": {
+        "title": "Respect for High Stakes",
+        "text": "Understanding and respecting the critical nature of healthcare operations"
+      },
+      "compliance": {
+        "title": "Compliance",
+        "text": "Meeting all EU regulatory requirements, especially GDPR"
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "text": "MEDITSIIN4.0 is founded by three experienced professionals:",
+      "medical": {
+        "title": "General Practitioner",
+        "name": "Dr. Anna-Maria Ardla",
+        "text": "Deep understanding of healthcare operations and medical center needs"
+      },
+      "it": {
+        "title": "IT Solutions Architect",
+        "name": "Nikita Rom",
+        "text": "Technical expertise in digitalization and IT infrastructure"
+      },
+      "data": {
+        "title": "Data Scientist",
+        "name": "Kaspar Karl Haavel",
+        "text": "Data analytics and insights for healthcare operations"
+      }
+    },
+    "targetMarket": {
+      "title": "Target Market",
+      "primary": {
+        "title": "Primary Focus",
+        "label": "Family Centers in Estonia",
+        "item1": "Typically less than 50 employees",
+        "item2": "Currently underserved in IT infrastructure and digitalization support",
+        "item3": "Seeking modern solutions to enable remote work and improve operational efficiency"
+      },
+      "expansion": {
+        "title": "Long-Term Expansion",
+        "label": "Finland",
+        "item1": "Strategic second market for geographic expansion",
+        "item2": "Similar healthcare system structure to Estonia",
+        "item3": "Opportunity to leverage learnings from the Estonian market"
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Digitalization Journey?",
+      "text": "Learn how MEDITSIIN4.0 can support your GP center"
+    }
+  },
+  "offerings": {
+    "header": {
+      "title": "Our Offerings",
+      "subtitle": "Digitalization solutions for GP centers in Estonia"
+    },
+    "overview": "MEDITSIIN4.0 provides a comprehensive suite of digitalization solutions designed to enable remote work, modernize infrastructure, and optimize operations for Family Centers in Estonia.",
+    "coreTitle": "Core Offerings",
+    "hardware": {
+      "title": "Hardware Solutions",
+      "description": "Essential hardware equipment for remote medical work",
+      "components": {
+        "title": "Components",
+        "item1": "Laptops and computing devices",
+        "item2": "Headphones and communication equipment",
+        "item3": "Essential hardware for remote medical work"
+      }
+    },
+    "it": {
+      "title": "IT Infrastructure & Support",
+      "description": "Professional system administration and IT infrastructure management",
+      "components": {
+        "title": "Components",
+        "item1": "System administration services",
+        "item2": "IT infrastructure management",
+        "item3": "Technical support and maintenance",
+        "item4": "Integration with existing medical software systems",
+        "item5": "24/7 support for critical medical operations"
+      },
+      "value": {
+        "title": "Value Proposition",
+        "item1": "We address the critical gap of non-existent sysadmins in GP centers",
+        "item2": "We ensure reliable, secure IT infrastructure",
+        "item3": "We enable seamless integration with existing systems"
+      }
+    },
+    "software": {
+      "title": "Medical Software Update Management",
+      "description": "Proactive management and updating of medical sector-specific software to ensure latest versions are available and installed",
+      "features": {
+        "title": "Key Features",
+        "item1": "Automated monitoring of software update availability",
+        "item2": "Planned update schedules that work around medical center operations",
+        "item3": "Testing environment validation before production deployment",
+        "item4": "Rollback capabilities if issues arise"
+      },
+      "value": {
+        "title": "Value Proposition",
+        "item1": "We address the common issue where medical centers don't install available software upgrades",
+        "item2": "We ensure access to latest features, security patches, and improvements",
+        "item3": "We reduce security risks from outdated software"
+      }
+    },
+    "communication": {
+      "title": "Communication Tools",
+      "description": "Secure, integrated communication platforms for team and patient interactions",
+      "components": {
+        "title": "Components",
+        "item1": "Internal chat services for secure communication within teams",
+        "item2": "Call services for patient and team interactions",
+        "item3": "Email services",
+        "item4": "Integrated communication platforms"
+      },
+      "features": {
+        "title": "Key Features",
+        "item1": "Secure, GDPR-compliant communication",
+        "item2": "Integration with existing workflows",
+        "item3": "Support for remote and hybrid work models"
+      }
+    },
+    "productivity": {
+      "title": "Productivity Tools",
+      "description": "Office suite and collaboration tools for medical professionals",
+      "components": {
+        "title": "Components",
+        "item1": "Office suite solutions",
+        "item2": "Document management",
+        "item3": "Collaboration tools"
+      },
+      "value": {
+        "title": "Value Proposition",
+        "item1": "We replace fragmented software solutions",
+        "item2": "We enable seamless document sharing and collaboration",
+        "item3": "We support remote work workflows"
+      }
+    },
+    "workforce": {
+      "title": "Workforce Organization Tools",
+      "description": "Comprehensive workforce planning and management system",
+      "components": {
+        "title": "Components",
+        "item1": "Shift planning and scheduling systems",
+        "item2": "Vacation and sick-leave management",
+        "item3": "Workforce coordination and optimization",
+        "item4": "Nurse-to-doctor ratio optimization",
+        "item5": "Team composition management",
+        "item6": "Real-time visibility into who is working and with whom"
+      },
+      "value": {
+        "title": "Value Proposition",
+        "item1": "We replace outdated planning systems",
+        "item2": "We provide data-driven workforce optimization",
+        "item3": "We ensure proper staffing ratios and team composition"
+      }
+    },
+    "organizational": {
+      "title": "Organizational Structure & Design",
+      "description": "Strategic organizational structure design and optimization for medical centers facing professional shortages",
+      "components": {
+        "title": "Components",
+        "item1": "Organizational structure analysis and design",
+        "item2": "Work planning optimization for limited professional resources",
+        "item3": "Role definition and responsibility mapping",
+        "item4": "Team structure recommendations",
+        "item5": "Workflow design to maximize efficiency"
+      },
+      "value": {
+        "title": "Value Proposition",
+        "item1": "We address the critical challenge of professional shortages",
+        "item2": "We enable effective work planning despite staff shortages",
+        "item3": "We optimize organizational structure to work with available resources"
+      }
+    },
+    "satisfaction": {
+      "title": "Satisfaction Tracking & Workload Monitoring",
+      "description": "System for tracking patient satisfaction and monitoring workload of doctors and nurses to prevent overwhelm",
+      "components": {
+        "title": "Components",
+        "item1": "Patient satisfaction tracking and analytics",
+        "item2": "Social rating monitoring and management",
+        "item3": "Workload tracking for doctors and nurses",
+        "item4": "Real-time workload visibility and alerts",
+        "item5": "Overwhelm prevention and early warning systems"
+      },
+      "value": {
+        "title": "Value Proposition",
+        "item1": "We address the issue of poor social ratings for family centers",
+        "item2": "We enable tracking of actual workload to identify capacity constraints",
+        "item3": "We prevent doctors and nurses from becoming overwhelmed"
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "text": "Learn more about our offerings and how they can benefit your GP center"
+    }
+  },
+  "footer": {
+    "description": "Digitalization solutions for GP centers in Estonia.",
+    "navigation": "Navigation",
+    "resources": "Resources",
+    "documentation": "Documentation",
+    "vision": "Vision",
+    "mission": "Mission"
+  },
+  "settings": {
+    "header": {
+      "title": "Settings",
+      "subtitle": "Customize your website experience"
+    },
+    "font": {
+      "title": "Font Preference",
+      "label": "Choose your preferred font",
+      "description": "Select a font that you find most readable and professional"
+    },
+    "colors": {
+      "title": "Color Scheme",
+      "label": "Choose your preferred color scheme",
+      "description": "Select a color palette that matches your preference"
+    },
+    "language": {
+      "title": "Language Preference",
+      "label": "Choose your preferred language",
+      "description": "The website will display in your selected language"
+    },
+    "reset": {
+      "title": "Reset Settings",
+      "label": "Reset to defaults",
+      "description": "Clear all saved preferences and return to default settings",
+      "button": "Reset All Settings"
+    }
+  },
+  "overview": {
+    "hero": {
+      "title": "Medical Center Modernization Service",
+      "subtitle": "Enabling Secure Remote Work for GP Centers"
+    },
+    "background": {
+      "title": "Background",
+      "intro": "Many GP centers operate under increasing pressure:",
+      "item1": "Staff shortages among doctors and nurses",
+      "item2": "Ageing hardware and outdated software",
+      "item3": "Fragmented tools for communication, scheduling, and documentation",
+      "item4": "No dedicated IT or operational support",
+      "item5": "Limited visibility into workload, staff wellbeing, or patient satisfaction",
+      "expectations": {
+        "title": "At the same time, expectations are changing.",
+        "text": "Younger doctors increasingly expect flexible and remote work options, while many centers remain dependent on physical presence and manual coordination.",
+        "lackTitle": "Most GP centers recognize the need to modernize, but lack:",
+        "lack1": "Time to manage multiple vendors",
+        "lack2": "Internal IT expertise",
+        "lack3": "Capacity to design secure, compliant remote setups"
+      }
+    },
+    "purpose": {
+      "title": "Purpose",
+      "goal": "Our goal is to:",
+      "item1": "Modernize GP centers",
+      "item2": "Enable secure remote and hybrid work",
+      "item3": "Reduce operational complexity",
+      "item4": "Cut costs",
+      "statement": "We provide a standardized operational foundation for reliable daily clinical work on-site and remote. We do not replace medical systems or introduce unnecessary tools."
+    },
+    "provide": {
+      "title": "What We Provide",
+      "intro": "A single, bundled service that replaces fragmented setups with one coordinated system",
+      "hardware": {
+        "title": "Hardware (Optional)",
+        "description": "Monthly hardware bundle, centrally managed",
+        "item1": "Laptops, monitors, and headsets provided on a monthly basis",
+        "item2": "Pre-configured, encrypted, and centrally managed",
+        "item3": "Suitable for both on-site and remote clinical work",
+        "item4": "No upfront investment required"
+      },
+      "it": {
+        "title": "IT & System Administration",
+        "description": "One accountable owner for day-to-day reliability",
+        "item1": "Centralized device management",
+        "item2": "Account and access provisioning",
+        "item3": "Software updates and security management",
+        "item4": "One responsible point of contact instead of multiple vendors"
+      },
+      "communication": {
+        "title": "Communication",
+        "description": "Reduce fragmentation and informal channels",
+        "item1": "Unified setup for chat, calls, and email",
+        "item2": "Integration with existing platforms where possible",
+        "item3": "Reduced reliance on informal or personal communication channels"
+      },
+      "remoteAccess": {
+        "title": "Secure Remote Access",
+        "description": "Remote and hybrid work without weakening security",
+        "item1": "VPN-based access to clinical and administrative systems",
+        "item2": "Role-based permissions aligned with staff responsibilities",
+        "item3": "Designed to meet EU and GDPR requirements"
+      },
+      "workforce": {
+        "title": "Workforce & Shift Management",
+        "description": "Support hybrid staffing models with clear coordination",
+        "item1": "Shift planning and coverage rules",
+        "item2": "Vacation and sick-leave tracking",
+        "item3": "Visibility into nurse–doctor ratios and team composition",
+        "item4": "Support for hybrid and remote staffing models"
+      },
+      "office": {
+        "title": "Office & Document Tools",
+        "description": "Clear ownership, access control, and auditability",
+        "item1": "Standard office software",
+        "item2": "Centralized document storage and access control",
+        "item3": "Auditability and clear ownership of information"
+      },
+      "consulting": {
+        "title": "Consulting on Personnel Management",
+        "description": "Ways of working and collaboration between nurses and doctors",
+        "item1": "Workflow design and optimization",
+        "item2": "Team collaboration structures",
+        "item3": "Communication protocols between staff",
+        "item4": "Best practices for nurse-doctor collaboration"
+      },
+      "monitoring": {
+        "title": "Workload & Satisfaction Monitoring",
+        "future": "(Future)",
+        "description": "Signals to support staffing and organizational decisions",
+        "item1": "Basic workload indicators",
+        "item2": "Patient feedback collection",
+        "item3": "Early signals of overload and burnout",
+        "item4": "Data to support staffing and organizational decisions"
+      }
+    },
+    "how": {
+      "title": "How It Works",
+      "intro": "We deliver in two parts:",
+      "onboarding": {
+        "title": "30-Day Onboarding",
+        "intro": "A standardized modernization package that sets up your operational foundation:",
+        "step1": {
+          "title": "Existing setup is mapped",
+          "text": "We document your current systems, devices, accounts, and workflows"
+        },
+        "step2": {
+          "title": "Hardware and access are provisioned centrally",
+          "text": "Managed devices (if needed) and identity/access baseline are set up"
+        },
+        "step3": {
+          "title": "Communication, scheduling, and documents are standardized",
+          "text": "We reduce fragmentation and clarify ownership and permissions"
+        },
+        "step4": {
+          "title": "Internal structure and collaborations are mapped",
+          "text": "Roles, responsibilities, and cross-coverage are documented"
+        },
+        "step5": {
+          "title": "Remote access and security rules are applied",
+          "text": "Least privilege, MFA, device policies, and auditability are configured"
+        },
+        "step6": {
+          "title": "Monitoring and reporting are activated",
+          "text": "Operational visibility for stability and incremental improvement"
+        }
+      },
+      "support": {
+        "title": "Continuous Support and Enablement",
+        "intro": "After onboarding, the system runs continuously with ongoing support:",
+        "item1": {
+          "title": "Continuous monitoring and maintenance",
+          "text": "Proactive system monitoring ensures reliability and security without manual intervention"
+        },
+        "item2": {
+          "title": "Incremental improvement",
+          "text": "Regular updates and optimizations keep your operational foundation current and effective"
+        },
+        "item3": {
+          "title": "Secure remote work enablement",
+          "text": "Ongoing support ensures your team can work remotely securely and reliably"
+        }
+      }
+    },
+    "who": {
+      "title": "Who This Is For",
+      "intro": "This service is designed for GP centers that want to:",
+      "item1": "Enable remote or hybrid work",
+      "item2": "Reduce administrative and coordination burden",
+      "item3": "Improve staff retention and attractiveness to younger doctors",
+      "item4": "Modernize without large upfront investments",
+      "item5": "Avoid building internal IT or operations teams"
+    },
+    "commercial": {
+      "title": "Commercial Model",
+      "intro": "Simple, predictable pricing:",
+      "item1": "Subscription per workplace",
+      "item2": "One unified monthly invoice",
+      "item3": "Hardware and software bundled",
+      "item4": "Predictable operational costs",
+      "item5": "One-time payment for the setup"
+    },
+    "aspire": {
+      "title": "We Aspire To",
+      "item1": "Make GP work more flexible and sustainable",
+      "item2": "Support smaller, rural, and understaffed centers",
+      "item3": "Create foundations for cross-clinic staffing and collaboration",
+      "item4": "Expand to neighbouring countries with similar healthcare systems",
+      "item5": "Enable medical professionals to work from home or remotely when appropriate, without compromising patient care or operational efficiency",
+      "item6": "Fully digitalize medical establishments with modern digital tools and processes, matching the digital transformation seen in other professional sectors",
+      "item7": "Optimize workforce through data-driven insights into wellbeing and efficiency, leading to better work-life balance and improved patient outcomes"
+    },
+    "footer": {
+      "description": "Medical center modernization for secure remote and hybrid work."
+    }
+  }
+}
