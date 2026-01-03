@@ -57,6 +57,9 @@ class I18n {
                 // If path includes /website/, use that as base
                 const basePath = currentPath.substring(0, currentPath.indexOf('/website/') + '/website/'.length);
                 url = `${basePath}lang/${lang}.json`;
+            } else if (currentPath === '/' || currentPath === '/index.html' || currentPath.endsWith('/index.html')) {
+                // If we're at root index.html, language files are in /website/lang/
+                url = `website/lang/${lang}.json`;
             } else {
                 // Use relative path from current directory
                 const currentDir = currentPath.substring(0, currentPath.lastIndexOf('/') + 1);
