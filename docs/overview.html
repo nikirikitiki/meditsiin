@@ -73,6 +73,7 @@
             grid-template-columns: repeat(2, 1fr);
             gap: 1.5rem;
             margin-bottom: 2rem;
+            align-items: start;
         }
         .offering-detail {
             margin-bottom: 0;
@@ -88,6 +89,17 @@
         }
         .offering-header {
             margin-bottom: 0.75rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+            user-select: none;
+        }
+        .offering-header-content {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            flex: 1;
         }
         .offering-number {
             width: 32px;
@@ -98,6 +110,19 @@
             font-size: 1.25rem;
             margin: 0;
         }
+        .offering-expand {
+            width: 24px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--primary-color);
+            transition: transform 0.3s ease;
+            flex-shrink: 0;
+        }
+        .offering-detail.expanded .offering-expand {
+            transform: rotate(180deg);
+        }
         .offering-description {
             font-size: 0.95rem;
             color: var(--text-light);
@@ -106,6 +131,13 @@
             font-style: normal;
         }
         .offering-details {
+            margin-top: 0.75rem;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease, margin-top 0.3s ease;
+        }
+        .offering-detail.expanded .offering-details {
+            max-height: 500px;
             margin-top: 0.75rem;
         }
         .detail-column h4 {
@@ -343,8 +375,13 @@
             <div class="offerings-grid">
             <div class="offering-detail">
                 <div class="offering-header">
-                    <span class="offering-number">1</span>
-                    <h3 data-i18n="overview.provide.hardware.title">Hardware (Optional)</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">1</span>
+                        <h3 data-i18n="overview.provide.hardware.title">Hardware (Optional)</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="overview.provide.hardware.description">Monthly hardware bundle, centrally managed</p>
                 <div class="offering-details">
@@ -361,8 +398,13 @@
 
             <div class="offering-detail">
                 <div class="offering-header">
-                    <span class="offering-number">2</span>
-                    <h3 data-i18n="overview.provide.it.title">IT & System Administration</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">2</span>
+                        <h3 data-i18n="overview.provide.it.title">IT & System Administration</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="overview.provide.it.description">One accountable owner for day-to-day reliability</p>
                 <div class="offering-details">
@@ -379,8 +421,13 @@
 
             <div class="offering-detail">
                 <div class="offering-header">
-                    <span class="offering-number">3</span>
-                    <h3 data-i18n="overview.provide.communication.title">Communication</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">3</span>
+                        <h3 data-i18n="overview.provide.communication.title">Communication</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="overview.provide.communication.description">Reduce fragmentation and informal channels</p>
                 <div class="offering-details">
@@ -396,8 +443,13 @@
 
             <div class="offering-detail">
                 <div class="offering-header">
-                    <span class="offering-number">4</span>
-                    <h3 data-i18n="overview.provide.remoteAccess.title">Secure Remote Access</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">4</span>
+                        <h3 data-i18n="overview.provide.remoteAccess.title">Secure Remote Access</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="overview.provide.remoteAccess.description">Remote and hybrid work without weakening security</p>
                 <div class="offering-details">
@@ -413,8 +465,13 @@
 
             <div class="offering-detail">
                 <div class="offering-header">
-                    <span class="offering-number">5</span>
-                    <h3 data-i18n="overview.provide.workforce.title">Workforce & Shift Management</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">5</span>
+                        <h3 data-i18n="overview.provide.workforce.title">Workforce & Shift Management</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="overview.provide.workforce.description">Support hybrid staffing models with clear coordination</p>
                 <div class="offering-details">
@@ -431,8 +488,13 @@
 
             <div class="offering-detail">
                 <div class="offering-header">
-                    <span class="offering-number">6</span>
-                    <h3 data-i18n="overview.provide.office.title">Office & Document Tools</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">6</span>
+                        <h3 data-i18n="overview.provide.office.title">Office & Document Tools</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="overview.provide.office.description">Clear ownership, access control, and auditability</p>
                 <div class="offering-details">
@@ -448,8 +510,13 @@
 
             <div class="offering-detail">
                 <div class="offering-header">
-                    <span class="offering-number">7</span>
-                    <h3 data-i18n="overview.provide.consulting.title">Consulting on Personnel Management</h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">7</span>
+                        <h3 data-i18n="overview.provide.consulting.title">Consulting on Personnel Management</h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="overview.provide.consulting.description">Ways of working and collaboration between nurses and doctors</p>
                 <div class="offering-details">
@@ -466,8 +533,13 @@
 
             <div class="offering-detail">
                 <div class="offering-header">
-                    <span class="offering-number">8</span>
-                    <h3><span data-i18n="overview.provide.monitoring.title">Workload & Satisfaction Monitoring</span> <span style="font-size: 0.85rem; font-weight: 400; color: var(--text-light);" data-i18n="overview.provide.monitoring.future">(Future)</span></h3>
+                    <div class="offering-header-content">
+                        <span class="offering-number">8</span>
+                        <h3><span data-i18n="overview.provide.monitoring.title">Workload & Satisfaction Monitoring</span> <span style="font-size: 0.85rem; font-weight: 400; color: var(--text-light);" data-i18n="overview.provide.monitoring.future">(Future)</span></h3>
+                    </div>
+                    <svg class="offering-expand" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6 9L12 15L18 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
                 </div>
                 <p class="offering-description" data-i18n="overview.provide.monitoring.description">Signals to support staffing and organizational decisions</p>
                 <div class="offering-details">
@@ -669,19 +741,19 @@
                         </li>
                         <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
                             <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
-                            <span data-i18n="overview.aspire.item4">Expand to neighbouring countries with similar healthcare systems</span>
+                            <span data-i18n="overview.aspire.item5">Help medical professionals work remotely when appropriate, while maintaining patient care quality</span>
                         </li>
                         <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
                             <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
-                            <span data-i18n="overview.aspire.item5">Enable medical professionals to work from home or remotely when appropriate, without compromising patient care or operational efficiency</span>
+                            <span data-i18n="overview.aspire.item6">Help medical establishments adopt modern tools and processes used in other professional fields</span>
                         </li>
                         <li style="padding: 0.5rem 0; border-bottom: 1px solid var(--bg-light); padding-left: 1.5rem; position: relative;">
                             <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
-                            <span data-i18n="overview.aspire.item6">Fully digitalize medical establishments with modern digital tools and processes, matching the digital transformation seen in other professional sectors</span>
+                            <span data-i18n="overview.aspire.item7">Use information about staff wellbeing and workload to improve working conditions and patient care</span>
                         </li>
                         <li style="padding: 0.5rem 0; padding-left: 1.5rem; position: relative;">
                             <span style="position: absolute; left: 0; color: var(--primary-color); font-weight: 700;">•</span>
-                            <span data-i18n="overview.aspire.item7">Optimize workforce through data-driven insights into wellbeing and efficiency, leading to better work-life balance and improved patient outcomes</span>
+                            <span data-i18n="overview.aspire.item4">Expand to neighbouring countries with similar healthcare systems</span>
                         </li>
                     </ul>
                 </div>
@@ -716,6 +788,19 @@
     <script src="js/main.js"></script>
     <script src="js/i18n.js"></script>
     <script>
+        // Expand/Collapse functionality for offering-detail
+        document.addEventListener('DOMContentLoaded', function() {
+            const offeringHeaders = document.querySelectorAll('.offering-header');
+            offeringHeaders.forEach(header => {
+                header.addEventListener('click', function() {
+                    const offeringDetail = this.closest('.offering-detail');
+                    if (offeringDetail) {
+                        offeringDetail.classList.toggle('expanded');
+                    }
+                });
+            });
+        });
+
         // Check authentication
         if (!sessionStorage.getItem('authenticated')) {
             window.location.href = 'login.html';

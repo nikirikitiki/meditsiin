@@ -208,19 +208,42 @@ h3 {
     color: var(--text-dark);
     text-decoration: none;
     font-weight: 500;
-    transition: color 0.3s;
+    transition: color 0.3s, transform 0.3s ease;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     font-size: 0.875rem;
+    position: relative;
+    display: inline-block;
+}
+
+.nav-menu a::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    transition: width 0.3s ease;
+    border-radius: 2px;
 }
 
 .nav-menu a:hover {
     color: var(--primary-color);
+    transform: scale(1.05);
+}
+
+.nav-menu a:hover::after {
+    width: 100%;
 }
 
 .nav-menu a.active {
     color: var(--primary-color);
     font-weight: 700;
+}
+
+.nav-menu a.active::after {
+    width: 100%;
 }
 
 .mobile-menu-toggle {
@@ -461,11 +484,6 @@ h3 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 2rem;
-    transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
-}
-
-.problem-list:hover {
-    box-shadow: var(--shadow-lg);
 }
 
 .problem-item {

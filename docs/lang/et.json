@@ -440,7 +440,7 @@
         "item4": "Üks vastutav kontaktipunkt mitme tarnija asemel"
       },
       "communication": {
-        "title": "Suhtlus",
+        "title": "Suhtlustööriistad",
         "description": "Vähendada killustatust ja mitteametlikke kanaleid",
         "item1": "Ühtne seadistus vestluseks, kõnedeks ja e-posti jaoks",
         "item2": "Integreerimine olemasolevate platvormidega, kus võimalik",
@@ -554,13 +554,13 @@
     },
     "aspire": {
       "title": "Me püüdleme",
-      "item1": "Teha perearsti tööd paindlikumaks ja jätkusuutlikumaks",
+      "item1": "Parandada perearstide töö paindlikkust",
       "item2": "Toetada väiksemaid, maapiirkonna ja alavõimustatud keskusi",
-      "item3": "Luua alused ristkliinilisele personalile ja koostööle",
+      "item3": "Toetada ristkliinilist personali ja koostööd",
       "item4": "Laiendada naabermaadesse sarnaste tervishoiusüsteemidega",
-      "item5": "Võimaldada meditsiinitöötajatel töötada kodust või kaugtööna, kui see on sobiv, ilma patsientide hoolduse või operatiivse efektiivsuse kahjustamata",
-      "item6": "Täielikult digiteerida meditsiiniasutused kaasaegsete digitaalsete tööriistade ja protsessidega, mis vastab digitaalsele transformatsioonile, mida näeme teistes professionaalsetes sektorites",
-      "item7": "Optimeerida tööjõudu andmepõhiste ülevaadete kaudu heaolu ja efektiivsuse kohta, mis viib parema töö- ja elutasakaaluni ning parandatud patsientide tulemusteni"
+      "item5": "Aidata meditsiinitöötajatel töötada kaugtööna, kui see on sobiv, säilitades patsientide hoolduse kvaliteeti",
+      "item6": "Aidata meditsiiniasutustel kasutusele võtta kaasaegseid tööriistu ja protsesse, mida kasutatakse teistes professionaalsetes valdkondades",
+      "item7": "Kasutada teavet töötajate heaolu ja töökoormuse kohta, et parandada töötingimusi ja patsientide hooldust"
     },
     "footer": {
       "description": "Meditsiinikeskuste moderniseerimine turvaliseks kaug- ja hübriidtööks."

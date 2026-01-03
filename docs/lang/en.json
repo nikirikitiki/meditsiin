@@ -440,7 +440,7 @@
         "item4": "One responsible point of contact instead of multiple vendors"
       },
       "communication": {
-        "title": "Communication",
+        "title": "Communication Tools",
         "description": "Reduce fragmentation and informal channels",
         "item1": "Unified setup for chat, calls, and email",
         "item2": "Integration with existing platforms where possible",
@@ -554,13 +554,13 @@
     },
     "aspire": {
       "title": "We Aspire To",
-      "item1": "Make GP work more flexible and sustainable",
+      "item1": "Improve work flexibility for general practitioners",
       "item2": "Support smaller, rural, and understaffed centers",
-      "item3": "Create foundations for cross-clinic staffing and collaboration",
+      "item3": "Support cross-clinic staffing and collaboration",
       "item4": "Expand to neighbouring countries with similar healthcare systems",
-      "item5": "Enable medical professionals to work from home or remotely when appropriate, without compromising patient care or operational efficiency",
-      "item6": "Fully digitalize medical establishments with modern digital tools and processes, matching the digital transformation seen in other professional sectors",
-      "item7": "Optimize workforce through data-driven insights into wellbeing and efficiency, leading to better work-life balance and improved patient outcomes"
+      "item5": "Help medical professionals work remotely when appropriate, while maintaining patient care quality",
+      "item6": "Help medical establishments adopt modern tools and processes used in other professional fields",
+      "item7": "Use information about staff wellbeing and workload to improve working conditions and patient care"
     },
     "footer": {
       "description": "Medical center modernization for secure remote and hybrid work."
