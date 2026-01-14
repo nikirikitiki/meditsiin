@@ -19,6 +19,7 @@
     "about": "Meist",
     "offerings": "Teenused",
     "overview": "Ülevaade",
+    "salesDeck": "Müügipresentatsioon",
     "settings": "Seaded"
   },
   "common": {
@@ -60,7 +61,7 @@
       "remote": "Kaugtööd rakendus on uskumatu"
     },
     "solutions": {
-      "title": "Meie lahendused",
+      "title": "Lahendused",
       "intro": "Terviklikud digiteerimisteenused perearstikeskustele",
       "hardware": {
         "title": "Riistvaralahendused",
@@ -90,14 +91,16 @@
       "title": "MEDITSIIN4.0"
     },
     "mission": {
-      "title": "Meie missioon",
+      "title": "Missioon",
+      "summary": "Toetame perearstikeskusi digiteerimisel — kaugtöö, paremad tööprotsessid ja järjepidev ravi.",
       "text": "Aitame meditsiiniasutusi digiteerimisel. Pakume lahendusi, mis võimaldavad kaugtööd, parandavad toiminguid ja tagavad hoolduse järjepidevuse."
     },
     "vision": {
-      "title": "Meie visioon",
-      "text": "Kõik meditsiinitöötajad on võimelis töödata digiajastu vabadusega ja paindlikkusega, säilitades kõrgeima patsienditeenindus kvaliteedi.",
+      "title": "Visioon",
+      "summary": "Kõik meditsiinitöötajad on võimelis töödata digiajastu vabadusega ja paindlikkusega, säilitades kõrgeima patsienditeenindus kvaliteedi.",
+      "text": "Tulevik, kus meditsiinitöötajad saavad töötada digiajastu paindlikkusega, kvaliteedis järeleandmisi tegemata.",
       "aspirations": {
-        "title": "Meie eesmärgid",
+        "title": "Eesmärgid",
         "flexibility": {
           "label": "Meditsiinitöötajatel on paindlikkus:",
           "text": "Arstid ja meditsiinitöötajad saavad vajadusel teha kaugtööd, ilma et patsienditeenindus või toimimise efektiivsust kahjustust."
@@ -114,8 +117,9 @@
     },
     "purpose": {
       "title": "Põhieesmärk",
-      "text": "MEDITSIIN4.0 on loodud selleks, lahendada meditsiinivaldkonna aeglase digitaalse arengu ja võimaldada kaugtöö kiire leviku. Kuigi paljud erialad on edukalt kohanenud paindlike ja kaugpõhiste töövormidega, nõuab meditsiin oma kriitilise olemuse tõttu läbimõeldud, turvalist ja spetsiaalselt kohandatud lähenemist. Meie eesmärk on pakkuda just seda tuge, mis võimaldab meditsiinivaldkonnal areneda kaasaegselt, ilma kvaliteedis või ohutuses järeleandmisi.",
-      "ourPurpose": "Meie eesmärk",
+      "summary": "MEDITSIIN4.0 on loodud selleks, lahendada meditsiinivaldkonna aeglase digitaalse arengu ja võimaldada kaugtöö kiire leviku. Kuigi paljud erialad on edukalt kohanenud paindlike ja kaugpõhiste töövormidega, nõuab meditsiin oma kriitilise olemuse tõttu läbimõeldud, turvalist ja spetsiaalselt kohandatud lähenemist. Eesmärk on pakkuda tuge, mis võimaldab valdkonnal areneda kaasaegselt, ilma kvaliteedis või ohutuses järeleandmisi tegemata.",
+      "text": "Sillame meditsiini digilõhe ja loome turvalise aluse moderniseerimiseks ning kaugtööks.",
+      "ourPurpose": "Fookus",
       "accelerate": {
         "title": "Kiirendada digiteerimist",
         "text": "Meditsiiniasutustes kindlusega ja turvaliselt"
@@ -142,10 +146,11 @@
       }
     },
     "commitment": {
-      "title": "Meie pühendumus",
+      "title": "Põhimõtted",
+      "summary": "Ohutus esikohal, vastavus nõuetele ja usaldusväärne igapäevane toimimine.",
       "safety": {
         "title": "Patsiendi ohutus esmalt",
-        "text": "Kõik meie lahendused prioriseerivad patsienditeenindust ja ohutust kõigest üle"
+        "text": "Kõik lahendused seavad esikohale patsienditeeninduse ja ohutuse"
       },
       "reliability": {
         "title": "Usaldusväärsus",
@@ -169,7 +174,7 @@
       }
     },
     "team": {
-      "title": "Meie meeskond",
+      "title": "Meeskond",
       "text": "MEDITSIIN4.0 on asutatud kolme kogenud professionaali poolt:",
       "medical": {
         "title": "Perearst",
@@ -211,7 +216,7 @@
   },
   "offerings": {
     "header": {
-      "title": "Meie teenused",
+      "title": "Teenused",
       "subtitle": "Terviklikud digiteerimislahendused Eesti perearstikeskustele"
     },
     "overview": "MEDITSIIN4.0 pakub terviklikku digiteerimislahenduste komplekti, mis on loodud võimaldama kaugtööd, moderniseerima taristut ja optimeerima toiminguid Eesti perekeskustele.",
@@ -351,7 +356,7 @@
     },
     "cta": {
       "title": "Valmis alustama?",
-      "text": "Lisateave meie teenuste kohta ja kuidas need võivad teie perearstikeskust kasulikuks teha"
+      "text": "Lisateave teenuste kohta ja kuidas need võivad teie perearstikeskust kasulikuks teha"
     }
   },
   "footer": {
@@ -413,7 +418,7 @@
     },
     "purpose": {
       "title": "Eesmärk",
-      "goal": "Meie eesmärk on:",
+      "goal": "Eesmärk on:",
       "item1": "Moderniseerida perearstikeskused",
       "item2": "Võimaldada turvalist kaug- ja hübriidtööd",
       "item3": "Vähendada operatiivset keerukust",

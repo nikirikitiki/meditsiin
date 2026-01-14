@@ -544,10 +544,28 @@ h3 {
 }
 
 .offerings-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2rem;
+    display: flex;
+    gap: 1.5rem;
     margin-bottom: 3rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 1rem;
+}
+
+.offerings-grid::-webkit-scrollbar {
+    height: 8px;
+}
+
+.offerings-grid::-webkit-scrollbar-track {
+    background: var(--bg-light);
+    border-radius: 4px;
+}
+
+.offerings-grid::-webkit-scrollbar-thumb {
+    background: var(--primary-color);
+    border-radius: 4px;
 }
 
 .offering-card {
@@ -556,6 +574,15 @@ h3 {
     border-radius: 0.5rem;
     box-shadow: var(--shadow);
     transition: transform 0.3s, box-shadow 0.3s;
+    flex: 0 0 auto;
+    min-width: 200px;
+    min-height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    text-align: center;
 }
 
 .offering-card:hover {
@@ -563,14 +590,21 @@ h3 {
     box-shadow: var(--shadow-lg);
 }
 
-.offering-card h3 {
-    margin-bottom: 1rem;
+.offering-card-icon {
+    width: 48px;
+    height: 48px;
     color: var(--primary-color);
+    flex-shrink: 0;
+}
+
+.offering-card h3 {
+    margin: 0;
+    color: var(--primary-color);
+    font-size: 1.1rem;
 }
 
 .offering-card p {
-    color: var(--text-light);
-    margin-bottom: 1rem;
+    display: none;
 }
 
 .card-link {
@@ -660,6 +694,104 @@ h3 {
     margin: 0 auto;
 }
 
+.fold-section {
+    width: 100%;
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    padding: 0;
+}
+
+.fold-summary {
+    cursor: pointer;
+    list-style: none;
+    position: relative;
+    padding-right: 2.75rem; /* room for chevron */
+    user-select: none;
+}
+
+.fold-summary--teaser {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+.fold-summary::-webkit-details-marker {
+    display: none;
+}
+
+.fold-summary::after {
+    content: "▾";
+    position: absolute;
+    right: 0;
+    top: 0.85rem;
+    font-size: 1.5rem;
+    line-height: 1;
+    color: var(--primary-color);
+    font-weight: 700;
+    transition: transform 0.25s ease;
+}
+
+.fold-section[open] .fold-summary::after {
+    transform: rotate(180deg);
+}
+
+.fold-summary:focus-visible {
+    outline: 2px solid var(--primary-color);
+    outline-offset: 6px;
+    border-radius: 0.75rem;
+}
+
+.fold-title {
+    display: block;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: var(--text-dark);
+    font-weight: 700;
+    letter-spacing: 0.025em;
+}
+
+.fold-teaser {
+    display: block;
+    margin-bottom: 0;
+    color: var(--text-light);
+    line-height: 1.8;
+    font-size: 1.1rem;
+}
+
+.fold-content {
+    margin-top: 1.5rem;
+    padding-left: 0;
+    border-left: none;
+}
+
+details[open] .fold-content {
+    animation: foldContentIn 0.25s ease;
+}
+
+@keyframes foldContentIn {
+    from {
+        opacity: 0;
+        transform: translateY(-6px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* About page: highlight whole expandable sections on hover */
+.vision-section,
+.purpose-section,
+.commitment-section {
+    transition: background-color 0.2s ease;
+}
+
+.vision-section:hover,
+.purpose-section:hover,
+.commitment-section:hover {
+    background-color: var(--bg-light);
+}
+
 .content-block h2 {
     font-size: 2.5rem;
     margin-bottom: 2rem;
@@ -694,7 +826,7 @@ h3 {
 }
 
 .mission-section {
-    background-color: var(--bg-light);
+    background-color: var(--bg-white);
 }
 
 .mission-statement {
@@ -743,6 +875,7 @@ h3 {
     padding: 2rem;
     background: var(--bg-light);
     border-radius: 0.5rem;
+    border-left: 4px solid var(--primary-color);
     transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
     cursor: pointer;
 }
@@ -763,7 +896,7 @@ h3 {
 /* Team Section */
 .team-section {
     padding: 4rem 0;
-    background-color: var(--bg-light);
+    background-color: var(--bg-white);
 }
 
 .team-grid {
