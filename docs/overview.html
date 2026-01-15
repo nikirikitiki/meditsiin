@@ -785,8 +785,8 @@
         </div>
     </footer>
 
-    <script src="js/main.js"></script>
     <script src="js/i18n.js"></script>
+    <script src="js/main.js"></script>
     <script>
         // Expand/Collapse functionality for offering-detail
         document.addEventListener('DOMContentLoaded', function() {
@@ -800,11 +800,6 @@
                 });
             });
         });
-
-        // Check authentication
-        if (!sessionStorage.getItem('authenticated')) {
-            window.location.href = 'login.html';
-        }
     </script>
 </body>
 </html>
