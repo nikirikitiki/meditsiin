@@ -1,47 +1,38 @@
 # MEDITSIIN4.0
 
-## Document Index
+## Repository Index
 
-This repository contains all documentation for the MEDITSIIN4.0 project. Use this README as a navigation hub to access all project documents.
+This repository contains the public-facing website for the MEDITSIIN4.0 project and related helper scripts.  
+Only files that are **not** listed in `.gitignore` (for example, `documents/` is ignored) are described here.
 
-### High-Level Documents
+### Tracked Structure
 
-- **[Core](./docs/core.md)** - Core project documentation, problem statement, and business model
-- **[One-Pager](./docs/one-pager.md)** - Condensed service overview and key information
-- **[Pricing Model](./docs/pricing-model.md)** - Subscription-based pricing model (per workplace)
-- **[Revenue Strategy](./docs/revenue-strategy.md)** - Revenue strategy and business model
-- **[Implementation Plan](./docs/implementation-plan.md)** - Implementation planning and roadmap
-- **[Ideas](./docs/ideas.md)** - Project ideas and concepts
-- **[Research](./docs/research/)** - Customer research and market analysis
-
-### Documentation Structure
-
-```
+```text
 meditsiin4.0/
-├── README.md          # This file - main index
-├── docs/              # Documentation files
-│   ├── core.md       # Core project documentation
-│   ├── one-pager.md  # One-pager summary
-│   ├── revenue-strategy.md # Revenue strategy
-│   └── research/      # Research documents
-└── website/           # Website files (HTML/CSS/JS)
-    ├── index.html     # Homepage
-    ├── about.html     # About page
-    ├── offerings.html # Offerings page
-    ├── overview.html  # Service overview (one-pager content)
-    ├── login.html     # Login page (password protection)
-    ├── settings.html  # Settings page
-    ├── css/           # Stylesheets
-    ├── js/            # JavaScript
-    ├── lang/          # Translation files
-    └── assets/        # Images and fonts
+├── README.md          # This file – main index
+├── .gitignore         # Ignore rules (e.g. documents/, Cursor files)
+├── docs/              # Website files (HTML/CSS/JS) and assets
+│   ├── index.html     # Homepage
+│   ├── about.html     # About page
+│   ├── offerings.html # Offerings page
+│   ├── overview.html  # Service overview / one‑pager content
+│   ├── settings.html  # Visual/settings playground for the site
+│   ├── presentation.html # Slide-style presentation version
+│   ├── css/           # Stylesheets for the site and presentation
+│   ├── js/            # JavaScript (navigation, animations, i18n, settings)
+│   ├── lang/          # Translation JSON files (et/ru/en)
+│   ├── assets/        # Images and fonts used on the site
+│   ├── server.py      # Simple local HTTP server for development
+│   └── README.md      # Website-specific documentation
+└── scripts/
+    └── extract_companies.py # Helper script for data extraction
 ```
 
 ### Website
 
-- **[Website README](./website/README.md)** - Website setup and deployment instructions
-- **Local Development:** See [Running the Website Locally](#running-the-website-locally) section above
-- **Deployment:** Ready for GitHub Pages deployment (see website README for details)
+- **Site root:** `docs/` (can be used directly for GitHub Pages or any static host)
+- **Website README:** `docs/README.md` – setup and deployment details
+- **Local Development:** See [Running the Website Locally](#running-the-website-locally)
 
 ---
 

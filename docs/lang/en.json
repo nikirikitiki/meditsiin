@@ -19,6 +19,7 @@
     "about": "About",
     "offerings": "Offerings",
     "overview": "Overview",
+    "salesDeck": "Sales Deck",
     "settings": "Settings"
   },
   "common": {
@@ -60,7 +61,7 @@
       "remote": "Remote work seems impossible"
     },
     "solutions": {
-      "title": "Our Solutions",
+      "title": "Solutions",
       "intro": "Comprehensive digitalization services for GP centers",
       "hardware": {
         "title": "Hardware Solutions",
@@ -90,14 +91,16 @@
       "title": "MEDITSIIN4.0"
     },
     "mission": {
-      "title": "Our Mission",
+      "title": "Mission",
+      "summary": "Comprehensive digitalization support for GP centers—remote work, better operations, continuity of care.",
       "text": "We help medical establishments with digitalization. We provide solutions that enable remote work, improve operations, and ensure continuity of care."
     },
     "vision": {
-      "title": "Our Vision",
-      "text": "All medical professionals are capable of working with the freedom and flexibility of the digital age, while maintaining the highest quality of patient care.",
+      "title": "Vision",
+      "summary": "All medical professionals are capable of working with the freedom and flexibility of the digital age, while maintaining the highest quality of patient care.",
+      "text": "A future where medical professionals can work with digital-age flexibility without compromising care.",
       "aspirations": {
-        "title": "Our Aspirations",
+        "title": "Aspirations",
         "flexibility": {
           "label": "Medical professionals have flexibility:",
           "text": "Doctors and medical staff can work remotely when needed, without compromising patient care or operational efficiency."
@@ -114,8 +117,9 @@
     },
     "purpose": {
       "title": "Core Purpose",
-      "text": "MEDITSIIN4.0 was created to solve the slow digital development of the medical field and enable the rapid spread of remote work. While many professions have successfully adapted to flexible and remote work forms, medicine requires a thoughtful, secure, and specifically tailored approach due to its critical nature. Our goal is to provide the support that allows the medical field to develop modernly, without compromising quality or safety.",
-      "ourPurpose": "Our Purpose",
+      "summary": "MEDITSIIN4.0 was created to solve the slow digital development of the medical field and enable the rapid spread of remote work. While many professions have successfully adapted to flexible and remote work forms, medicine requires a thoughtful, secure, and specifically tailored approach due to its critical nature. The aim is to provide support that helps healthcare modernize without compromising quality or safety.",
+      "text": "Bridge healthcare’s digitalization gap with secure, practical modernization that enables remote work.",
+      "ourPurpose": "Focus",
       "accelerate": {
         "title": "Accelerate Digitalization",
         "text": "In medical establishments with confidence and security"
@@ -142,7 +146,8 @@
       }
     },
     "commitment": {
-      "title": "Our Commitment",
+      "title": "Principles",
+      "summary": "Safety-first, compliant by design, and built for dependable day-to-day operations.",
       "safety": {
         "title": "Patient Safety First",
         "text": "All solutions prioritize patient care and safety above all else"
@@ -157,7 +162,7 @@
       },
       "innovation": {
         "title": "Innovation",
-        "text": "Continuously evolving our offerings to meet the changing needs of the medical field"
+        "text": "Continuously evolving the offering to meet the changing needs of the medical field"
       },
       "respect": {
         "title": "Respect for High Stakes",
@@ -169,7 +174,7 @@
       }
     },
     "team": {
-      "title": "Our Team",
+      "title": "Team",
       "text": "MEDITSIIN4.0 is founded by three experienced professionals:",
       "medical": {
         "title": "General Practitioner",
@@ -211,7 +216,7 @@
   },
   "offerings": {
     "header": {
-      "title": "Our Offerings",
+      "title": "Offerings",
       "subtitle": "Digitalization solutions for GP centers in Estonia"
     },
     "overview": "MEDITSIIN4.0 provides a comprehensive suite of digitalization solutions designed to enable remote work, modernize infrastructure, and optimize operations for Family Centers in Estonia.",
@@ -351,7 +356,7 @@
     },
     "cta": {
       "title": "Ready to Get Started?",
-      "text": "Learn more about our offerings and how they can benefit your GP center"
+      "text": "Learn more about the offerings and how they can benefit your GP center"
     }
   },
   "footer": {
@@ -413,7 +418,7 @@
     },
     "purpose": {
       "title": "Purpose",
-      "goal": "Our goal is to:",
+      "goal": "The goal is to:",
       "item1": "Modernize GP centers",
       "item2": "Enable secure remote and hybrid work",
       "item3": "Reduce operational complexity",
@@ -424,7 +429,7 @@
       "title": "What We Provide",
       "intro": "A single, bundled service that replaces fragmented setups with one coordinated system",
       "hardware": {
-        "title": "Hardware (Optional)",
+        "title": "Hardware",
         "description": "Monthly hardware bundle, centrally managed",
         "item1": "Laptops, monitors, and headsets provided on a monthly basis",
         "item2": "Pre-configured, encrypted, and centrally managed",
@@ -440,7 +445,7 @@
         "item4": "One responsible point of contact instead of multiple vendors"
       },
       "communication": {
-        "title": "Communication",
+        "title": "Communication Tools",
         "description": "Reduce fragmentation and informal channels",
         "item1": "Unified setup for chat, calls, and email",
         "item2": "Integration with existing platforms where possible",
@@ -554,13 +559,13 @@
     },
     "aspire": {
       "title": "We Aspire To",
-      "item1": "Make GP work more flexible and sustainable",
+      "item1": "Improve work flexibility for general practitioners",
       "item2": "Support smaller, rural, and understaffed centers",
-      "item3": "Create foundations for cross-clinic staffing and collaboration",
+      "item3": "Support cross-clinic staffing and collaboration",
       "item4": "Expand to neighbouring countries with similar healthcare systems",
-      "item5": "Enable medical professionals to work from home or remotely when appropriate, without compromising patient care or operational efficiency",
-      "item6": "Fully digitalize medical establishments with modern digital tools and processes, matching the digital transformation seen in other professional sectors",
-      "item7": "Optimize workforce through data-driven insights into wellbeing and efficiency, leading to better work-life balance and improved patient outcomes"
+      "item5": "Help medical professionals work remotely when appropriate, while maintaining patient care quality",
+      "item6": "Help medical establishments adopt modern tools and processes used in other professional fields",
+      "item7": "Use information about staff wellbeing and workload to improve working conditions and patient care"
     },
     "footer": {
       "description": "Medical center modernization for secure remote and hybrid work."

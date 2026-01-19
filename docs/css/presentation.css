@@ -1,0 +1,918 @@
+/* MEDITSIIN4.0 Presentation Custom Styles */
+/* Extends Reveal.js white theme with brand colors and styling */
+
+/* 
+ * SIZE CALCULATION EXPLANATION:
+ * 
+ * Reveal.js calculates presentation size using:
+ * - Base size: 1280px width × 720px height (16:9)
+ * - Margin: 3% (0.03) on all sides
+ * - Scaling: Automatically scales to fit viewport while maintaining aspect ratio
+ * - Min scale: 0.2 (allows down to 20% for very small screens)
+ * - Max scale: 2.0 (allows up to 200% for very large screens)
+ * 
+ * Actual viewport size = (base size) / scale
+ * Scale is calculated as: min(viewport width / (1280 + margins), viewport height / (720 + margins))
+ * 
+ * Font sizes use relative units (em) based on the base font-size (42px default),
+ * so they scale proportionally with the presentation.
+ * 
+ * Media queries adjust the base font-size for better readability on different screen sizes,
+ * which in turn scales all other elements proportionally.
+ */
+
+:root {
+    /* Brand Colors - matching main site */
+    --primary-color: #283593;
+    --primary-dark: #1a237e;
+    --secondary-color: #00c853;
+    --text-dark: #1f2937;
+    --text-light: #6b7280;
+    --bg-light: #f9fafb;
+    --bg-white: #ffffff;
+    --border-color: #e5e7eb;
+    --gradient-start: #283593;
+    --gradient-end: #00c853;
+    --gradient-angle: 135deg;
+    --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    
+    /* Font Family */
+    --font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Override Reveal.js base styles */
+.reveal {
+    font-family: var(--font-family);
+    /* Keep this modest—Reveal scales the whole deck via transforms. */
+    font-size: 24px;
+    font-weight: 400;
+    color: var(--text-dark);
+}
+
+/* Ensure sections fit properly - Reveal.js handles scaling internally */
+.reveal .slides section {
+    box-sizing: border-box;
+    /* Let Reveal.js handle sizing - don't override with !important */
+    overflow: visible;
+}
+
+/* Prevent content overflow while allowing Reveal.js scaling */
+.reveal .slides section > * {
+    box-sizing: border-box;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+    font-family: var(--font-family);
+    font-weight: 600;
+    color: var(--primary-color);
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-transform: none;
+}
+
+.reveal h1 {
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+}
+
+.reveal h2 {
+    font-size: 1.6em;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
+.reveal h3 {
+    font-size: 1.2em;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+}
+
+.reveal p {
+    margin: 0.75em 0;
+    line-height: 1.5;
+}
+
+.reveal ul,
+.reveal ol {
+    display: inline-block;
+    text-align: left;
+    margin: 0 0 0 1em;
+}
+
+.reveal li {
+    margin: 0.35em 0;
+    line-height: 1.5;
+}
+
+/* Title Slide Background */
+.title-slide-bg {
+    background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+}
+
+/* Title Slide */
+.title-slide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    color: white;
+}
+
+.title-main {
+    font-size: 2.8em !important;
+    font-weight: 800 !important;
+    margin-bottom: 0.3em !important;
+    color: white !important;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.title-tagline {
+    font-size: 1.05em;
+    font-weight: 500;
+    margin-bottom: 0.8em;
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.title-divider {
+    width: 84px;
+    height: 3px;
+    background: white;
+    margin: 0.8em auto;
+    border-radius: 2px;
+}
+
+.title-subtitle {
+    font-size: 0.9em;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.9);
+    margin-top: 0.8em;
+}
+
+/* Challenge Grid */
+.challenge-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em;
+    margin-top: 1em;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.challenge-item {
+    text-align: center;
+    padding: 0.9em;
+    background: var(--bg-light);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.challenge-item:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+}
+
+.challenge-icon {
+    font-size: 1.9em;
+    margin-bottom: 0.25em;
+}
+
+.challenge-item h3 {
+    font-size: 1.05em;
+    margin: 0.25em 0;
+    color: var(--primary-color);
+}
+
+.challenge-item p {
+    font-size: 0.85em;
+    color: var(--text-light);
+    margin: 0;
+}
+
+/* Two Column Layout */
+.two-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+    margin: 1.2em 0;
+}
+
+.column {
+    text-align: left;
+}
+
+.column ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.column li {
+    padding-left: 1.5em;
+    position: relative;
+    margin: 0.65em 0;
+}
+
+.column li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: var(--secondary-color);
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.highlight {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.conclusion-text {
+    margin-top: 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    color: var(--primary-color);
+    text-align: center;
+}
+
+/* Purpose Content */
+.purpose-content {
+    text-align: center;
+}
+
+.purpose-main {
+    margin: 1.5em 0;
+}
+
+.large-text {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: var(--primary-color);
+    margin: 0.5em 0;
+}
+
+.medium-text {
+    font-size: 1.3em;
+    font-weight: 400;
+    color: var(--text-dark);
+    margin: 0.5em 0;
+}
+
+.before-after {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2em;
+    margin: 1.5em 0;
+}
+
+.before,
+.after {
+    flex: 1;
+    max-width: 300px;
+}
+
+.before h3,
+.after h3 {
+    font-size: 1.3em;
+    margin-bottom: 1em;
+    color: var(--primary-color);
+}
+
+.fragmented-visual {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    padding: 1.5em;
+    background: var(--bg-light);
+    border-radius: 8px;
+    border: 2px dashed var(--border-color);
+}
+
+.fragmented-visual span {
+    padding: 0.5em;
+    background: white;
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: var(--text-dark);
+    box-shadow: var(--shadow);
+}
+
+.unified-visual {
+    padding: 1.5em;
+    background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+    border-radius: 8px;
+    box-shadow: var(--shadow-lg);
+}
+
+.unified-visual span {
+    color: white;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.arrow {
+    font-size: 3em;
+    color: var(--secondary-color);
+    font-weight: bold;
+}
+
+.small-text {
+    font-size: 0.9em;
+    color: var(--text-light);
+    margin-top: 0.5em;
+}
+
+.key-message {
+    font-size: 1.2em;
+    font-weight: 500;
+    color: var(--primary-color);
+    margin-top: 2em;
+}
+
+/* Service Slides */
+.service-slide {
+    text-align: center;
+}
+
+.service-icon {
+    font-size: 2.6em;
+    margin-bottom: 0.5em;
+}
+
+.service-slide h2 {
+    margin-bottom: 0.8em;
+    color: var(--primary-color);
+}
+
+.service-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.service-content ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.service-content li {
+    padding-left: 2em;
+    position: relative;
+    margin: 0.6em 0;
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+.service-content li:before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--secondary-color);
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.service-badge {
+    display: inline-block;
+    padding: 0.3em 1em;
+    background: var(--secondary-color);
+    color: white;
+    border-radius: 20px;
+    font-size: 0.8em;
+    font-weight: 600;
+    margin-bottom: 0.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Process Timeline */
+.process-timeline {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em;
+    margin: 1em 0;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.process-step {
+    text-align: center;
+    padding: 0.9em;
+    background: var(--bg-light);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    position: relative;
+}
+
+.step-number {
+    width: 44px;
+    height: 44px;
+    background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1em;
+    font-weight: 700;
+    margin: 0 auto 0.6em;
+    box-shadow: var(--shadow-lg);
+}
+
+.process-step h3 {
+    font-size: 1.05em;
+    margin: 0.35em 0;
+    color: var(--primary-color);
+}
+
+.process-step p {
+    font-size: 0.82em;
+    color: var(--text-light);
+    margin: 0.35em 0 0;
+    line-height: 1.35;
+}
+
+/* Audience Grid */
+.audience-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em;
+    margin-top: 1em;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.audience-item {
+    text-align: center;
+    padding: 0.9em;
+    background: var(--bg-light);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.audience-item:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+}
+
+.audience-icon {
+    font-size: 1.9em;
+    margin-bottom: 0.25em;
+}
+
+.audience-item h3 {
+    font-size: 1.05em;
+    margin: 0.35em 0;
+    color: var(--primary-color);
+}
+
+.audience-item p {
+    font-size: 0.82em;
+    color: var(--text-light);
+    margin: 0;
+    line-height: 1.35;
+}
+
+/* Pricing Content */
+.pricing-content {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+    margin: 1em 0;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pricing-model {
+    text-align: center;
+    padding: 1em;
+    background: var(--bg-light);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    border-top: 4px solid var(--secondary-color);
+}
+
+.pricing-icon {
+    font-size: 1.9em;
+    margin-bottom: 0.25em;
+}
+
+.pricing-model h3 {
+    font-size: 1.3em;
+    margin: 0.5em 0;
+    color: var(--primary-color);
+}
+
+.pricing-model p {
+    font-size: 1em;
+    color: var(--text-light);
+    margin: 0.5em 0 0;
+}
+
+/* Vision Grid */
+.vision-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+    margin-top: 1em;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vision-item {
+    text-align: left;
+    padding: 1em;
+    background: var(--bg-light);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    border-left: 4px solid var(--secondary-color);
+}
+
+.vision-item h3 {
+    font-size: 1.3em;
+    margin-bottom: 0.5em;
+    color: var(--primary-color);
+}
+
+.vision-item p {
+    font-size: 1em;
+    color: var(--text-dark);
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* Summary Slide Background */
+.summary-slide-bg {
+    background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+}
+
+/* Summary Slide */
+.summary-slide {
+    color: white;
+    text-align: center;
+}
+
+.summary-slide h2 {
+    color: white !important;
+    font-size: 2.1em;
+    margin-bottom: 0.8em;
+}
+
+.summary-content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em;
+    margin: 1em 0;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.summary-point {
+    padding: 1em;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.summary-point h3 {
+    color: white;
+    font-size: 1.3em;
+    margin-bottom: 0.5em;
+}
+
+.summary-point p {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 1em;
+    margin: 0;
+}
+
+.next-steps {
+    margin-top: 1.5em;
+    padding: 1.25em;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.next-steps h3 {
+    color: white;
+    font-size: 1.25em;
+    margin-bottom: 0.5em;
+}
+
+.next-steps p {
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 1em;
+    margin: 0.4em 0;
+}
+
+.contact-info {
+    margin-top: 0.8em;
+    padding-top: 0.8em;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.contact-info p {
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 1em;
+}
+
+.subtitle {
+    font-size: 1.05em;
+    color: var(--text-light);
+    font-weight: 400;
+    margin-bottom: 0.8em;
+}
+
+/* Fragment animations - ensure smooth reveals */
+.reveal .slides section .fragment {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.6s ease, visibility 0.6s ease, transform 0.6s ease;
+}
+
+.reveal .slides section .fragment.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.reveal .slides section .fragment.fade-up {
+    transform: translateY(20px);
+}
+
+.reveal .slides section .fragment.fade-up.visible {
+    transform: translateY(0);
+}
+
+/* Progress bar styling */
+.reveal .progress {
+    height: 4px;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.reveal .progress span {
+    background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+}
+
+/* Controls styling */
+.reveal .controls {
+    color: var(--primary-color);
+}
+
+.reveal .controls button {
+    color: var(--primary-color);
+}
+
+.reveal .controls button:hover {
+    color: var(--secondary-color);
+}
+
+/* Landscape orientation adjustments */
+@media (max-width: 1024px) and (orientation: landscape) {
+    .reveal {
+        font-size: 28px;
+    }
+    
+    .title-main {
+        font-size: 2.5em !important;
+    }
+    
+    /* Reduce vertical spacing in landscape */
+    .challenge-grid,
+    .audience-grid,
+    .process-timeline {
+        gap: 1em;
+    }
+    
+    .summary-content {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1em;
+    }
+}
+
+.reveal .slides section {
+    /* Let Reveal.js handle the sizing and scaling */
+    overflow: visible;
+}
+
+/* Print/PDF optimizations */
+@media print {
+    .reveal {
+        font-size: 12pt;
+    }
+    
+    .reveal .progress,
+    .reveal .controls,
+    .reveal .slide-number {
+        display: none !important;
+    }
+    
+    .reveal .slides section {
+        page-break-after: always;
+        overflow: visible !important;
+        height: auto !important;
+        padding: 0;
+    }
+    
+    .reveal .slides section .fragment {
+        opacity: 1 !important;
+        visibility: visible !important;
+        transform: none !important;
+    }
+    
+    /* Ensure print uses proper colors */
+    .title-slide-bg,
+    .summary-slide-bg {
+        background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%) !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}
+
+/* Large screens (1920px and above) - ensure content doesn't get too large */
+@media (min-width: 1920px) {
+    .reveal {
+        font-size: 28px;
+    }
+}
+
+/* Tablets and medium screens (768px - 1024px) */
+@media (max-width: 1024px) and (min-width: 769px) {
+    .reveal {
+        font-size: 22px;
+    }
+    
+    .challenge-grid,
+    .audience-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5em;
+    }
+    
+    .process-timeline {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5em;
+    }
+    
+    .title-main {
+        font-size: 2.4em !important;
+    }
+}
+
+/* Tablets in portrait and smaller tablets (max-width: 768px) */
+@media (max-width: 768px) {
+    .reveal {
+        font-size: 20px;
+    }
+    
+    .reveal .slides section {
+        padding: 0.8em;
+    }
+    
+    .challenge-grid,
+    .audience-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1em;
+    }
+    
+    .process-timeline {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1em;
+    }
+    
+    .two-column {
+        grid-template-columns: 1fr;
+        gap: 2em;
+    }
+    
+    .summary-content {
+        grid-template-columns: 1fr;
+    }
+    
+    .pricing-content,
+    .vision-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .title-main {
+        font-size: 2.1em !important;
+    }
+    
+    .service-icon,
+    .challenge-icon,
+    .audience-icon,
+    .pricing-icon {
+        font-size: 2.5em !important;
+    }
+}
+
+/* Large phones (481px - 767px) */
+@media (max-width: 767px) and (min-width: 481px) {
+    .reveal {
+        font-size: 18px;
+    }
+    
+    .challenge-grid,
+    .audience-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.8em;
+    }
+    
+    .process-timeline {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.8em;
+    }
+}
+
+/* Small phones (max-width: 480px) */
+@media (max-width: 480px) {
+    .reveal {
+        font-size: 16px;
+    }
+    
+    .reveal .slides section {
+        padding: 0.6em;
+    }
+    
+    .challenge-grid,
+    .audience-grid,
+    .process-timeline {
+        grid-template-columns: 1fr;
+        gap: 0.8em;
+    }
+    
+    .pricing-content,
+    .vision-grid,
+    .summary-content {
+        grid-template-columns: 1fr;
+        gap: 1em;
+    }
+    
+    .title-main {
+        font-size: 1.8em !important;
+    }
+    
+    .title-tagline {
+        font-size: 1.2em;
+    }
+    
+    .service-icon,
+    .challenge-icon,
+    .audience-icon,
+    .pricing-icon {
+        font-size: 2em !important;
+    }
+    
+    .step-number {
+        width: 50px;
+        height: 50px;
+        font-size: 1.2em;
+    }
+    
+    /* Reduce padding on smaller screens */
+    .challenge-item,
+    .audience-item,
+    .process-step,
+    .pricing-model,
+    .vision-item,
+    .summary-point {
+        padding: 1em;
+    }
+}
+
+/* Very small screens (max-width: 320px) */
+@media (max-width: 320px) {
+    .reveal {
+        font-size: 15px;
+    }
+    
+    .title-main {
+        font-size: 1.6em !important;
+    }
+    
+    .title-tagline {
+        font-size: 1em;
+    }
+    
+    .title-subtitle {
+        font-size: 0.9em;
+    }
+}
+

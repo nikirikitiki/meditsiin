@@ -1,0 +1,9 @@
+# Documents folder
+documents/
+
+# Cursor IDE files
+.cursor/
+.cursorrules
+.cursorignore
+cursor.json
+*.cursor
