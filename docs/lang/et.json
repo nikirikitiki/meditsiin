@@ -54,11 +54,15 @@
     },
     "problem": {
       "title": "Väljakutse",
-      "intro": "Eesti perearstikeskused seisavad silmitsi oluliste digiteerimis väljakutsetega:",
+      "intro": "Eesti perearstikeskused seisavad silmitsi oluliste digiteerimisväljakutsetega:",
       "outdated": "Vananenud arvutitaristu",
-      "noSysadmin": "Puudub süsteemiadministreerimine",
-      "fragmented": "Killustatud tarkvaralahendused",
-      "remote": "Kaugtööd rakendus on uskumatu"
+      "noSysadmin": "Puudub pühendunud süsteemiadministraator",
+      "fragmented": "Killustatud tarkvaralahendused kriitilisteks toiminguteks",
+      "remote": "Kaugtöö lahenduste kavandamine ja rakendamine tundub keeruline",
+      "staffShortages": "Arstide ja õdede nappus",
+      "noTimeVendors": "Puudub aeg mitme teenusepakkuja haldamiseks",
+      "noInternalIT": "Puudub sisemine IT-ekspertiis",
+      "limitedVisibility": "Piiratud nähtavus töökoormuse, personali heaolu ja patsientide rahulolu osas"
     },
     "solutions": {
       "title": "Lahendused",
@@ -111,7 +115,23 @@
         },
         "optimization": {
           "label": "Tööjõu optimeerimine andmete kaudu:",
-          "text": "Analüütika põhisted ülevaadeted säilivad meeskonna heaolu ja efektiivsust, mis toob parema töö- ja elutasakaalu."
+          "text": "Analüütikapõhised ülevaated aitavad hoida fookuses meeskonna heaolu ja efektiivsust ning parandada töö- ja eraelu tasakaalu."
+        },
+        "flexibility2": {
+          "label": "Muuta perearstide töö paindlikumaks ja kestlikumaks:",
+          "text": "Võimaldada perearstikeskustel töötada suurema paindlikkusega, säilitades samal ajal jätkusuutlikkuse ja ravi kvaliteedi."
+        },
+        "supportSmaller": {
+          "label": "Toetada väiksemaid, maapiirkonna ja alamehitatud keskusi:",
+          "text": "Pakkuda lahendusi, mis aitavad väiksematel ja maapiirkonna perearstikeskustel tulla toime personali nappuse ja piiratud ressurssidega."
+        },
+        "crossClinic": {
+          "label": "Luua alus kliinikute üleseks personali kasutuseks ja koostööks:",
+          "text": "Rajada taristu, mis võimaldab tervishoiutöötajatel töötada mitmes kliinikus ja teha tõhusat koostööd."
+        },
+        "expandCountries": {
+          "label": "Laieneda naaberriikidesse sarnase tervishoiusüsteemiga:",
+          "text": "Viia meie lahendused ka teistesse riikidesse, kus tervishoiusüsteem on Eestiga sarnane ja seisab silmitsi samade väljakutsetega."
         }
       }
     },
